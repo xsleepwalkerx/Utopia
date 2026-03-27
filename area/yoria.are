@@ -1,0 +1,469 @@
+#AREADATA
+Name        Yoria - Feudal City~
+Builders    Imms~
+VNUMs       4000 4499
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#4000
+samurai warrior~
+A Samurai Warrior~
+One of the Emperor's samurai is here roaming the area.
+~
+Looking out for ronin, people who had betray the empire,
+this samurai swear on his veyr life that he will bring
+them down.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#4001
+daramon priest~
+A Daramon Priest~
+You gasp in awe at one of the keepers of the sword.
+~
+Safeguarding the sword till the end of times, this monk
+meditates for an answer among answers.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+#ROOMS
+#4000
+Grassy hill~
+Venturing up this desolate hill a sign stands written in an ancient language. 
+Translated it means enter the sacred kingdom of the Samurai/Daramon and face 
+a swift death.
+~
+0 0 3
+D0
+~
+~
+0 -1 20232
+D4
+~
+~
+0 -1 4001
+S
+#4001
+City Gates~
+Standing at the outskirts of this ancient town you see men meditating of this 
+past and present.
+~
+0 0 3
+D0
+~
+~
+0 -1 4002
+D5
+~
+~
+0 -1 4000
+S
+#4002
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D0
+~
+~
+0 -1 4003
+D2
+~
+~
+0 -1 4001
+S
+#4003
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D1
+~
+~
+0 -1 4004
+D2
+~
+~
+0 -1 4002
+S
+#4004
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D1
+~
+~
+0 -1 4005
+D3
+~
+~
+0 -1 4003
+S
+#4005
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D3
+~
+~
+0 -1 4004
+D5
+~
+~
+0 -1 4006
+S
+#4006
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D4
+~
+~
+0 -1 4005
+D5
+~
+~
+0 -1 4007
+S
+#4007
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D1
+~
+~
+0 -1 4008
+D4
+~
+~
+0 -1 4006
+S
+#4008
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D3
+~
+~
+0 -1 4007
+D4
+~
+~
+0 -1 4009
+S
+#4009
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D4
+~
+~
+0 -1 4010
+D5
+~
+~
+0 -1 4008
+S
+#4010
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D0
+~
+~
+0 -1 4011
+D5
+~
+~
+0 -1 4009
+S
+#4011
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D1
+~
+~
+0 -1 4012
+D2
+~
+~
+0 -1 4010
+S
+#4012
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D1
+~
+~
+0 -1 4013
+D3
+~
+~
+0 -1 4011
+S
+#4013
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D2
+~
+~
+0 -1 4014
+D3
+~
+~
+0 -1 4012
+S
+#4014
+A winding road~
+The sharp twists and turns in this road makes you wonder who in their right minds 
+would travel upon them.
+~
+0 0 3
+D0
+~
+~
+0 -1 4013
+D4
+~
+~
+0 -1 4015
+S
+#4015
+Enter at your risk~
+If you have gotten this far you are now into this kingdom of power. May God be with 
+you on this an important journey.
+~
+0 0 3
+D0
+~
+~
+0 -1 4016
+D5
+~
+~
+0 -1 4014
+S
+#4016
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D1
+~
+~
+0 -1 4017
+D2
+~
+~
+0 -1 4015
+S
+#4017
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D1
+~
+~
+0 -1 4018
+D3
+~
+~
+0 -1 4016
+S
+#4018
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D1
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4017
+S
+#4019
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 4020
+D3
+~
+~
+0 -1 4018
+S
+#4020
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 4021
+D2
+~
+~
+0 -1 4019
+S
+#4021
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 4022
+D2
+~
+~
+0 -1 4020
+S
+#4022
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 4023
+D2
+~
+~
+0 -1 4021
+S
+#4023
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 4024
+D2
+~
+~
+0 -1 4022
+S
+#4024
+Broad forest path~
+All around you can feel the power coming from these trained warriors of Buddha as they 
+practice their skills.
+~
+0 0 3
+D3
+~
+~
+0 -1 4500
+D2
+~
+~
+0 -1 4023
+D4
+~
+~
+0 -1 4026
+D5
+~
+~
+0 -1 4025
+S
+#4026
+The Blessed Bank~
+The trained and powerful warriors of Buddha come here to ensure that they have not only
+fortunes in Heaven but also on Earth.
+~
+0 0 3
+D5
+~
+~
+0 -1 4024
+S
+#4025
+The Blessed Tavern~
+One and all of Buddha's worshippers gather here together to be blessed with each others
+company.
+~
+0 0 3
+D4
+~
+~
+0 -1 4024
+D0
+~
+~
+0 -1 4027
+S
+#4027
+The Resting Place~
+One and all of Buddha's worshippers gather here to rest their tired feet from a hard days
+training.
+~
+0 0 3
+D2
+~
+~
+0 -1 4025
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+S
+
+#$

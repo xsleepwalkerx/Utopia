@@ -1,0 +1,408 @@
+#AREADATA
+Name        Isle Of The Gods~
+Builders    The Imms~
+VNUMs       20500 20999
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#20500
+lava fiend~
+A Lava Fiend~
+A large warrior stands here made of molten lava.
+~
+Here is a loyal warrior of Takhisis patrolling with sword
+drawn ready to kill all who wish to harm the Queen Of
+Darkness.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20501
+fire daemon~
+A Fire Daemon~
+A demon is here formed from fire.
+~
+Loyally patrolling these hallowed grounds this demon is
+not one to be messed with.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20502
+ice bandit~
+A Ice Bandit~
+A large warrior stands here.
+~
+Looking for those who dare interfere with the peace of
+this isle this warrior has his sword unsheathed.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20503
+frozen yeti~
+A Frozen Yeti~
+A huge warrior is here.
+~
+Patrolling for any signs of disturbance or disloyalty this
+trained warrior walks aimlessly around.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20504
+lesser fiend~
+A Lesser Fiend~
+A vile creature is here.
+~
+This vile warrior trained by the Dark Queen herself
+is here to quell any outbreaks of violence.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20505
+shard~
+A Shard~
+A sharp piece of glass hovers here.
+~
+If you show any disrespect to the Gods of this Isle this
+warrior will slit your throat.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#20500
+Ice Palace~
+You shiver uncontrolable as icy shadows flitter past you with swords drawn to protect the Queen Shiva.
+~
+0 0 10
+D0
+~
+~
+0 -1 20501
+S
+#20501
+Frigid Caves~
+You shiver uncontrolable as icy shadows flitter past you with swords drawn to protect the Queen Shiva.
+~
+0 0 10
+D2
+~
+~
+0 -1 20500
+D1
+~
+~
+0 -1 20502
+S
+#20502
+Ice Palace~
+You shiver uncontrolable as icy shadows flitter past you with swords drawn to protect the Queen Shiva.
+~
+0 0 10
+D3
+~
+~
+0 -1 20501
+D1
+~
+~
+0 -1 20503
+S
+#20503
+Frigid Caves~
+You shiver uncontrolable as icy shadows flitter past you with swords drawn to protect the Queen Shiva.
+~
+0 0 10
+D2
+~
+~
+0 -1 20504
+D3
+~
+~
+0 -1 20502
+S
+#20504
+Ice Palace~
+You shiver uncontrolable as icy shadows flitter past you with swords drawn to protect the Queen Shiva.
+~
+0 0 10
+D0
+~
+~
+0 -1 20503
+D2
+~
+~
+0 -1 20505
+S
+#20505
+Frigid Caves~
+You shiver uncontrolable as icy shadows flitter past you with swords drawn to protect the Queen Shiva.
+~
+0 0 10
+D0
+~
+~
+0 -1 20504
+D5
+~
+~
+0 -1 20506
+S
+#20506
+Lava Pit~
+Daemons and wizards all under Lord Ifrit's command bustle to and fro waiting to prove their worth to their Lord and Master.
+~
+0 0 1
+D4
+~
+~
+0 -1 20505
+D3
+~
+~
+0 -1 20507
+S
+#20507
+Fire Chambers~
+Daemons and wizards all under Lord Ifrit's command bustle to and fro waiting to prove their worth to their Lord and Master.
+~
+0 0 1
+D0
+~
+~
+0 -1 20508
+D1
+~
+~
+0 -1 20506
+S
+#20508
+Lava Pit~
+Daemons and wizards all under Lord Ifrit's command bustle to and fro waiting to prove their worth to their Lord and Master.
+~
+0 0 1
+D0
+~
+~
+0 -1 20509
+D2
+~
+~
+0 -1 20507
+S
+#20509
+Lava Pit~
+Daemons and wizards all under Lord Ifrit's command bustle to and fro waiting to prove their worth to their Lord and Master.
+~
+0 0 1
+D1
+~
+~
+0 -1 20510
+D2
+~
+~
+0 -1 20508
+S
+#20510
+Fire Chambers~
+Daemons and wizards all under Lord Ifrit's command bustle to and fro waiting to prove their worth to their Lord and Master.
+~
+0 0 1
+D1
+~
+~
+0 -1 20511
+D3
+~
+~
+0 -1 20509
+S
+#20511
+Lava Pit~
+Daemons and wizards all under Lord Ifrit's command bustle to and fro waiting to prove their worth to their Lord and Master.
+~
+0 0 1
+D3
+~
+~
+0 -1 20510
+D5
+~
+~
+0 -1 20512
+S
+#20512
+Final Hell~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D4
+~
+~
+0 -1 20511
+D5
+~
+~
+0 -1 20513
+S
+#20513
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D4
+~
+~
+0 -1 20512
+D2
+~
+~
+0 -1 20514
+S
+#20514
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20513
+D2
+~
+~
+0 -1 20515
+S
+#20515
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20514
+D2
+~
+~
+0 -1 20516
+S
+#20516
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20515
+D2
+~
+~
+0 -1 20517
+S
+#20517
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20516
+D2
+~
+~
+0 -1 20518
+S
+#20518
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20517
+D2
+~
+~
+0 -1 20519
+S
+#20519
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20518
+D2
+~
+~
+0 -1 20520
+S
+#20520
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D0
+~
+~
+0 -1 20519
+D1
+~
+~
+0 -1 20521
+D3
+~
+~
+0 -1 20522
+S
+#20522
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D1
+~
+~
+0 -1 20520
+S
+#20521
+Dark Wastes~
+Standing in this world filled with death one instantly realises why Quenn Takhisis rules with an iron fist. With fire daemons and lava fiends rushing to do her every bidding no one dare oppose her.
+~
+0 0 1
+D3
+~
+~
+0 -1 20520
+S
+#0
+
+#RESETS
+S
+
+
+#$

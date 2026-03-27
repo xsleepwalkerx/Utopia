@@ -1,0 +1,1366 @@
+#AREADATA
+Name        Camelot~
+Builders    Imms~
+VNUMs       2500 2999
+Security    9
+Recall      3001
+Land        0
+End
+
+
+
+#MOBILES
+#2500
+gold knight~
+A Knight of the Gold~
+A powerful knight in gold armor makes his rounds across the room.
+~
+This powerful knight in dazzling gold armor is here standing
+proudly protecting the castle against all intruders.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#2501
+paladin holy knight~
+A Paladin~
+A knight of the word is here spreading the Light.
+~
+Protectors of the Holy Word, this paladin and the rest of his
+brethen swore an oath that they will defend this legendary
+castle against all enemies.
+~
+1 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#2502
+knight emeralda~
+Lady Emeralda~
+You sense an aura of radiance deriving from this knight.
+~
+Protectors of the Holy Word, this lady is the king's champion.
+A master of the Holy Sword technique, she is ready to protect
+the king at all costs.
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#2503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+3 0 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#2504
+knight templar~
+A Knight Templar~
+This robed figure has arrived from the Holy Church to help his fellow knights.
+~
+One of the mystical temple knights, this follower of God is here to cast
+various protective spells on the Knights of the Round.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#2505
+knight~
+A Sparring Knight~
+An old knight is here waiting to spar with you.
+~
+This old knight is your weapon trainer, granted by the king himself
+to teach you how to use your weapons.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#2500
+The Golden Drawbridge~
+At the footstep of this magnificant castle, you heard
+the soft chirping of birds as the sun shines down on your 
+face. As the drawbridge lowers down for you, You can see
+the layout of inside of this gorgeous castle.
+~
+0 0 0
+D0
+~
+~
+0 -1 2501
+D2
+~
+~
+0 -1 2029
+S
+#2501
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2502
+D1
+~
+~
+0 -1 2503
+D2
+~
+~
+0 -1 2500
+S
+#2502
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2504
+D1
+~
+~
+0 -1 2501
+S
+#2504
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2505
+D1
+~
+~
+0 -1 2502
+S
+#2505
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2506
+D3
+~
+~
+0 -1 2507
+D1
+~
+~
+0 -1 2502
+S
+#2506
+The Invasion Room~
+This room is filled with swords, axes, daggers for the Knights
+of the Round. Picking up a Huge lance and admiring it quality
+and craftsmanship, you put it back down as you gaze at a statue
+of the king in the background. Taking a closer look, a mystical 
+book flies towards your hands waiting to be read.
+~
+0 0 0
+T
+soldier~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 4500 0
+T
+forsaken~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 16500 0
+T
+underworld~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 3500 0
+D2
+~
+~
+0 -1 2505
+S
+#2507
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2508
+D1
+~
+~
+0 -1 2505
+S
+#2508
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2509
+D1
+~
+~
+0 -1 2507
+D2
+~
+~
+0 -1 2510
+S
+#2510
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2508
+D2
+~
+~
+0 -1 2511
+S
+#2511
+A Meeting Room~
+A huge circular table lies in the middle of the room surrounded
+with a series of chairs. This is one of the places where the 
+knights of the round goes to confer their strageties for their
+next action.
+~
+0 0 0
+D0
+~
+~
+0 -1 2509
+S
+#2509
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2512
+D2
+~
+~
+0 -1 2508
+S
+#2512
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2513
+D2
+~
+~
+0 -1 2509
+S
+#2513
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2514
+D1
+~
+~
+0 -1 2515
+D2
+~
+~
+0 -1 2512
+S
+#2514
+A Meeting Room~
+A huge circular table lies in the middle of the room surrounded
+with a series of chairs. This is one of the places where the 
+knights of the round goes to confer their strageties for their
+next action.
+~
+0 0 0
+D2
+~
+~
+0 -1 2513
+S
+#2503
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2501
+D1
+~
+~
+0 -1 2516
+S
+#2516
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2503
+D1
+~
+~
+0 -1 2517
+S
+#2517
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2518
+D3
+~
+~
+0 -1 2516
+D1
+~
+~
+0 -1 2519
+S
+#2518
+The Armory~
+This room is filled with helms, sleeves, breastplates for the Knights
+of the Round. Picking up a Huge gauntlet and admiring it quality
+and craftsmanship, you put it back down as you gaze at a statue
+of the king in the background.
+~
+0 0 0
+D2
+~
+~
+0 -1 2517
+S
+#2519
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2517
+D1
+~
+~
+0 -1 2520
+S
+#2520
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2522
+D3
+~
+~
+0 -1 2519
+D2
+~
+~
+0 -1 2521
+S
+#2521
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2520
+D2
+~
+~
+0 -1 2523
+S
+#2523
+A Meeting Room~
+A huge circular table lies in the middle of the room surrounded
+with a series of chairs. This is one of the places where the 
+knights of the round goes to confer their strageties for their
+next action.
+~
+0 0 0
+D0
+~
+~
+0 -1 2521
+S
+#2522
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2524
+D2
+~
+~
+0 -1 2520
+S
+#2524
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2525
+D2
+~
+~
+0 -1 2522
+S
+#2525
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2526
+D3
+~
+~
+0 -1 2527
+D2
+~
+~
+0 -1 2524
+S
+#2526
+A Meeting Room~
+A huge circular table lies in the middle of the room surrounded
+with a series of chairs. This is one of the places where the 
+knights of the round goes to confer their strageties for their
+next action.
+~
+0 0 0
+D0
+~
+~
+0 -1 2525
+S
+#2527
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2528
+D1
+~
+~
+0 -1 2525
+S
+#2528
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2530
+D3
+~
+~
+0 -1 2529
+D1
+~
+~
+0 -1 2527
+S
+#2530
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going up to the 1st floor and down to the basement.
+~
+0 0 0
+D2
+~
+~
+0 -1 2528
+D4
+~
+~
+0 -1 2531
+D5
+~
+~
+0 -1 2532
+S
+#2529
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2534
+D3
+~
+~
+0 -1 2533
+D1
+~
+~
+0 -1 2528
+S
+#2534
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2535
+D2
+~
+~
+0 -1 2529
+S
+#2535
+The Dusty CourtYard~
+Knights of the Round use this huge courtyard to hone in
+their various weapon skills with a powerful trainer.
+~
+0 0 0
+D2
+~
+~
+0 -1 2534
+S
+#2533
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D0
+~
+~
+0 -1 2537
+D3
+~
+~
+0 -1 2515
+D1
+~
+~
+0 -1 2529
+S
+#2537
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going up to the 1st floor and down to the basement.
+~
+0 0 0
+D2
+~
+~
+0 -1 2533
+D4
+~
+~
+0 -1 2538
+D5
+~
+~
+0 -1 2539
+S
+#2515
+The Glittering Corrider~
+A well embroided carpet is here beneath your feet as you walk
+across the room, admiring the well detailed paintings of
+past kings and ivory statues of the SorceresS.
+~
+0 0 0
+D3
+~
+~
+0 -1 2513
+D1
+~
+~
+0 -1 2533
+S
+#2531
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going down to the ground floor.
+~
+0 0 0
+D5
+~
+~
+0 -1 2530
+D2
+~
+~
+0 -1 2540
+S
+#2538
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going down to the ground floor.
+~
+0 0 0
+D5
+~
+~
+0 -1 2537
+D2
+~
+~
+0 -1 2541
+S
+#2541
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2538
+D1
+~
+~
+0 -1 2542
+S
+#2540
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2531
+D3
+~
+~
+0 -1 2542
+S
+#2542
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D2
+~
+~
+0 -1 2543
+D1
+~
+~
+0 -1 2540
+D3
+~
+~
+0 -1 2541
+S
+#2543
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D2
+~
+~
+0 -1 2544
+D0
+~
+~
+0 -1 2542
+S
+#2544
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D2
+~
+~
+0 -1 2545
+D0
+~
+~
+0 -1 2543
+S
+#2545
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D2
+~
+~
+0 -1 2546
+D3
+~
+~
+0 -1 2547
+D1
+~
+~
+0 -1 2548
+D0
+~
+~
+0 -1 2544
+S
+#2548
+The Room of Healing~
+In this small cozy room lies the sanctuary of the Temple Knight,
+who comes every now and then to lend their mysterious powers
+to their fellow brethen.
+~
+0 0 0
+D3
+~
+~
+0 -1 2545
+S
+#2547
+The Room of Regenning~
+Branded so by the king because of its powerful regenning powers,
+Knights of the round come here to rejuverate their rounds.
+~
+0 0 0
+D1
+~
+~
+0 -1 2545
+S
+#2546
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2545
+D2
+~
+~
+0 -1 2549
+S
+#2549
+The Palish PassageWay~
+A swiral of palish energy whizzes across your body ligthening
+up the small passageway of this floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2546
+D2
+~
+~
+0 -1 2550
+S
+#2550
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going up to the 2nd floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2549
+D4
+~
+~
+0 -1 2551
+S
+#2551
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going down to the 1st floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2552
+D5
+~
+~
+0 -1 2550
+S
+#2552
+The Glass Corridor~
+Made from a highly transparent glass that reflects everything
+in the room. This corridor represents the two sides of Good and
+Evil as it spirals down into the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 2553
+D2
+~
+~
+0 -1 2550
+S
+#2553
+The Glass Corridor~
+Made from a highly transparent glass that reflects everything
+in the room. This corridor represents the two sides of Good and
+Evil as it spirals down into the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 2554
+D2
+~
+~
+0 -1 2552
+S
+#2554
+The Glass Corridor~
+Made from a highly transparent glass that reflects everything
+in the room. This corridor represents the two sides of Good and
+Evil as it spirals down into the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 2555
+D3
+~
+~
+0 -1 2556
+D1
+~
+~
+0 -1 2557
+D2
+~
+~
+0 -1 2553
+S
+#2556
+The Ancient Library~
+Filled with all sort of books on Utopia's History, this
+is where the Knights of the Round go to make references
+to previous historical data for recommendation on some
+of their future actions.
+~
+0 0 0
+D1
+~
+~
+0 -1 2554
+S
+#2557
+The Ancient Library~
+Filled with all sort of books on Utopia's History, this
+is where the Knights of the Round go to make references
+to previous historical data for recommendation on some
+of their future actions.
+~
+0 0 0
+D3
+~
+~
+0 -1 2554
+S
+#2555
+The Glass Corridor~
+Made from a highly transparent glass that reflects everything
+in the room. This corridor represents the two sides of Good and
+Evil as it spirals down into the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 2558
+D2
+~
+~
+0 -1 2554
+S
+#2558
+The Glass Corridor~
+Made from a highly transparent glass that reflects everything
+in the room. This corridor represents the two sides of Good and
+Evil as it spirals down into the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 2559
+D2
+~
+~
+0 -1 2555
+S
+#2559
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going up to the throne room.
+~
+0 0 0
+D2
+~
+~
+0 -1 2558
+D4
+~
+~
+0 -1 2560
+S
+#2560
+The Throne Room of Destiny~
+In this huge sparkling room lies the legendary throne of
+Camelot. Guarded by the king's champion, this is where the
+ruler of this powerful kingdom makes all of his rulings and actions 
+with fellow princes and princesses.
+~
+0 0 0
+D5
+~
+~
+0 -1 2559
+S
+#2539
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going up to the ground floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2561
+D4
+~
+~
+0 -1 2537
+S
+#2532
+The Grand StairCase~
+As you enter this room, you notice sparkling crystal stairs
+going up to the ground floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 2562
+D4
+~
+~
+0 -1 2530
+S
+#2562
+The Gloomy Corridor~
+In this dark room, you stumble across the shadows making
+your way to nearest light in front of you.
+~
+0 0 0
+D2
+~
+~
+0 -1 2532
+D3
+~
+~
+0 -1 2563
+S
+#2561
+The Gloomy Corridor~
+In this dark room, you stumble across the shadows making
+your way to nearest light in front of you.
+~
+0 0 0
+D2
+~
+~
+0 -1 2532
+D1
+~
+~
+0 -1 2563
+S
+#2563
+The Gloomy Corridor~
+In this dark room, you stumble across the shadows making
+your way to nearest light in front of you.
+~
+0 0 0
+D0
+~
+~
+0 -1 2564
+D1
+~
+~
+0 -1 2562
+D3
+~
+~
+0 -1 2561
+S
+#2564
+The Gloomy Corridor~
+In this dark room, you stumble across the shadows making
+your way to nearest light in front of you.
+~
+0 0 0
+D0
+~
+~
+0 -1 2565
+D2
+~
+~
+0 -1 2563
+S
+#2565
+The Barracks~
+In this large room is where the Knights of the Round sleep
+after their stressful day in protecting Camelot. It have
+a series of bonks perfectly lined up side by side with a
+small table and candle light for each one.
+~
+0 0 0
+D0
+~
+~
+0 -1 2566
+D1
+~
+~
+0 -1 2567
+D2
+~
+~
+0 -1 2564
+S
+#2566
+The Barracks~
+In this large room is where the Knights of the Round sleep
+after their stressful day in protecting Camelot. It have
+a series of bonks perfectly lined up side by side with a
+small table and candle light for each one.
+~
+0 0 0
+D1
+~
+~
+0 -1 2568
+D2
+~
+~
+0 -1 2565
+S
+#2567
+The Barracks~
+In this large room is where the Knights of the Round sleep
+after their stressful day in protecting Camelot. It have
+a series of bonks perfectly lined up side by side with a
+small table and candle light for each one.
+~
+0 0 0
+D0
+~
+~
+0 -1 2568
+D3
+~
+~
+0 -1 2565
+S
+#2568
+The Barracks~
+In this large room is where the Knights of the Round sleep
+after their stressful day in protecting Camelot. It have
+a series of bonks perfectly lined up side by side with a
+small table and candle light for each one.
+~
+0 0 0
+D3
+~
+~
+0 -1 2566
+D2
+~
+~
+0 -1 2567
+D5
+~
+~
+0 -1 2569
+S
+#2569
+The Gloomy Corridor~
+In this dark room, you stumble across the shadows making
+your way to nearest light in front of you.
+~
+0 0 0
+D4
+~
+~
+0 -1 2568
+D5
+~
+~
+0 -1 2570
+S
+#2570
+The Gloomy Corridor~
+In this dark room, you stumble across the shadows making
+your way to nearest light in front of you.
+~
+0 0 0
+D4
+~
+~
+0 -1 2569
+D5
+~
+~
+0 -1 2571
+S
+#2571
+Entrance to the Prison~
+Beneath the sparkling crystal and jewels of Camelot lies a
+dark side. This dark side is the home of the criminals and
+heretics who defy the will of Camelot.
+~
+0 0 0
+D4
+~
+~
+0 -1 2570
+D3
+~
+~
+0 -1 2572
+S
+#2572
+The Prison~
+Beneath the sparkling crystal and jewels of Camelot lies a
+dark side. This dark side is the home of the criminals and
+heretics who defy the will of Camelot.
+~
+0 0 0
+D1
+~
+~
+0 -1 2571
+D3
+~
+~
+0 -1 2573
+S
+#2573
+The Prison~
+Beneath the sparkling crystal and jewels of Camelot lies a
+dark side. This dark side is the home of the criminals and
+heretics who defy the will of Camelot.
+~
+0 0 0
+D1
+~
+~
+0 -1 2572
+D0
+~
+~
+0 -1 2574
+D2
+~
+~
+0 -1 2575
+S
+#2575
+The Prison~
+Beneath the sparkling crystal and jewels of Camelot lies a
+dark side. This dark side is the home of the criminals and
+heretics who defy the will of Camelot.
+~
+0 0 0
+D0
+~
+~
+0 -1 2573
+S
+#2574
+The Jail Cell~
+Beneath the sparkling crystal and jewels of Camelot lies a
+dark side. This dark side is the home of the criminals and
+heretics who defy the will of Camelot.
+~
+0 0 0
+D2
+~
+~
+0 -1 2573
+S
+#0
+
+
+#SPECIALS
+M 2500 spec_kguard_two Load to: Hooded Hunter
+M 2501 spec_kguard_two Load to: Hooded Hunter
+M 2502 spec_kguard_two Load to: Hooded Hunter
+M 2503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+
+#RESETS
+M 0 2503 1 2574
+M 0 2500 2 2500
+M 0 2500 2 2500
+M 0 2501 7 2501
+M 0 2501 7 2510
+M 0 2501 7 2520
+M 0 2501 7 2530
+M 0 2501 7 2540
+M 0 2501 7 2550
+M 0 2501 7 2560
+M 0 2502 1 2574
+S
+
+
+#SHOPS
+0
+
+
+
+#$

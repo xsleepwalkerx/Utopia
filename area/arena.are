@@ -1,0 +1,2495 @@
+#AREADATA
+Name        Arena~
+Builders    Imms~
+VNUMs       550 629
+Security    3
+Recall      0
+Land        0
+End
+
+
+
+#MOBILES
+#500
+enrollment officer man~
+An enrollment officer~
+A young, disgruntled person sits here, scribbling away on his desk.
+~
+As the official enrollment officer of the King of Fighters tournaments, this 
+descendent of Sir Leonheart does his best to make sure that only those who 
+meet the strict requirements for the greatest fights on earth be allowed to
+step through the doors behind him.
+~
+131075 136 0 S
+1000 0 0 -100d20+3 0d0+0
+0 0
+0 0 1
+#550
+seifer figure arena1~
+Seifer~
+A young figure in a trench coat is leaning on his gunblade.
+~
+This Paladin knows no remorse. As the proclaimed SorceresS' Knight, he
+will do anything to defend her honour, even if it means his very death.
+But with wielding "Lionheart", the Legendary Gunblade - he will be a 
+match for anyone.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#551
+drizzt do'urden arena2~
+Drizzt Do'urden~
+This renegade drow is here running for his life.
+~
+One of the most powerful drows ever, Drizzt at one time was
+considered to be made the first Patron by Lolth herself. However,
+for some unknown reason, he betrayed the drows and is now running
+for his very life.
+~
+3 136 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#552
+andria braveheart arena3~
+Andria Braveheart~
+This slender knight stands here proudly.
+~
+A descendant of Lancelot, Andria vows to destroy evil and even though
+she is young, she trains very hard to make her ancestors proud.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#553
+tyrael arena4~
+Tyrael~
+You cover your eyes from the brilliant light radiating from this winged figure.
+~
+Archangel of the Divine Heavens, Tyrael is here for no other reason but to
+test mankind's strength in their upcoming battles vs the forces of evil.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#554
+terry bogard arena5~
+Terry Bogard~
+A very lean and powerful being stands here saying 'Come on Come on!'
+~
+Always craving for a challenge, the Lone Wolf ventures to this tournament
+year after year to see who is the best, and to show that he is better
+than all the rest.
+~
+3 136 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#555
+krizalid arena6~
+Krizalid~
+A powerful man fully cladded in black armor is here cackling with glee.
+~
+One of the Legendary Kuruda Assassins, Krizalid is on a never ending
+mission to find the betrayer of his clan - Iori. Vowing to do whatever
+it takes, his reasons for participating in this competition are currently
+unknown.
+~
+3 136 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#556
+octavius toreador arena7~
+Octavius Toreador~
+The last of the Toreador bloodline and leader of the vampires stands here.
+~
+The only reason why Octavious is here, is because of the good food that
+is offer to all KoF participants...
+~
+3 136 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#557
+dole braveheart arena8~
+Dole Braveheart~
+This slender knight stands here proudly.
+~
+A descendant of Lancelot, Dole vows to destroy evil and even though
+he is young, he trains very hard to make her ancestors proud.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#558
+big joe arena9~
+Big Joe~
+You gasp in amazement as a massive man towers above you.
+~
+One of the most popular combantants ever to face the ring, Big Joe has
+what it takes to get the crowd go wild... especially on his opponents.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#559
+ron arenax~
+Ron~
+You barely see a flicker sparkling from the shadows.
+~
+Man... Woman... Beast...? Noone knows what this ninja's true purpose
+in the tournament is... but let it be known that this assassin from Nests
+isn't here for site seeing...
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#560
+kasumi arenay~
+Kasumi~
+Your mouth drop to the ground from the sight of this bombshell.
+~
+No doubt one of the most beautiful women on the planet, this ninja's
+only flaw is the piercing coldness from her eyes... The only thing
+known about her is her involvements with the assassin known as
+Ron.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#561
+dante arenaz~
+Dante~
+You see a flicker of light coming from a pitch black figure.
+~
+He is known as the son of the Dark Knight... Forever loathed dued to his
+actions in hell, Dante just like his father had single handedly disrupted
+the very foundations preventing an earth invasion for ages... Now he is
+here to prove how he had done it.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#562
+andy bogard arenac~
+Andy Bogard~
+The younger brother of Terry Bogard is here to show his strength.
+~
+Always seen as relying on the "Lone Wolf's" strength, Andy lived
+a carefree life of a sheltered kid. However, like most brotherly
+rivarly, he wants to prove he can fend for his own. So he had
+mastered the arts of ninjitsu and shaolin to show once and for all,
+that the hungry Wolf can be beaten.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#563
+zero kuruda assassin arenaa~
+Zero~
+An middle age man fully cladded in black armor is staring into the distance.
+~
+The leader of Legendary Kuruda Assassins, Zero's role is quite unknown.
+A scientist in his former life, he had stumbled onto an ancient power
+and with the help of Krizalid, he had discarded all that he had loved for
+the power... and the insanity.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#564
+kyo kusanagi arenab~
+Kyo Kusanagi~
+This handsome human is here holding a scarf as he stares into the sky.
+~
+Proclaimed as the greatest fighter who had ever lived by many of his
+peers and alot of his rivals, Kyo is a young no-nonense man in his
+dedication against the war with demons. Losing his parents to the
+demonic horde at his twenties, he vowed to make all demons pay...
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#565
+ryo sakazaki arenad~
+Ryo Sakazaki~
+The legendary possesser of the Invincible Dragon stands before you.
+~
+Under orders by his father not to display his true powers, Ryo
+is here to prove he can beat anyone with his normal techniques.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#566
+k' arenae~
+K'~
+A powerful man fully cladded in grey is staring at you from his dark shades.
+~
+Refusing to speak to anyone, K' is here for one reason only... to defeat Kyo
+and prove he is the best fighter EVER!
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#567
+robbie singer arenaf~
+Robbie Williams~
+Britain's most popular popstar is standing here proudly.
+~
+Signing autographs while rocking the mike for his millions of fans, Robbie is
+here to introduce the Dance phase to Utopia.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#568
+shadow demon~
+Shadow Demon~
+It seems the very shadows themselves are fighting for your soul.
+~
+VERY powerful demons from the netherworld, these unholy beings are here to
+leech the very spiritual essence from the world's greatest fighters - in
+other words... YOU!
+~
+3 136 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#569
+guardian~
+The Guardian~
+A MASSIVE man is here guarding the entrance to the inner chambers.
+~
+Proclaimed as the legendary sword keeper, this warrior will do whatever
+it takes to keep the forces of hell from coming out... as well as anyone
+else who wants to go in.
+~
+3 136 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#570
+jaggar~
+Jaggar~
+The last thing you see was a blur moving towards you.
+~
+Noted as the Angel of Death, there isn't one person alive who can withstand
+an attack from his famed daggers... But fortunately for the world, his interest
+in money and politics is quite saturated... All he cares about is the protection
+of a loved one...
+~
+1 136 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#550
+Laboratory L 00~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 555
+D1
+~
+~
+0 -1 551
+D4
+~
+~
+0 -1 570
+S
+#551
+Laboratory L 01~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 556
+D1
+~
+~
+0 -1 552
+D3
+~
+~
+0 -1 550
+D4
+~
+~
+0 -1 571
+S
+#552
+Laboratory L 02~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 557
+D1
+~
+~
+0 -1 553
+D3
+~
+~
+0 -1 551
+D4
+~
+~
+0 -1 572
+S
+#553
+Laboratory L 03~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 558
+D1
+~
+~
+0 -1 554
+D3
+~
+~
+0 -1 552
+D4
+~
+~
+0 -1 573
+S
+#554
+Laboratory L 04~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 559
+D3
+~
+~
+0 -1 553
+D4
+~
+~
+0 -1 574
+S
+#555
+Laboratory L 10~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 560
+D1
+~
+~
+0 -1 556
+D2
+~
+~
+0 -1 550
+D4
+~
+~
+0 -1 575
+S
+#556
+Laboratory L 11~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 561
+D1
+~
+~
+0 -1 557
+D2
+~
+~
+0 -1 551
+D3
+~
+~
+0 -1 555
+D4
+~
+~
+0 -1 576
+S
+#557
+Laboratory L 12~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 562
+D1
+~
+~
+0 -1 558
+D2
+~
+~
+0 -1 552
+D3
+~
+~
+0 -1 556
+D4
+~
+~
+0 -1 577
+S
+#558
+Laboratory L 13~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 563
+D1
+~
+~
+0 -1 559
+D2
+~
+~
+0 -1 553
+D3
+~
+~
+0 -1 557
+D4
+~
+~
+0 -1 578
+S
+#559
+Laboratory L 14~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 564
+D3
+~
+~
+0 -1 558
+D2
+~
+~
+0 -1 554
+D4
+~
+~
+0 -1 579
+S
+#560
+Laboratory L 20~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 565
+D1
+~
+~
+0 -1 561
+D2
+~
+~
+0 -1 555
+D4
+~
+~
+0 -1 580
+S
+#561
+Laboratory L 21~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 566
+D1
+~
+~
+0 -1 562
+D3
+~
+~
+0 -1 560
+D2
+~
+~
+0 -1 556
+D4
+~
+~
+0 -1 581
+S
+#562
+Laboratory L 22~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 567
+D2
+~
+~
+0 -1 557
+D1
+~
+~
+0 -1 563
+D3
+~
+~
+0 -1 561
+D4
+~
+~
+0 -1 582
+S
+#563
+Laboratory L 23~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 568
+D2
+~
+~
+0 -1 558
+D1
+~
+~
+0 -1 564
+D3
+~
+~
+0 -1 562
+D4
+~
+~
+0 -1 583
+S
+#564
+Laboratory L 24~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 569
+D2
+~
+~
+0 -1 559
+D3
+~
+~
+0 -1 563
+D4
+~
+~
+0 -1 584
+S
+#565
+Laboratory L 30~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D1
+~
+~
+0 -1 566
+D2
+~
+~
+0 -1 560
+D4
+~
+~
+0 -1 585
+S
+#566
+Laboratory L 31~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 561
+D1
+~
+~
+0 -1 567
+D3
+~
+~
+0 -1 565
+D4
+~
+~
+0 -1 586
+S
+#567
+Laboratory L 32~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 562
+D1
+~
+~
+0 -1 568
+D3
+~
+~
+0 -1 566
+D4
+~
+~
+0 -1 587
+S
+#568
+Laboratory L 33~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 563
+D1
+~
+~
+0 -1 569
+D3
+~
+~
+0 -1 567
+D4
+~
+~
+0 -1 588
+S
+#569
+Laboratory L 34~
+As you walk past the ancient benches packed with strange color
+vials and advanced machinery, you can't help but wonder what
+experiments used to happen in this Palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 564
+D3
+~
+~
+0 -1 568
+D4
+~
+~
+0 -1 589
+S
+#570
+Hall H 00~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 575
+D1
+~
+~
+0 -1 571
+D4
+~
+~
+0 -1 590
+D5
+~
+~
+0 -1 550
+S
+#571
+Hall H 01~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 576
+D1
+~
+~
+0 -1 572
+D3
+~
+~
+0 -1 570
+D4
+~
+~
+0 -1 591
+D5
+~
+~
+0 -1 551
+S
+#572
+Hall H 02~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 577
+D1
+~
+~
+0 -1 573
+D3
+~
+~
+0 -1 571
+D4
+~
+~
+0 -1 592
+D5
+~
+~
+0 -1 552
+S
+#573
+Hall H 03~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 578
+D1
+~
+~
+0 -1 574
+D3
+~
+~
+0 -1 572
+D4
+~
+~
+0 -1 593
+D5
+~
+~
+0 -1 553
+S
+#574
+Hall H 04~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 579
+D3
+~
+~
+0 -1 573
+D4
+~
+~
+0 -1 594
+D5
+~
+~
+0 -1 554
+S
+#575
+Hall H 10~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 580
+D1
+~
+~
+0 -1 576
+D2
+~
+~
+0 -1 570
+D4
+~
+~
+0 -1 595
+D5
+~
+~
+0 -1 555
+S
+#576
+Hall H 11~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 581
+D1
+~
+~
+0 -1 577
+D2
+~
+~
+0 -1 571
+D3
+~
+~
+0 -1 575
+D4
+~
+~
+0 -1 596
+D5
+~
+~
+0 -1 556
+S
+#577
+Hall H 12~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 582
+D1
+~
+~
+0 -1 578
+D2
+~
+~
+0 -1 572
+D3
+~
+~
+0 -1 576
+D4
+~
+~
+0 -1 597
+D5
+~
+~
+0 -1 557
+S
+#578
+Hall H 13~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 583
+D1
+~
+~
+0 -1 579
+D2
+~
+~
+0 -1 573
+D3
+~
+~
+0 -1 577
+D4
+~
+~
+0 -1 598
+D5
+~
+~
+0 -1 558
+S
+#579
+Hall H 14~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 584
+D3
+~
+~
+0 -1 578
+D2
+~
+~
+0 -1 574
+D4
+~
+~
+0 -1 599
+D5
+~
+~
+0 -1 559
+S
+#580
+Hall H 20~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 585
+D1
+~
+~
+0 -1 581
+D2
+~
+~
+0 -1 575
+D4
+~
+~
+0 -1 600
+D5
+~
+~
+0 -1 560
+S
+#581
+Hall H 21~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 586
+D1
+~
+~
+0 -1 582
+D3
+~
+~
+0 -1 580
+D2
+~
+~
+0 -1 576
+D4
+~
+~
+0 -1 601
+D5
+~
+~
+0 -1 561
+S
+#582
+Hall H 22~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 587
+D2
+~
+~
+0 -1 577
+D1
+~
+~
+0 -1 583
+D3
+~
+~
+0 -1 581
+D4
+~
+~
+0 -1 602
+D5
+~
+~
+0 -1 562
+S
+#583
+Hall H 23~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 588
+D2
+~
+~
+0 -1 578
+D1
+~
+~
+0 -1 584
+D3
+~
+~
+0 -1 582
+D4
+~
+~
+0 -1 603
+D5
+~
+~
+0 -1 563
+S
+#584
+Hall H 24~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D0
+~
+~
+0 -1 589
+D2
+~
+~
+0 -1 579
+D3
+~
+~
+0 -1 583
+D4
+~
+~
+0 -1 604
+D5
+~
+~
+0 -1 564
+S
+#585
+Hall H 30~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D1
+~
+~
+0 -1 586
+D2
+~
+~
+0 -1 580
+D4
+~
+~
+0 -1 605
+D5
+~
+~
+0 -1 565
+S
+#586
+Hall H 31~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 581
+D1
+~
+~
+0 -1 587
+D3
+~
+~
+0 -1 585
+D4
+~
+~
+0 -1 606
+D5
+~
+~
+0 -1 566
+S
+#587
+Hall H 32~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 582
+D1
+~
+~
+0 -1 588
+D3
+~
+~
+0 -1 586
+D4
+~
+~
+0 -1 607
+D5
+~
+~
+0 -1 567
+S
+#588
+Hall H 33~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 583
+D1
+~
+~
+0 -1 589
+D3
+~
+~
+0 -1 587
+D4
+~
+~
+0 -1 608
+D5
+~
+~
+0 -1 568
+S
+#589
+Hall H 34~
+You are standing within the main room of an ancient civilization.
+Walking past the rusted armor and ripped out curtains, you wonder
+what had happen to this palace.
+~
+0 0 0
+D2
+~
+~
+0 -1 584
+D3
+~
+~
+0 -1 588
+D4
+~
+~
+0 -1 609
+D5
+~
+~
+0 -1 569
+S
+#590
+Dining Area D 00~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 595
+D1
+~
+~
+0 -1 591
+D4
+~
+~
+0 -1 610
+D5
+~
+~
+0 -1 570
+S
+#591
+Dining Area D 01~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 596
+D1
+~
+~
+0 -1 592
+D3
+~
+~
+0 -1 590
+D4
+~
+~
+0 -1 611
+D5
+~
+~
+0 -1 571
+S
+#592
+Dining Area D 02~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 597
+D1
+~
+~
+0 -1 593
+D3
+~
+~
+0 -1 591
+D4
+~
+~
+0 -1 612
+D5
+~
+~
+0 -1 572
+S
+#593
+Dining Area D 03~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 598
+D1
+~
+~
+0 -1 594
+D3
+~
+~
+0 -1 592
+D4
+~
+~
+0 -1 613
+D5
+~
+~
+0 -1 573
+S
+#594
+Dining Area D 04~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 599
+D3
+~
+~
+0 -1 593
+D4
+~
+~
+0 -1 614
+D5
+~
+~
+0 -1 574
+S
+#595
+Dining Area D 10~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 600
+D1
+~
+~
+0 -1 596
+D2
+~
+~
+0 -1 590
+D4
+~
+~
+0 -1 615
+D5
+~
+~
+0 -1 575
+S
+#596
+Dining Area D 11~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 601
+D1
+~
+~
+0 -1 597
+D2
+~
+~
+0 -1 591
+D3
+~
+~
+0 -1 595
+D4
+~
+~
+0 -1 616
+D5
+~
+~
+0 -1 576
+S
+#597
+Dining Area D 12~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 602
+D1
+~
+~
+0 -1 598
+D2
+~
+~
+0 -1 592
+D3
+~
+~
+0 -1 596
+D4
+~
+~
+0 -1 617
+D5
+~
+~
+0 -1 577
+S
+#598
+Dining Area D 13~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 603
+D1
+~
+~
+0 -1 599
+D2
+~
+~
+0 -1 593
+D3
+~
+~
+0 -1 597
+D4
+~
+~
+0 -1 618
+D5
+~
+~
+0 -1 578
+S
+#599
+Dining Area D 14~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 604
+D3
+~
+~
+0 -1 598
+D2
+~
+~
+0 -1 594
+D4
+~
+~
+0 -1 619
+D5
+~
+~
+0 -1 579
+S
+#600
+Dining Area D 20~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 605
+D1
+~
+~
+0 -1 601
+D2
+~
+~
+0 -1 595
+D4
+~
+~
+0 -1 620
+D5
+~
+~
+0 -1 580
+S
+#601
+Dining Area D 21~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 606
+D1
+~
+~
+0 -1 602
+D3
+~
+~
+0 -1 600
+D2
+~
+~
+0 -1 596
+D4
+~
+~
+0 -1 621
+D5
+~
+~
+0 -1 581
+S
+#602
+Dining Area D 22~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 607
+D2
+~
+~
+0 -1 597
+D1
+~
+~
+0 -1 603
+D3
+~
+~
+0 -1 601
+D4
+~
+~
+0 -1 622
+D5
+~
+~
+0 -1 582
+S
+#603
+Dining Area D 23~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 608
+D2
+~
+~
+0 -1 598
+D1
+~
+~
+0 -1 604
+D3
+~
+~
+0 -1 602
+D4
+~
+~
+0 -1 623
+D5
+~
+~
+0 -1 583
+S
+#604
+Dining Area D 24~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D0
+~
+~
+0 -1 609
+D2
+~
+~
+0 -1 599
+D3
+~
+~
+0 -1 603
+D4
+~
+~
+0 -1 624
+D5
+~
+~
+0 -1 584
+S
+#605
+Dining Area D 30~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D1
+~
+~
+0 -1 606
+D2
+~
+~
+0 -1 600
+D4
+~
+~
+0 -1 625
+D5
+~
+~
+0 -1 585
+S
+#606
+Dining Area D 31~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D2
+~
+~
+0 -1 601
+D1
+~
+~
+0 -1 607
+D3
+~
+~
+0 -1 605
+D4
+~
+~
+0 -1 626
+D5
+~
+~
+0 -1 586
+S
+#607
+Dining Area D 32~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D2
+~
+~
+0 -1 602
+D1
+~
+~
+0 -1 608
+D3
+~
+~
+0 -1 606
+D4
+~
+~
+0 -1 627
+D5
+~
+~
+0 -1 587
+S
+#608
+Dining Area D 33~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D2
+~
+~
+0 -1 603
+D1
+~
+~
+0 -1 609
+D3
+~
+~
+0 -1 607
+D4
+~
+~
+0 -1 628
+D5
+~
+~
+0 -1 588
+S
+#609
+Dining Area D 34~
+This is the massive meeting room of the past kings and their elite
+guests. Looking around, you see the remains of delicious 9 course
+meals. Pondering loudly, you wonder what happen to the people who
+was eating this food.
+~
+0 0 0
+D2
+~
+~
+0 -1 604
+D3
+~
+~
+0 -1 608
+D4
+~
+~
+0 -1 629
+D5
+~
+~
+0 -1 589
+S
+#610
+Balcony B 00~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 615
+D1
+~
+~
+0 -1 611
+D5
+~
+~
+0 -1 590
+S
+#611
+Balcony B 01~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 616
+D1
+~
+~
+0 -1 612
+D3
+~
+~
+0 -1 610
+D5
+~
+~
+0 -1 591
+S
+#612
+Balcony B 02~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 617
+D1
+~
+~
+0 -1 613
+D3
+~
+~
+0 -1 611
+D5
+~
+~
+0 -1 592
+S
+#613
+Balcony B 03~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 618
+D1
+~
+~
+0 -1 614
+D3
+~
+~
+0 -1 612
+D5
+~
+~
+0 -1 593
+S
+#614
+Balcony B 04~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 619
+D3
+~
+~
+0 -1 613
+D5
+~
+~
+0 -1 594
+S
+#615
+Balcony B 10~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 620
+D1
+~
+~
+0 -1 616
+D2
+~
+~
+0 -1 610
+D5
+~
+~
+0 -1 595
+S
+#616
+Balcony B 11~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 621
+D1
+~
+~
+0 -1 617
+D2
+~
+~
+0 -1 611
+D3
+~
+~
+0 -1 615
+D5
+~
+~
+0 -1 596
+S
+#617
+Balcony B 12~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 622
+D1
+~
+~
+0 -1 618
+D2
+~
+~
+0 -1 612
+D3
+~
+~
+0 -1 616
+D5
+~
+~
+0 -1 597
+S
+#618
+Balcony B 13~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 623
+D1
+~
+~
+0 -1 619
+D2
+~
+~
+0 -1 613
+D3
+~
+~
+0 -1 617
+D5
+~
+~
+0 -1 598
+S
+#619
+Balcony B 14~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 624
+D3
+~
+~
+0 -1 618
+D2
+~
+~
+0 -1 614
+D5
+~
+~
+0 -1 599
+S
+#620
+Balcony B 20~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 625
+D1
+~
+~
+0 -1 621
+D2
+~
+~
+0 -1 615
+D5
+~
+~
+0 -1 600
+S
+#621
+Balcony B 21~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 626
+D1
+~
+~
+0 -1 622
+D3
+~
+~
+0 -1 620
+D2
+~
+~
+0 -1 616
+D5
+~
+~
+0 -1 601
+S
+#622
+Balcony B 22~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 627
+D2
+~
+~
+0 -1 617
+D1
+~
+~
+0 -1 623
+D3
+~
+~
+0 -1 621
+D5
+~
+~
+0 -1 602
+S
+#623
+Balcony B 23~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 628
+D2
+~
+~
+0 -1 618
+D1
+~
+~
+0 -1 624
+D3
+~
+~
+0 -1 622
+D5
+~
+~
+0 -1 603
+S
+#624
+Balcony B 24~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D0
+~
+~
+0 -1 629
+D2
+~
+~
+0 -1 619
+D3
+~
+~
+0 -1 623
+D5
+~
+~
+0 -1 604
+S
+#625
+Balcony B 30~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D1
+~
+~
+0 -1 626
+D2
+~
+~
+0 -1 620
+D5
+~
+~
+0 -1 605
+S
+#626
+Balcony B 31~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D2
+~
+~
+0 -1 621
+D1
+~
+~
+0 -1 627
+D3
+~
+~
+0 -1 625
+D5
+~
+~
+0 -1 606
+S
+#627
+Balcony B 32~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D2
+~
+~
+0 -1 622
+D1
+~
+~
+0 -1 628
+D3
+~
+~
+0 -1 626
+D5
+~
+~
+0 -1 607
+S
+#628
+Balcony B 33~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D2
+~
+~
+0 -1 623
+D1
+~
+~
+0 -1 629
+D3
+~
+~
+0 -1 627
+D5
+~
+~
+0 -1 608
+S
+#629
+Balcony B 34~
+Standing at the highest level of this ancient palace, you have a
+clear view of the dazzling sunset outside. You can't help but
+wonder at the constrast of the bright colours outside to the
+dull colours inside. You have a pemonitation to return this
+palace to its formal glory.
+~
+0 0 0
+D2
+~
+~
+0 -1 624
+D3
+~
+~
+0 -1 628
+D5
+~
+~
+0 -1 609
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#$

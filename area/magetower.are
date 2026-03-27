@@ -1,0 +1,1003 @@
+#AREADATA
+Name        Mage Tower~
+Builders    Imms~
+VNUMs       17500 17999
+Security    9
+Recall      0
+Land        0
+End
+
+
+#MOBILES
+#17500
+illusionist~
+The Illusionist~
+This Master of Illusions stands here to trick all intruders.
+~
+You shall fall prey to my spells apprentice.
+~
+11 136 -1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#17501
+dark elf~
+The Dark Elf~
+This elf of darkness hovers with spell book in hand.
+ ~
+I will summon Odin to destroy your soul.
+~
+25 136 -1000 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#17504
+wizard~
+wizard~
+A wizard stands here.
+~
+Retired though this wizard may be, he still heals all who ask.
+~
+11 136 1000 S
+1492 -10 -20 1d1+29999 2d4+30
+0 0
+0 0 1
+#17503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+11 136 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 0
+#17502
+spell caster~
+The Spell Caster~
+The Lord of Spells stands on watchful duty.
+~
+You shall die at the hands of my Fireballs.
+~
+11 136 -1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#17505
+mage~
+The Mage~
+A weak frail mage is here.
+~
+With his spellbook in hard this old mage teaches his
+apprentices the enchantations.
+~
+11 136 -1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#17506
+elf~
+High Elf~
+A beautiful elf is here reading a book.
+~
+One of the ancients, this elf was a keeper of the Fated star
+until it was stolen. Now it is up to you to return the item
+for glory; if you are up to the challenge.
+~
+11 136 0 S
+666 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#17507
+phantom~
+A Phantom Soldier~
+A shimmering figure manifests before you as it awaits for the next battle.
+ ~
+I will kill you with my lance.
+~
+25 136 -1000 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#17500
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17501
+D2
+~
+~
+0 -1 17028
+D5
+~
+~
+0 -1 17532
+S
+#17501
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17502
+D2
+~
+~
+0 -1 17500
+S
+#17502
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17503
+D3
+~
+~
+0 -1 17501
+S
+#17503
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17502
+D3
+~
+~
+0 -1 17504
+S
+#17504
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17503
+D4
+~
+~
+0 -1 17505
+S
+#17505
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17506
+D5
+~
+~
+0 -1 17504
+S
+#17506
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17507
+D2
+~
+~
+0 -1 17505
+S
+#17507
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17508
+D3
+~
+~
+0 -1 17506
+S
+#17508
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17507
+D2
+~
+~
+0 -1 17553
+D3
+~
+~
+0 -1 17509
+S
+#17509
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17508
+D4
+~
+~
+0 -1 17510
+S
+#17510
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17511
+D5
+~
+~
+0 -1 17509
+S
+#17511
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17512
+D2
+~
+~
+0 -1 17510
+S
+#17512
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17513
+D3
+~
+~
+0 -1 17511
+S
+#17513
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17512
+D3
+~
+~
+0 -1 17514
+S
+#17514
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17513
+D4
+~
+~
+0 -1 17515
+S
+#17515
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17516
+D5
+~
+~
+0 -1 17514
+S
+#17516
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17517
+D2
+~
+~
+0 -1 17515
+S
+#17517
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17518
+D3
+~
+~
+0 -1 17516
+S
+#17518
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17517
+D3
+~
+~
+0 -1 17519
+S
+#17519
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17518
+D4
+~
+~
+0 -1 17520
+S
+#17520
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17521
+D5
+~
+~
+0 -1 17519
+S
+#17521
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17522
+D2
+~
+~
+0 -1 17520
+S
+#17522
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17523
+D3
+~
+~
+0 -1 17521
+S
+#17523
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17522
+D3
+~
+~
+0 -1 17524
+S
+#17524
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17523
+D4
+~
+~
+0 -1 17525
+S
+#17525
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17526
+D5
+~
+~
+0 -1 17524
+S
+#17526
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17527
+D2
+~
+~
+0 -1 17525
+S
+#17527
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17528
+D3
+~
+~
+0 -1 17526
+S
+#17528
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17527
+D3
+~
+~
+0 -1 17529
+S
+#17529
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17528
+D4
+~
+~
+0 -1 17530
+S
+#17530
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17531
+D5
+~
+~
+0 -1 17529
+S
+#17531
+Pinnicale Of Power~
+Here at the top of this tower lies all the secrets
+of the ancient and powerful race of Wizards and 
+Witches. Also this is the room of the most powerful
+magic user of this era.
+~
+0 0 1
+T
+netherworld~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 33103 0
+D2
+~
+~
+0 -1 17530
+S
+#17532
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17533
+D4
+~
+~
+0 -1 17500
+S
+#17533
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17534
+D3
+~
+~
+0 -1 17532
+S
+#17534
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17554
+D2
+~
+~
+0 -1 17533
+D3
+~
+~
+0 -1 17535
+S
+#17535
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17534
+D2
+~
+~
+0 -1 17536
+S
+#17536
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17535
+D5
+~
+~
+0 -1 17537
+S
+#17537
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17538
+D4
+~
+~
+0 -1 17536
+S
+#17538
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17539
+D3
+~
+~
+0 -1 17537
+S
+#17539
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17538
+D3
+~
+~
+0 -1 17540
+S
+#17540
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17539
+D2
+~
+~
+0 -1 17541
+S
+#17541
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17540
+D5
+~
+~
+0 -1 17542
+S
+#17542
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17543
+D4
+~
+~
+0 -1 17541
+S
+#17543
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17544
+D3
+~
+~
+0 -1 17542
+S
+#17544
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D2
+~
+~
+0 -1 17543
+D3
+~
+~
+0 -1 17545
+S
+#17545
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17544
+D2
+~
+~
+0 -1 17546
+S
+#17546
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17545
+D5
+~
+~
+0 -1 17547
+S
+#17547
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D4
+~
+~
+0 -1 17546
+D5
+~
+~
+0 -1 17548
+S
+#17548
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D0
+~
+~
+0 -1 17549
+D4
+~
+~
+0 -1 17547
+S
+#17549
+Winding Staircase~
+As you make your way into the great and powerful
+kingdom of Raistlin the Dark One you wonder how
+one attains their goal in such a bewildering setting.
+~
+0 0 1
+D1
+~
+~
+0 -1 17550
+D2
+~
+~
+0 -1 17548
+S
+#17550
+Jail Entrance~
+You are standing in a darken room. All around you is visions of shooting stars and explosive
+super novas displaying the brilliant force of the universe.
+~
+0 0 1
+D1
+~
+~
+0 -1 17551
+D3
+~
+~
+0 -1 17549
+S
+#17551
+Prison~
+You are standing in a weird room. It has no restraints yet you can clearly see people
+struggling against invisible bonds.
+~
+0 0 1
+D0
+~
+~
+0 -1 17552
+D3
+~
+~
+0 -1 17550
+S
+#17552
+Jail Cell~
+You are standing in a darken room. All around you is visions of shooting stars and explosive
+super novas displaying the brilliant force of the universe.
+~
+0 0 1
+D2
+~
+~
+0 -1 17551
+S
+#17553
+Quiet Meditation~
+This is where the Grand Wizard heals all of his loyal
+subjects who pain is to much to bear.
+~
+0 1024 1
+D0
+~
+~
+0 -1 17508
+S
+#17554
+Battle Arms~
+This is where all the mage apprentices learn hand
+to hand combat. Even though they mainly rely on spells
+if near death these warriors can produce powerful
+weapon attacks.
+~
+0 0 1
+D2
+~
+~
+0 -1 17534
+S
+#0
+
+#SPECIALS
+M 17500 spec_kguard Load to: Hooded Hunter
+M 17501 spec_kguard Load to: Hooded Hunter
+M 17502 spec_kguard Load to: Hooded Hunter
+M 17507 spec_kguard Load to: Hooded Hunter
+M 17503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+#RESETS
+S
+
+#$

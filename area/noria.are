@@ -1,0 +1,565 @@
+#AREADATA
+Name        Noria - God's Jewel~
+Builders    Imms~
+VNUMs       7000 7499
+Security    9
+Recall      3001
+Land        0
+End
+
+
+
+#MOBILES
+#7000
+monk priest~
+A holy monk~
+A young priest is here practising his martial arts.
+~
+A follower of God, this priest shows no remorse to those who
+walks in the path of darkness unless they show humbility and
+look towards the light of salvation.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#7001
+woman worshipper~
+An old woman~
+This old worshipper have dedicated her life to the Church's cause.
+~
+Maria Bae, one of the Church most devoted followers, have take
+care of the monks' needs for most of her life, preparing their
+meals and offering useful advice to the novice priests. Recently,
+she was bestowed the title, Blessed Mother, by Bishop Stone during
+one of his visits to his homeland.
+~
+11 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#7000
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D2
+~
+~
+0 -1 7001
+D5
+~
+~
+0 -1 20160
+S
+#7001
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D0
+~
+~
+0 -1 7000
+D1
+~
+~
+0 -1 7002
+D3
+~
+~
+0 -1 7003
+S
+#7002
+A small inn~
+In this small shack is a bed to sleep on and a hot meal ready to be
+eaten, most likely prepared by Mary Dae, the caretaker of the monks.
+~
+0 0 0
+D3
+~
+~
+0 -1 7001
+S
+#7003
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D0
+~
+~
+0 -1 7004
+D1
+~
+~
+0 -1 7001
+S
+#7004
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D2
+~
+~
+0 -1 7003
+D3
+~
+~
+0 -1 7005
+S
+#7005
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D1
+~
+~
+0 -1 7004
+D3
+~
+~
+0 -1 7006
+S
+#7006
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D1
+~
+~
+0 -1 7005
+D3
+~
+~
+0 -1 7007
+S
+#7007
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D1
+~
+~
+0 -1 7006
+D3
+~
+~
+0 -1 7008
+S
+#7008
+A flowery field~
+Tired from the trek up the Path to the Heavens, you rest your tired
+bones on the lovely field beneath your feet. Looking at the horizon,
+you have a gorgeous view of Utopia far below you.
+~
+0 0 0
+D1
+~
+~
+0 -1 7007
+D0
+~
+~
+0 -1 7009
+S
+#7009
+A flowing stream~
+Passing by a brilliant stream of goushing water, you glide your hands
+through it watching the fishes jumping out and in of the water. A
+hawk cry fill the air with it serenity as you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 7010
+D2
+~
+~
+0 -1 7008
+S
+#7010
+A flowing stream~
+Passing by a brilliant stream of goushing water, you glide your hands
+through it watching the fishes jumping out and in of the water. A
+hawk cry fill the air with it serenity as you carry onwards.
+~
+0 0 0
+D1
+~
+~
+0 -1 7009
+D2
+~
+~
+0 -1 7011
+S
+#7011
+A flowing stream~
+Passing by a brilliant stream of goushing water, you glide your hands
+through it watching the fishes jumping out and in of the water. A
+hawk cry fill the air with it serenity as you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 7010
+D2
+~
+~
+0 -1 7012
+S
+#7012
+A flowing stream~
+Passing by a brilliant stream of goushing water, you glide your hands
+through it watching the fishes jumping out and in of the water. A
+hawk cry fill the air with it serenity as you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 7011
+D1
+~
+~
+0 -1 7013
+S
+#7013
+A flowing stream~
+Passing by a brilliant stream of gushing water, you glide your hands
+through it watching the fishes jumping out and in of the water. A
+hawk cry fill the air with it serenity as you carry onwards.
+~
+0 0 0
+D4
+~
+~
+0 -1 7014
+D3
+~
+~
+0 -1 7012
+S
+#7014
+A steep hill~
+Grumbling at yet to go up another hill, you sigh as you climb up this
+small, yet steep hill... worn down by many years of travellers strolling
+through it.
+~
+0 0 0
+D4
+~
+~
+0 -1 7015
+D5
+~
+~
+0 -1 7013
+S
+#7015
+A steep hill~
+Grumbling at yet to go up another hill, you sigh as you climb up this
+small, yet steep hill... worn down by many years of travellers strolling
+through it.
+~
+0 0 0
+D4
+~
+~
+0 -1 7016
+D5
+~
+~
+0 -1 7014
+S
+#7016
+A steep hill~
+Grumbling at yet to go up another hill, you sigh as you climb up this
+small, yet steep hill... worn down by many years of travellers strolling
+through it.
+~
+0 0 0
+D4
+~
+~
+0 -1 7017
+D5
+~
+~
+0 -1 7015
+S
+#7017
+Top of the hill~
+Panting for breath, you look around you seeing that you have finally
+reach the top of that treachrous hill. Now, standing before you a bit
+away in all of its glory lies the Holy Church.
+~
+0 0 0
+D0
+~
+~
+0 -1 7018
+D5
+~
+~
+0 -1 7016
+S
+#7018
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D1
+~
+~
+0 -1 7019
+D2
+~
+~
+0 -1 7017
+S
+#7019
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D1
+~
+~
+0 -1 7020
+D3
+~
+~
+0 -1 7018
+S
+#7020
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D1
+~
+~
+0 -1 7021
+D3
+~
+~
+0 -1 7019
+S
+#7021
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D1
+~
+~
+0 -1 7022
+D3
+~
+~
+0 -1 7020
+S
+#7022
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D1
+~
+~
+0 -1 7023
+D3
+~
+~
+0 -1 7022
+S
+#7023
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D1
+~
+~
+0 -1 7024
+D3
+~
+~
+0 -1 7022
+S
+#7024
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D0
+~
+~
+0 -1 7025
+D3
+~
+~
+0 -1 7023
+S
+#7025
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D0
+~
+~
+0 -1 7026
+D2
+~
+~
+0 -1 7024
+S
+#7026
+A small clearing~
+Passing through a well used dusty path, you make your way closer and
+closer to the greatest Church throughout Utopia, where even the angels
+themselves visit daily in their mission to save Mankind.
+~
+0 0 0
+D0
+~
+~
+0 -1 7027
+D2
+~
+~
+0 -1 7025
+S
+#7027
+Foothold of the Holy Church~
+You are standing just at the entrance to the most holy place
+throughout the land. All are welcome here but beware, you may be
+judge at will by the angels.
+~
+0 0 0
+D0
+~
+~
+0 -1 7028
+D1
+~
+~
+0 -1 7029
+D2
+~
+~
+0 -1 7026
+S
+#7028
+Foothold of the Holy Church~
+You are standing just at the entrance to the most holy place
+throughout the land. All are welcome here but beware, you may be
+judge at will by the angels.
+~
+0 0 0
+D0
+~
+~
+0 -1 7030
+D2
+~
+~
+0 -1 7027
+S
+#7030
+Foothold of the Holy Church~
+You are standing just at the entrance to the most holy place
+throughout the land. All are welcome here but beware, you may be
+judge at will by the angels.
+~
+0 0 0
+D2
+~
+~
+0 -1 7027
+D4
+~
+~
+0 -1 7500
+S
+#7029
+Divine Bank~
+The only Bank that don't charge an interest rate!!! Yes, the Holy 
+Church doesn't operate this bank for a profit but for those who 
+wish to safeguard their money throughout their journies in the land.
+~
+0 0 0
+D3
+~
+~
+0 -1 7027
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

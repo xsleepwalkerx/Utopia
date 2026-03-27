@@ -1,0 +1,747 @@
+#AREADATA
+Name        Clan Recalls~
+Builders    Imms~
+VNUMs       33200 33499
+Security    9
+Flags       0
+Land        0
+End
+
+
+#MOBILES
+#0
+
+
+#ROOMS
+#33200
+Rusty CourtYard~
+You stand at the entrance of the hidden ninja dojo, where the most elite
+of the shadow warriors call their home. Feeling countless eyes burning
+through you from the darkness, you wonder if you had made the right choice 
+coming here.
+~
+0 0 0
+D0
+~
+~
+0 -1 33201
+D1
+~
+~
+0 -1 33202
+D2
+~
+~
+0 -1 33203
+D3
+~
+~
+0 -1 33204
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33205
+S
+#33201
+Healing Room~
+In this small sanctuary is where the shadow warriors come to rest their
+wounds and prepare themselves for tomorrow's training. A ninja's work
+is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33200
+S
+#33202
+Sparring Room~
+In a small corner of the courtyard, you see a ground of ninja students
+practising their skills hoping they can pass the rigious tests in order
+to be a full ledged shadow warrior.
+~
+0 0 0
+D3
+~
+~
+0 -1 33200
+S
+#33203
+Weapons Room~
+This room is full to the brim with all types of Ninjitsu weapons and armor,
+as the shadow warriors can never have enough.
+~
+0 0 0
+D0
+~
+~
+0 -1 33200
+S
+#33204
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33200
+S
+#33205
+Throne of the Shogun~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33200
+S
+#33206
+Shadows of the Night~
+Leaving the last glance of light behind you, a chill goes through your bones
+as you now venture into the unknown. The headquarters of the drow's most elite
+clan, only the best have what it takes to call these quarters... home.
+~
+0 0 0
+D0
+~
+~
+0 -1 33207
+D1
+~
+~
+0 -1 33208
+D2
+~
+~
+0 -1 33209
+D3
+~
+~
+0 -1 33210
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33211
+S
+#33207
+Healing Room~
+In this small sanctuary is where lloth's warriors come to rest their
+wounds and prepare themselves for tomorrow's training. A drow's work
+is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33206
+S
+#33208
+Sparring Room~
+In a small corner of the courtyard, you see a ground of drow commoners
+practising their skills hoping they can pass the rigious tests in order
+to be a full ledged drow nobleman.
+~
+0 0 0
+D3
+~
+~
+0 -1 33206
+S
+#33209
+Weapons Room~
+This room is full to the brim with all types of drow weapons and armor,
+as lloth's warriors can never have enough.
+~
+0 0 0
+D0
+~
+~
+0 -1 33206
+S
+#33210
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33206
+S
+#33211
+Pitch Blackness~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33206
+S
+#33212
+The Temple of the one true God~
+In this hidden valley, the fabled shaolin monks gives praise to their creator,
+the Almighty Father, as the focus on their meditation and training. Reluctant
+to leave... home... they prefer to live in harmony with nature.
+~
+0 0 0
+D0
+~
+~
+0 -1 33213
+D1
+~
+~
+0 -1 33214
+D2
+~
+~
+0 -1 33215
+D3
+~
+~
+0 -1 33216
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33217
+S
+#33213
+Healing Room~
+In this small sanctuary is where the monks come to rest their
+wounds and prepare themselves for tomorrow's training. A martial
+artist's training is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33212
+S
+#33214
+Sparring Room~
+In a small corner of the courtyard, you see a ground of shaolin
+brothers practising their skills hoping they can pass the rigious tests 
+in order to be a full ledged grand master.
+~
+0 0 0
+D3
+~
+~
+0 -1 33212
+S
+#33215
+Weapons Room~
+A very funny name for this room since monks shun the use of weapons in 
+most of their combat, prefering the flexibility and quickness of unarmed
+techniques. However, with the gifts from the Ninja Grand Master Goshen,
+Monks now sometimes use their fans and Ceremonial swords in battle.
+~
+0 0 0
+D0
+~
+~
+0 -1 33212
+S
+#33216
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33212
+S
+#33217
+The Hidden Sanctuary~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33212
+S
+#33218
+The Forbidden Castle~
+This legendary castle is said to be the home of the most powerful of the
+children of the Wyrm... Vampires. All of the greatest vampires at one
+point was in control of this castle... from Dracula to Cain. As you pause
+at the drawbridge you wonder... who will be next?
+~
+0 0 0
+D0
+~
+~
+0 -1 33219
+D1
+~
+~
+0 -1 33220
+D2
+~
+~
+0 -1 33221
+D3
+~
+~
+0 -1 33222
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33223
+S
+#33219
+Healing Room~
+In this small sanctuary is where the vampires come to rest their
+wounds and prepare themselves for tomorrow's feeding. A vampire's 
+feast is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33218
+S
+#33220
+Sparring Room~
+In a small corner of the courtyard, you see a ground of vampire
+ancillas practising their skills hoping they can pass the rigious tests 
+in order to be a full ledged soul reaver.
+~
+0 0 0
+D3
+~
+~
+0 -1 33218
+S
+#33221
+Weapons Room~
+In this room is a vast display of weapons vampires get, mostly those
+which could do great bodily harm to them.
+~
+0 0 0
+D0
+~
+~
+0 -1 33218
+S
+#33222
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33218
+S
+#33223
+The Crypt~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33218
+S
+#33224
+Admist the Pile of Bones~
+In a secret cave located high in the forbidden mountains is home to the
+oldest and powerful dragons which ever existed in this realm. Tired from
+their eon wars against humans, this sanctuary is where the best of these
+creatures go to enjoy a good meal and relax... their home...
+~
+0 0 0
+D0
+~
+~
+0 -1 33225
+D1
+~
+~
+0 -1 33226
+D2
+~
+~
+0 -1 33227
+D3
+~
+~
+0 -1 33228
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33229
+S
+#33225
+Healing Room~
+In this small sanctuary is where the dragons come to rest their
+wounds and prepare themselves for tomorrow's meal. A dragon's 
+work is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33224
+S
+#33226
+Sparring Room~
+In a small corner of the courtyard, you see a ground of young
+dragons practising their skills until they are old enough to
+fend for themselves.
+~
+0 0 0
+D3
+~
+~
+0 -1 33224
+S
+#33227
+Weapons Room~
+In this room is a vast display of weapons dragons get, mostly those
+which could do great bodily harm to them.
+~
+0 0 0
+D0
+~
+~
+0 -1 33224
+S
+#33228
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33224
+S
+#33229
+The Fiery Rebirth~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33224
+S
+#33230
+The Vortex~
+In this confusing plane lies the home of the greatest Wizards in Utopia. Capable
+of using their books to perform anything, these beings are a force to be
+reckon with. However, they spend their time trying to improve on their magicks.
+~
+0 0 0
+D0
+~
+~
+0 -1 33231
+D1
+~
+~
+0 -1 33232
+D2
+~
+~
+0 -1 33233
+D3
+~
+~
+0 -1 33234
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33235
+S
+#33231
+Healing Room~
+In this small sanctuary is where the wizards come to rest their
+wounds and prepare themselves for tomorrow's meal. A wizard's 
+work is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33230
+S
+#33232
+Sparring Room~
+In a small corner of the courtyard, you see a ground of young
+wizards practising their spells until they are old enough to
+fend for themselves.
+~
+0 0 0
+D3
+~
+~
+0 -1 33230
+S
+#33233
+Weapons Room~
+In this room is a vast display of weapons wizards get, mostly those
+which could do great bodily harm to them.
+~
+0 0 0
+D0
+~
+~
+0 -1 33230
+S
+#33234
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33230
+S
+#33235
+The Library of the Ancients~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33230
+S
+#33236
+The Drawbridge~
+This legendary castle, only heard about in fairly tales, is the home of
+the powerful Knights of the Round. Sworn to protect their king and battle
+evil, these knights are a force to be reckoned with.
+~
+0 0 0
+D0
+~
+~
+0 -1 33237
+D1
+~
+~
+0 -1 33238
+D2
+~
+~
+0 -1 33239
+D3
+~
+~
+0 -1 33240
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33241
+S
+#33237
+Healing Room~
+In this small sanctuary is where the knights come to rest their
+wounds and prepare themselves for tomorrow's meal. A knight's 
+work is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33236
+S
+#33238
+Sparring Room~
+In a small corner of the courtyard, you see a ground of young
+knights practising their skills until they are old enough to
+protect the king and fight evil.
+~
+0 0 0
+D3
+~
+~
+0 -1 33236
+S
+#33239
+Weapons Room~
+In this room is a vast display of weapons knights get, mostly those
+which could do great bodily harm to the forces of evil.
+~
+0 0 0
+D0
+~
+~
+0 -1 33236
+S
+#33240
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33236
+S
+#33241
+The Throne Room~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33236
+S
+#33242
+Inside the Dusty Camp~
+Covering your eyes from the stinging sandstorm, you notice that you are in the
+hideaway of the sorcerors, rogue mages forever banished from the realm of
+magicks for attempting to forge steel and magic together. Living their lives
+here, these swordsmen are always prepare to prove their magi brothers wrong.
+~
+0 0 0
+D0
+~
+~
+0 -1 33243
+D1
+~
+~
+0 -1 33244
+D2
+~
+~
+0 -1 33245
+D3
+~
+~
+0 -1 33246
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 33247
+S
+#33243
+Healing Room~
+In this small sanctuary is where the sorcerors come to rest their
+wounds and prepare themselves for tomorrow's meal. A sorceror's 
+work is never done.
+~
+0 0 0
+D2
+~
+~
+0 -1 33242
+S
+#33244
+Sparring Room~
+In a small corner of the courtyard, you see a ground of young
+sorcerors practising their skills until they are old enough to
+find the perfect blade.
+~
+0 0 0
+D3
+~
+~
+0 -1 33242
+S
+#33245
+Weapons Room~
+In this room is a vast display of weapons sorcerors get, mostly those
+resembling blades, which they favour greatly.
+~
+0 0 0
+D0
+~
+~
+0 -1 33242
+S
+#33246
+Meeting Room~
+This is where the more powerful members of the clan meet to discuss their
+stragety on upcoming wars and alliances.
+~
+0 0 0
+D1
+~
+~
+0 -1 33242
+S
+#33247
+The Establishment~
+The room reserved for the best of the best, no expense is spared in making
+this vicinity worthy for a great leader.
+~
+0 0 0
+D4
+~
+~
+0 -1 33242
+S
+#0
+
+
+#SPECIALS
+S
+
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#$

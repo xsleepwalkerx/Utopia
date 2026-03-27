@@ -1,0 +1,105 @@
+#AREADATA
+Name        Arena~
+Builders    Imms~
+VNUMs       630 650
+Security    3
+Recall      0
+Land        0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#630
+#3@@@ #5LOSER's SQUARE #3@@@~
+You fall down to your knees in shame, wondering how in the world you 
+could had lost the battle which will bring you glory and fame.
+~
+0 1024 0
+E
+sign~
+This is a safe room exclusively for the use of ARENA losers. You can leave
+at anytime you want.
+~
+S
+#631
+#3@@@ #5WINNER's CIRCLE #3@@@~
+As you walk trimphuantly through the arena, onlookers through a bunch of
+roses at your feet. Standing at the top of the throne, you realize how good
+it is to be the king.
+~
+0 1024 0
+E
+sign~
+This is a safe room exclusively for the use of ARENA winners. You can leave
+at anytime you want.
+~
+S
+#632
+#3@@@ #5RESTING ROOM #3@@@~
+LOOOOOOOOOSER! DON'T WANNA BEEEEEEE YOU!
+Hahaha, Can't take the heat eh? Well you can stay here punk until you 
+are ready to leave.
+~
+0 1024 0
+E
+sign~
+This is a safe room exclusively for the use of PK QUEST losers. You can leave
+at anytime you want.
+~
+S
+#650
+#3@@@ #5ENROLLMENT ROOM #3@@@~
+Think you have what it takes to be the champion?
+Then go and #wtalk#n to the enrollment officer here.
+~
+0 1024 0
+S
+#651
+#3@@@ #5CHAMPION ROOM #3@@@~
+This is reserved for previous champions of the Kof Tournament only. New ones
+can't enter it until one of the old oens pass away.
+~
+0 1024 0
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+M 0 500 1 650
+M 0 550 1 651
+M 0 551 1 651
+M 0 552 1 651
+M 0 553 1 651
+M 0 554 1 651
+M 0 555 1 651
+M 0 556 1 651
+M 0 557 1 651
+M 0 558 1 651
+M 0 559 1 651
+M 0 560 1 651
+M 0 561 1 651
+M 0 562 1 651
+M 0 563 1 651
+M 0 564 1 651
+M 0 565 1 651
+M 0 566 1 651
+M 0 567 1 651
+S
+
+#SHOPS
+0
+
+#$

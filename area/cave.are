@@ -1,0 +1,1506 @@
+#AREADATA
+Name        Castle Of Gaia~
+Builders    Imms~
+VNUMs       14500 14999
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#14500
+silent strider~
+The Silent Strider~
+A werewolf is here silently patroling these caves.
+~
+Sworn to protect Gaia at all cost, this warrior
+eagerly waits for intruders to attack.
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14501
+wendigo warrior~
+A Wendigo~
+A wendigo is here waiting to kill.
+~
+These ancient beasts who have given their life's
+service to Gaia, stand alert for those who wish
+to kill their Queen.
+~
+1 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#14502
+werewolf~
+Lugar~
+A huge wolf is here.
+~
+Lugar the commander of Gaia's forces is here to 
+take the lives of those who oppose her and wish 
+to assassinate her.
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#14503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+3 0 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#14504
+wolf priest~
+A Meditator~
+This wolf teaches others how to control their powers.
+~
+He teaches others the same way he was taught, to be the best
+at what they do. To always suceed no matter the cost and last
+to fear nothing but fear itself.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#14505
+werewolf trainer~
+A Wolf Shaman~
+This wolf is here to teach you the ancient ways.
+~
+This old werewolf teaches the young all the needed
+skills to hunt the Wyrm to death.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#0
+
+
+
+#ROOMS
+#14500
+The Smell Of Death~
+You look around carefully as your body shudders from
+the loads howls coming from all around. You silently
+wonder what manner of beast inhabits these caves.
+~
+0 0 10
+D5
+~
+~
+0 -1 14501
+D4
+~
+~
+0 -1 14033
+S
+#14501
+The Smell Of Death~
+You look around carefully as your body shudders from
+the loads howls coming from all around. You silently
+wonder what manner of beast inhabits these caves.
+~
+0 0 10
+D0
+~
+~
+0 -1 14502
+D4
+~
+~
+0 -1 14500
+D2
+~
+~
+0 -1 14566
+S
+#14502
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 10
+D0
+~
+~
+0 -1 14503
+D2
+~
+~
+0 -1 14501
+S
+#14503
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 10
+D0
+~
+~
+0 -1 14504
+D1
+~
+~
+0 -1 14520
+D2
+~
+~
+0 -1 14502
+D3
+~
+~
+0 -1 14508
+S
+#14504
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 10
+D0
+~
+~
+0 -1 14516
+D1
+~
+~
+0 -1 14505
+D2
+~
+~
+0 -1 14503
+D5
+~
+~
+0 -1 14521
+S
+#14505
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 10
+D0
+~
+~
+0 -1 14512
+D1
+~
+~
+0 -1 14506
+D3
+~
+~
+0 -1 14504
+S
+#14506
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 10
+D0
+~
+~
+0 -1 14507
+D1
+~
+~
+0 -1 14515
+D3
+~
+~
+0 -1 14505
+D5
+~
+~
+0 -1 14523
+S
+#14507
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 10
+D0
+~
+~
+0 -1 14509
+D1
+~
+~
+0 -1 14511
+D2
+~
+~
+0 -1 14506
+S
+#14508
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D1
+~
+~
+0 -1 14503
+D3
+~
+~
+0 -1 14509
+D5
+~
+~
+0 -1 14533
+S
+#14509
+Regeneration~
+This is where all the warriors in need of Gaia's spirit
+come. She bathes them in her purity and love and 
+replenishes their needs and heals their wounds.
+~
+0 0 1
+D0
+~
+~
+0 -1 14510
+D1
+~
+~
+0 -1 14508
+D2
+~
+~
+0 -1 14507
+D5
+~
+~
+0 -1 14529
+S
+#14510
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D0
+~
+~
+0 -1 14511
+D2
+~
+~
+0 -1 14509
+D5
+~
+~
+0 -1 14540
+S
+#14511
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D1
+~
+~
+0 -1 14512
+D2
+~
+~
+0 -1 14510
+D3
+~
+~
+0 -1 14507
+S
+#14512
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D1
+~
+~
+0 -1 14513
+D2
+~
+~
+0 -1 14505
+D3
+~
+~
+0 -1 14511
+S
+#14513
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D2
+~
+~
+0 -1 14514
+D3
+~
+~
+0 -1 14512
+S
+#14514
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D0
+~
+~
+0 -1 14513
+D2
+~
+~
+0 -1 14515
+D3
+~
+~
+0 -1 14519
+D5
+~
+~
+0 -1 14536
+S
+#14515
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D0
+~
+~
+0 -1 14514
+D3
+~
+~
+0 -1 14506
+S
+#14516
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D0
+~
+~
+0 -1 14517
+D2
+~
+~
+0 -1 14504
+D3
+~
+~
+0 -1 14561
+S
+#14517
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D1
+~
+~
+0 -1 14518
+D2
+~
+~
+0 -1 14516
+D5
+~
+~
+0 -1 14537
+S
+#14518
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D0
+~
+~
+0 -1 14562
+D1
+~
+~
+0 -1 14519
+D3
+~
+~
+0 -1 14517
+S
+#14519
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D0
+~
+~
+0 -1 14520
+D1
+~
+~
+0 -1 14514
+D3
+~
+~
+0 -1 14518
+D5
+~
+~
+0 -1 14532
+S
+#14520
+A Dark Den~
+Inside if the dark cave you hear the load howles of
+the wolves. They hunt for the Wyrm to destroy their
+existance and purify the land.
+~
+0 0 1
+D2
+~
+~
+0 -1 14519
+D3
+~
+~
+0 -1 14503
+D5
+~
+~
+0 -1 14527
+S
+#14521
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14522
+D2
+~
+~
+0 -1 14529
+D4
+~
+~
+0 -1 14504
+D5
+~
+~
+0 -1 14544
+S
+#14522
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14523
+D1
+~
+~
+0 -1 14533
+D2
+~
+~
+0 -1 14521
+S
+#14523
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D1
+~
+~
+0 -1 14524
+D2
+~
+~
+0 -1 14522
+D3
+~
+~
+0 -1 14541
+D4
+~
+~
+0 -1 14506
+S
+#14524
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D1
+~
+~
+0 -1 14525
+D3
+~
+~
+0 -1 14523
+D5
+~
+~
+0 -1 14555
+S
+#14525
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14531
+D1
+~
+~
+0 -1 14526
+D3
+~
+~
+0 -1 14524
+S
+#14526
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D2
+~
+~
+0 -1 14527
+D3
+~
+~
+0 -1 14525
+D5
+~
+~
+0 -1 14549
+S
+#14527
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14526
+D1
+~
+~
+0 -1 14536
+D2
+~
+~
+0 -1 14528
+D4
+~
+~
+0 -1 14520
+S
+#14528
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14527
+D2
+~
+~
+0 -1 14538
+D3
+~
+~
+0 -1 14537
+S
+#14529
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14521
+D2
+~
+~
+0 -1 14530
+D4
+~
+~
+0 -1 14509
+S
+#14530
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14529
+D3
+~
+~
+0 -1 14531
+S
+#14531
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D1
+~
+~
+0 -1 14530
+D2
+~
+~
+0 -1 14525
+D3
+~
+~
+0 -1 14532
+S
+#14532
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D1
+~
+~
+0 -1 14531
+D2
+~
+~
+0 -1 14533
+D4
+~
+~
+0 -1 14519
+S
+#14533
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14532
+D2
+~
+~
+0 -1 14534
+D3
+~
+~
+0 -1 14522
+D4
+~
+~
+0 -1 14508
+D5
+~
+~
+0 -1 14552
+S
+#14534
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14533
+D1
+~
+~
+0 -1 14535
+D5
+~
+~
+0 -1 14547
+S
+#14535
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14536
+D1
+~
+~
+0 -1 14542
+D3
+~
+~
+0 -1 14534
+S
+#14536
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D1
+~
+~
+0 -1 14537
+D2
+~
+~
+0 -1 14535
+D3
+~
+~
+0 -1 14527
+D4
+~
+~
+0 -1 14514
+D5
+~
+~
+0 -1 14545
+S
+#14537
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14538
+D1
+~
+~
+0 -1 14528
+D3
+~
+~
+0 -1 14536
+D4
+~
+~
+0 -1 14517
+S
+#14538
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14528
+D1
+~
+~
+0 -1 14539
+D2
+~
+~
+0 -1 14537
+D5
+~
+~
+0 -1 14553
+S
+#14539
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14540
+D3
+~
+~
+0 -1 14538
+S
+#14540
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D2
+~
+~
+0 -1 14539
+D4
+~
+~
+0 -1 14510
+S
+#14541
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D0
+~
+~
+0 -1 14542
+D1
+~
+~
+0 -1 14523
+D5
+~
+~
+0 -1 14543
+S
+#14542
+Scattered Bones~
+Bones lay scattered acroos the floor of the gigantic
+caves. These bones and marks on the walls show testiment
+to the battles which were valiently fought in these
+rooms.
+~
+0 0 1
+D2
+~
+~
+0 -1 14541
+D3
+~
+~
+0 -1 14535
+D5
+~
+~
+0 -1 14550
+S
+#14543
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14544
+D1
+~
+~
+0 -1 14552
+D4
+~
+~
+0 -1 14541
+S
+#14544
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14545
+D2
+~
+~
+0 -1 14543
+D3
+~
+~
+0 -1 14550
+D4
+~
+~
+0 -1 14521
+S
+#14545
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D1
+~
+~
+0 -1 14546
+D2
+~
+~
+0 -1 14544
+D4
+~
+~
+0 -1 14536
+S
+#14546
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D1
+~
+~
+0 -1 14547
+D2
+~
+~
+0 -1 14565
+D3
+~
+~
+0 -1 14545
+S
+#14547
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14551
+D2
+~
+~
+0 -1 14548
+D3
+~
+~
+0 -1 14546
+D4
+~
+~
+0 -1 14534
+D5
+~
+~
+0 -1 14556
+S
+#14548
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14547
+D1
+~
+~
+0 -1 14556
+D2
+~
+~
+0 -1 14549
+D3
+~
+~
+0 -1 14552
+S
+#14549
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14548
+D4
+~
+~
+0 -1 14526
+S
+#14550
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D1
+~
+~
+0 -1 14544
+D3
+~
+~
+0 -1 14551
+D4
+~
+~
+0 -1 14542
+S
+#14551
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14552
+D1
+~
+~
+0 -1 14550
+D2
+~
+~
+0 -1 14547
+D3
+~
+~
+0 -1 14555
+S
+#14552
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14553
+D1
+~
+~
+0 -1 14548
+D2
+~
+~
+0 -1 14551
+D3
+~
+~
+0 -1 14543
+D4
+~
+~
+0 -1 14533
+S
+#14553
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D1
+~
+~
+0 -1 14554
+D2
+~
+~
+0 -1 14552
+D4
+~
+~
+0 -1 14538
+S
+#14554
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D1
+~
+~
+0 -1 14555
+D3
+~
+~
+0 -1 14553
+S
+#14555
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D1
+~
+~
+0 -1 14551
+D2
+~
+~
+0 -1 14556
+D3
+~
+~
+0 -1 14554
+D4
+~
+~
+0 -1 14524
+S
+#14556
+A Place Of Certain Death~
+Standing here you start to shiver in fear. You can
+sense that the time for you to die is very near. Run
+as fast as you can because your redemption draweth 
+nigh.
+~
+0 0 1
+D0
+~
+~
+0 -1 14555
+D3
+~
+~
+0 -1 14548
+D4
+~
+~
+0 -1 14547
+D5
+~
+~
+0 -1 14557
+S
+#14557
+Prison~
+Here is where the hold all of those person who willing
+dare to defy the law of Gaia.
+~
+0 0 1
+D0
+~
+~
+0 -1 14558
+D4
+~
+~
+0 -1 14556
+S
+#14558
+Prison~
+Here is where the hold all of those person who willing
+dare to defy the law of Gaia.
+~
+0 0 1
+D0
+~
+~
+0 -1 14559
+D2
+~
+~
+0 -1 14557
+S
+#14559
+Prison Entrance~
+Here is where the hold all of those person who willing
+dare to defy the law of Gaia.
+~
+0 0 1
+D0
+~
+~
+0 -1 14560
+D2
+~
+~
+0 -1 14558
+S
+#14560
+Jail Cell~
+This is where the executions take place. Here is the 
+jailer sharpening his blade so that when he swings 
+there will be instant death.
+~
+0 0 1
+D2
+~
+~
+0 -1 14559
+S
+#14561
+Healing Room~
+A old retired mage stands here healing those 
+courageous members of this kingdom who venture out
+everyday to destroy the Wyrm.
+~
+0 0 1
+D1
+~
+~
+0 -1 14516
+S
+#14562
+Small Cutout~
+You force yourself through this little space chiseled
+out forming a path into the caves.
+~
+0 0 1
+D0
+~
+~
+0 -1 14563
+D2
+~
+~
+0 -1 14518
+S
+#14563
+Small Cutout~
+You force yourself through this little space chiseled
+out forming a path into the caves.
+~
+0 0 1
+D0
+~
+~
+0 -1 14564
+D2
+~
+~
+0 -1 14562
+S
+#14564
+Garou's Den~
+Here is the massive den belonging to Gaia's finest
+warrior. Strewn all across are the mutilated bones
+of the hated enemy the WYRM.
+~
+0 0 1
+D2
+~
+~
+0 -1 14563
+S
+#14565
+Training Room~
+The clashing and clinking of klaives and swords can
+be heard throughout the kingdom as the fierce warriors
+practice to become the best of Gaia's warriors.
+~
+0 0 1
+D0
+~
+~
+0 -1 14546
+S
+#14566
+Gaia's Eyes~
+Blessing her warriors with the means of travelling instantly to
+all major areas throughout the world, the children of Gaia does
+show their rage to all those who dare stand in their way. A
+swirling book of greenish colours lies here waiting to be read.
+~
+0 0 0
+E
+book~
+There seems to be a list of spirit gates.
+zanguasi, netherlands, tenshi, underworld
+~
+T
+zanguasi~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 2500 0
+T
+netherlands~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 3500 0
+T
+tenshi~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 7500 0
+T
+underworld~
+$n slowly fades out of existance.~
+Your surroundings blur and change.~
+all~
+16384 16500 0
+D0
+~
+~
+0 -1 14501
+S
+#0
+
+#SPECIALS
+M 14500 spec_kguard_two Load to: Hooded Hunter
+M 14501 spec_kguard_two Load to: Hooded Hunter
+M 14502 spec_kguard Load to: Hooded Hunter
+M 14503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+#RESETS
+S
+
+#$

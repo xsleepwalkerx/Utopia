@@ -1,0 +1,1504 @@
+#AREADATA
+Name        Trabia Garden~
+Builders    Gogeta~
+VNUMs       10301 10400
+Security    9
+Flags       0
+Land        0
+End
+
+
+#MOBILES
+#10302
+seifer figure~
+Seifer~
+A young figure in a trench coat is leaning on his gunblade.
+~
+This Paladin knows no remorse. As the proclaimed SorceresS' Knight, he
+will do anything to defend her honour, even if it means his very death.
+But with wielding "Lionheart", the Legendary Gunblade - he will be a 
+match for anyone.
+~
+3 136 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10301
+sorceress zeal~
+The SorceresS~
+A young woman, although very tired on her throne, awaits your presence.
+~
+The Ruler of Trabia Garden, proclaimed by the false prophets to free the world
+from the very chaos of everyday life, is Zeal Roniji - The SorceresS.
+Nothing much is known of her past, althought it was rumored that she was the
+Evil Queen which had craved for the destruction of this world.
+As you ponder on this, she raise her head and look at you with stunning blue
+eyes. Looking at her, you are amazed at the beauty of her long flowing hair,
+the softness of her white, tender skin and the sheer intelligence of her
+powerful mind which is affecting you all now.
+
+'You have come in vain dear mortal', she suddenly say as if she was reading
+your heart... her voice, is like sweet music to your ears.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10307
+Zylara girl~
+Zylara~
+A beautiful teenager lies here playing with her german shepard.
+~
+This beautiful, long blond hair girl... Daughter of the Divine SorceresS,
+the Crystal Child is here standing ablazed in all of her glory. Dressed
+from head to toe in sparkling jewelry with soft makeup, you blush as
+you take a step backwards, afraid to smear her beauty with your unworthy
+presence. Suddenly, a growl brings you back to the present as a Huge
+German Shephard rushes into the room and snuggle against her lap.
+
+'Eh? Heh heh puppie,' Zylara says sweetly as she smiles at you.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10308
+Jia figure~
+Jia~
+A hooded figure is here contemplating you softly.
+~
+One of the only surviving Jedi Masters from the Apocalypse, this beautiful
+young woman lost all hope of a peaceful life. Being hunted down by the
+Ramous Siths for years, she has finetune her skills to a point where the
+Force is a living part of her soul. Now, with the coming of the proclaimed
+SorceresS in this despised world, she now see a glimmer of hope and will
+do whatever it takes to achieve it...
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10309
+soldier man~
+a SOLDIER~
+A member of SOLDIER is here standing at attention.
+~
+Dressed in the finest armor throughout the land, this young man is ready
+to serve the SorceresS with all of his honour, protect the Garden from
+all costs, and attack any SeeDs who infiltrate the area - The SorceresS
+worst enemy.
+~
+3 0 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10310
+soldier woman~
+a SOLDIER~
+This SOLDIER walks around the vicinity, patrolling the area.
+~
+Dressed in the finest armor throughout the land, this young woman is ready
+to serve the SorceresS with all of her honour, protect the Garden from
+all costs, and attack any SeeDs who infiltrate the area - The SorceresS
+worst enemy.
+~
+3 0 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10311
+nydia soldier~
+Nydia~
+This young woman leans against the wall, caressing her sword.
+~
+A member of SOLDIER, first class, this beautiful girl sneers at your
+pitiful self as she continues to caress her sword absentmindly.
+You notice that instead of wearing the normal armor of SOLDIER, she
+is wearing a jacket over street clothes.
+~
+3 136 1000 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10312
+ruby soldier~
+Ruby~
+A young man rest here, leaning on his sword.
+~
+Looking at the blazing eyes of this young man, you quickly realise
+that he is a member of SOLDIER, first class.
+Graduating from SOLDIER with full honours, he now spend his time
+training waiting for the day of the Invasion of SeeD...
+Looking at you, he grins as he flip backwards to his feet, ready
+for battle.
+You notice that instead of wearing the normal armor of SOLDIER, he
+is wearing a jacket over street clothes.
+~
+3 136 1000 S
+950 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10313
+kiros soldier~
+Kiros~
+A young man is here, rapidly sparring with an imaginery opponent.
+~
+Known as 'the Striker' for his merciful mood of fighting, this member of SOLDIER, 
+first class is always training for the next battle.
+Seeing him in mock battle, you nod at his graceful, yet precise way of fighting
+knowing that he will be a tough opponent in a real battle.
+You notice that instead of wearing the normal armor of SOLDIER, he
+is wearing a jacket over street clothes.
+~
+3 136 1000 S
+940 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10314
+martine general~
+Martine~
+A huge powerful man in a ceremonial outfit stands here at attention.
+~
+The General of SOLDIER, Martine rules his sub-ordinates with an iron fist.
+Responsible for the overall running and safety of the Garden, this powerful
+man is well known for his abilities to stay up for as long as it takes to
+make sure everything goes smoothly.
+Seeing the ripples of his huge muscles, you are sure that you don't want to
+get on his bad side... at all.
+~
+3 136 1000 S
+980 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10315
+soldier man~
+a SOLDIER~
+a SOLDIER is on his knees, pointing a Bazooka at you!
+~
+Dressed in the finest armor throughout the land, this young man is ready
+to serve the SorceresS with all of his honour, protect the Garden from
+all costs, and attack any SeeDs who infiltrate the area - The SorceresS
+worst enemy.
+~
+3 0 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10316
+soldier woman~
+a SOLDIER~
+You shudder as a SOLDIER with a machine gun rush through the vicinity.
+~
+Dressed in the finest armor throughout the land, this young woman is ready
+to serve the SorceresS with all of her honour, protect the Garden from
+all costs, and attack any SeeDs who infiltrate the area - The SorceresS
+worst enemy.
+~
+3 0 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10317
+edgimus woman~
+Dr Edgimus~
+An chubby woman in white is walking around tending the sick.
+~
+As the Doctor of the Garden, Dr. Edgimus is well used to treating the one
+of many numerous cuts and diseases that plague the Red Barons and SOLDIER
+from their every day training and battling against SeeD.
+~
+3 136 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10318
+sick man soldier~
+a sick SOLDIER~
+A pale man is sleeping here on the bed, too weak to do anything.
+~
+Catching a strange disease from a distant land, this SOLDIER is now off
+duty recovering from the strange effects.
+Looking at his handsome face, you see how adorable he looks in that
+state.
+~
+3 0 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10319
+sick woman dragoon~
+a sick Dragoon~
+A pale woman is resting on her bed, looking at you.
+~
+With a huge bandage on her head as a result of her previous battle, this
+young woman know what mistakes she will not be making again next time.
+At the meanwhile though, she is now recuperating her wounds within the 
+Infirmitary.
+~
+3 0 1000 S
+650 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10320
+dragoon woman red baron~
+a Dragoon~
+This knight spread her wings as she stares silently into the distance.
+~
+Her fate sealed by the Curse of the Dragoon, this member of the Red Barons
+very action is guided by the grace of the SorceresS.
+With a very powerful spear in hand, she is prepared to die for the SorceresS.
+~
+3 0 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10321
+dragoon man red baron~
+a Dragoon~
+You duck quickly as a knight flies over you and landed silently.
+~
+His fate sealed by the Curse of the Dragoon, this member of the Red Barons
+very action is guided by the grace of the SorceresS.
+With a very powerful spear in hand, he is prepared to die for the SorceresS.
+~
+3 0 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10322
+commander dragoon man red baron~
+Kain~
+A powerful figure spreads his wings widely as they fill the entire room.
+~
+Leader of the Red Barons and a Right Hand Guard of the SorceresS, Commander
+Kain emits an aura of power as he walks through the room.
+Responsible for the Curse of Dragoon by killing the King of the Dragons,
+Vaevictis, Kain's heart is sadden at what he has brought to his squad.
+However, with the help of the SorceresS, the Curse of the Dragoon has been
+temporary subsided and as such, Kain and the Red Barons are prepared to go
+to the very depths of Hell itself to protect the SorceresS...
+This is one foe you should be very scared of.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10323
+gardener man old~
+the gardener~
+An old man is here on his knees tending the flowers of the Garden.
+~
+Known as the best Gardener throughout the lands, this old man blesses the
+Garden with the touch of his aged fingers.
+~
+3 0 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10324
+boy~
+a boy~
+a young boy is rolling on the grass, laughing with his friends.
+~
+Visiting the Garden of Trabia, this young boy is having the time of his life
+playing amongst the flowers and roaming through the high tech facility.
+~
+3 0 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#10325
+girl~
+a girl~
+a young girl is playing skip ropes with her friends, giggling loudly.
+~
+Visiting the Garden of Trabia, this young girl is having the time of her life
+playing amongst the flowers and roaming through the high tech facility.
+~
+3 0 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10326
+xu soldier woman~
+Xu~
+This young SOLDIER is here making sure all the kids are ok.
+~
+As sweet as the very winds themselves, this SOLDIER first class is here
+spending her time with all the young children of the Garden, making sure
+that all of their needs and wants are satisfied.
+Don't think for a minute though that she will be an easy kill as she is just
+as good as any of the other first class SOLDIERs around the vicinity. Just
+looking at the sword sheath on her back makes you shudder.
+You notice that instead of wearing the normal armor of SOLDIER, she
+is wearing a jacket over street clothes.
+~
+3 136 1000 S
+950 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10327
+hojo doctor man~
+Dr. Hojo~
+An distinguished researcher in white is here looking at a terminal.
+~
+Leader of the Research Laboratories of Trabia Garden, Dr. Hojo spends
+days and nights trying his best to figure out the whereabouts of The
+SorceresS' older daughter as well as the changes that took place within
+her.
+However, this is as much as you will ever known since both the SorceresS
+and Dr. Hojo are extremely quiet about the topic... almost as if they
+are hiding something.
+~
+3 136 1000 S
+800 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10328
+researcher doctor woman~
+A researcher~
+A young researcher in white is here working frantically.
+~
+As a researcher of the Garden, this young woman spends all of her time
+improving on the attacking and defensive capabilities of the Trabia
+Garden, as well as assist Dr. Hojo in his work whenever possible.
+As to exactly what the work is though is very high profile since only
+the SorceresS and Dr. Hojo himself knows for sure.
+~
+3 0 1000 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#10329
+takuma sakazaki~
+Takuma Sakazaki~
+A powerful martial artist flexes his muscles as he grins at you.
+~
+The father of the Sakazaki clan, Takuma is a master of KyoKugen Karate
+and isn't afraid of anyone or anything. Releasing his rage ten-folded,
+he can execute a barrage of strong combos at anytime.
+You sense a sparkle of hope from within him as he silently waits for
+the next aspiring kuruda assassin to teach.
+~
+3 136 0 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#10301
+cyan armor~
+#cCyan Armor#n~
+A cyan armor lies here.~
+~
+9 259 9
+25 0 0 0
+1 1000000 0
+#10302
+cyan helm helmet~
+#ca Cyan helmet#n~
+A cyan helmet lies here.~
+~
+9 259 17
+25 0 0 0
+1 1000000 0
+#10303
+cyan boots~
+#ca pair of Cyan Boots#n~
+A pair of boots lie here.~
+~
+9 259 65
+25 0 0 0
+1 1000000 0
+#10304
+cyan bracer~
+#ca Cyan bracer#n~
+A cyan bracer lies here.~
+~
+9 259 4097
+25 0 0 0
+1 1000000 0
+#10305
+machine gun submachine~
+#eA sub-machine gun#n~
+A machine gun lies at your feet.~
+~
+5 16384 8193
+0 35 40 6
+1 1000000 0
+A
+18 10
+A
+19 5
+#10306
+sword braver~
+#wthe Sword, 'Braver'#n~
+A huge sword lies at your feet.~
+~
+5 16384 8193
+0 50 70 3
+1 1000000 0
+A
+18 10
+A
+19 5
+#10307
+jacket street~
+#eStreet Jacket#n~
+A street jacket lies here.~
+~
+9 259 1025
+25 0 0 0
+1 1000000 0
+#10308
+shirt~
+#yHigh tech Shirt#n~
+A lovely shirt lies here.~
+~
+9 259 9
+25 0 0 0
+1 1000000 0
+#10309
+jeans~
+#eRugged Jeans#n~
+A patchy pairs of jeans lies here.~
+~
+9 259 33
+25 0 0 0
+1 1000000 0
+#10310
+spear chaos~
+#ethe Spear of Chaos#n~
+A long spear lies at your feet.~
+~
+5 16384 8193
+0 50 70 2
+1 1000000 0
+A
+18 10
+A
+19 5
+#10311
+ruby armor~
+#rRuby Armor#n~
+A ruby armor lies here.~
+~
+9 259 9
+25 0 0 0
+1 1000000 0
+#10312
+ruby helm helmet~
+#ra Ruby helmet#n~
+A ruby helmet lies here.~
+~
+9 259 17
+25 0 0 0
+1 1000000 0
+#10313
+ruby boots~
+#ra pair of Ruby Boots#n~
+A pair of boots lie here.~
+~
+9 259 65
+25 0 0 0
+1 1000000 0
+#10314
+ruby bracer~
+#ra Ruby bracer#n~
+A ruby bracer lies here.~
+~
+9 259 4097
+25 0 0 0
+1 1000000 0
+#10315
+lionheart gunblade~
+#w"LionHeart"#e, The Divine Gunblade#n~
+This unbelievable gunblade radiates endless energy right before your eyes.~
+~
+5 16384 8193
+18000 100 100 3
+1 1000000 0
+A
+18 100
+A
+19 100
+A
+17 -100
+#0
+
+
+#ROOMS
+#10301
+The Throne Room of Destiny~
+As you step into this huge room, sparkling energy whizzes past your face
+exploding into infinite colours of the rainbow. As a soothing wind starts
+caressing your aching body, a beam of holy energy suddenly shines into the
+middle of a room, upon a very beautiful throne made of diamonds.
+Standing by the throne, a young man and an elegant ruler awaits you...
+~
+0 1 0
+D2
+~
+~
+0 -1 10350
+S
+#10302
+Entrance to the Garden~
+The Huge, High Tech facility of Trabia Garden stands before you. Surrounded
+by a magical shield of swirling energy, you gasp as you realise the entire
+compound is floating high into the air. Looking around, you see a flowery
+path that goes through the Gardens of the Facility.
+Below you, off to the distance is the path to the Heavens... like you
+would want to go there.
+~
+0 1 0
+D0
+~
+~
+0 -1 10303
+D5
+~
+~
+0 -1 20150
+S
+#10303
+Dreamy Fields of the Garden~
+Walking on a flowery path towards the Headquarters of the Garden, you are
+amazed at the beauty of the scenery around you. Picking up a flower, you
+smile as you breathe in the fragrance, looking at all the young children
+playing around you and wondering why you can't live a peaceful life too.
+~
+0 1 0
+D0
+~
+~
+0 -1 10305
+D1
+~
+~
+0 -1 10304
+D2
+~
+~
+0 -1 10302
+D3
+~
+~
+0 -1 10306
+S
+#10304
+Dreamy Fields of the Garden~
+Walking on a flowery path towards the Headquarters of the Garden, you are
+amazed at the beauty of the scenery around you. Picking up a flower, you
+smile as you breathe in the fragrance, looking at all the young children
+playing around you and wondering why you can't live a peaceful life too.
+~
+0 1 0
+D0
+~
+~
+0 -1 10307
+D3
+~
+~
+0 -1 10303
+S
+#10306
+Dreamy Fields of the Garden~
+Walking on a flowery path towards the Headquarters of the Garden, you are
+amazed at the beauty of the scenery around you. Picking up a flower, you
+smile as you breathe in the fragrance, looking at all the young children
+playing around you and wondering why you can't live a peaceful life too.
+~
+0 1 0
+D0
+~
+~
+0 -1 10308
+D1
+~
+~
+0 -1 10303
+S
+#10308
+Dreamy Fields of the Garden~
+Walking on a flowery path towards the Headquarters of the Garden, you are
+amazed at the beauty of the scenery around you. Picking up a flower, you
+smile as you breathe in the fragrance, looking at all the young children
+playing around you and wondering why you can't live a peaceful life too.
+~
+0 1 0
+D2
+~
+~
+0 -1 10306
+D3
+~
+~
+0 -1 10305
+S
+#10307
+Dreamy Fields of the Garden~
+Walking on a flowery path towards the Headquarters of the Garden, you are
+amazed at the beauty of the scenery around you. Picking up a flower, you
+smile as you breathe in the fragrance, looking at all the young children
+playing around you and wondering why you can't live a peaceful life too.
+~
+0 1 0
+D2
+~
+~
+0 -1 10304
+D3
+~
+~
+0 -1 10305
+S
+#10305
+Entrance to the Inner Compound~
+The flowery path suddenly stops at a crystal staircase. At the top of the
+staircase lies a embrodied carpet leading into the headquarters of the
+Garden... residence of the SorceresS.
+All around you is the beautiful fields of the Garden where young children
+spend their time playing games with each other.
+~
+0 1 0
+D0
+~
+~
+0 -1 10309
+D3
+~
+~
+0 -1 10308
+D1
+~
+~
+0 -1 10307
+D2
+~
+~
+0 -1 10303
+S
+#10309
+The Reception Area~
+This huge room is where all the visitors of Trabia Garden waits before being escorted
+to their various destinations. Admiring the crystal floors, the marble stables and the
+unbelievable paintings, you decide to stay here for awhile before carrying onwards to
+either the entrance of the Compound behind you or to a corridor to the north.
+~
+0 1 0
+D2
+~
+~
+0 -1 10305
+D0
+~
+~
+0 -1 10310
+S
+#10310
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the next room.
+~
+0 1 0
+D0
+~
+~
+0 -1 10311
+D2
+~
+~
+0 -1 10309
+S
+#10311
+The glittering intersection~
+You are standing at the middle of a sparkling intersection. Looking around, you see that the
+embrodied carpet goes into four directions. To the west of you, you think you see the sound
+of intense training going on while to the east, you see the infirmitary in the distance. Both
+north and south the corridor goes onwards.
+~
+0 1 0
+D0
+~
+~
+0 -1 10313
+D3
+~
+~
+0 -1 10312
+D1
+~
+~
+0 -1 10314
+D2
+~
+~
+0 -1 10310
+S
+#10312
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the next room.
+~
+0 1 0
+D3
+~
+~
+0 -1 10315
+D1
+~
+~
+0 -1 10311
+S
+#10313
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the next room.
+~
+0 1 0
+D0
+~
+~
+0 -1 10329
+D2
+~
+~
+0 -1 10311
+S
+#10314
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the next room.
+~
+0 1 0
+D3
+~
+~
+0 -1 10311
+D1
+~
+~
+0 -1 10325
+S
+#10315
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the training grounds.
+~
+0 1 0
+D3
+~
+~
+0 -1 10316
+D1
+~
+~
+0 -1 10312
+S
+#10316
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D3
+~
+~
+0 -1 10317
+D1
+~
+~
+0 -1 10315
+D0
+~
+~
+0 -1 10318
+S
+#10318
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D0
+~
+~
+0 -1 10319
+D3
+~
+~
+0 -1 10320
+D2
+~
+~
+0 -1 10316
+S
+#10319
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D3
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10318
+S
+#10320
+The Court Yard~
+Here, at the center of the chaos lies a huge platform, overlooking all of the
+action. On top of it is a high tech terminal with a huge comfy chair behind it.
+It seems that SOLDIER and the Red Barons take this training very, very serious
+and will allow no trivial matter to disrupt it. In all directions, the training
+is very intense.
+~
+0 1 0
+D0
+~
+~
+0 -1 10321
+D1
+~
+~
+0 -1 10318
+D2
+~
+~
+0 -1 10317
+D3
+~
+~
+0 -1 10323
+S
+#10317
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D3
+~
+~
+0 -1 10322
+D0
+~
+~
+0 -1 10320
+D1
+~
+~
+0 -1 10316
+S
+#10322
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D0
+~
+~
+0 -1 10323
+D1
+~
+~
+0 -1 10317
+S
+#10323
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D0
+~
+~
+0 -1 10324
+D1
+~
+~
+0 -1 10320
+D2
+~
+~
+0 -1 10322
+S
+#10324
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D1
+~
+~
+0 -1 10321
+D2
+~
+~
+0 -1 10323
+S
+#10321
+The training grounds~
+In the middle of this devastated battle field is where SOLDIER and the Red Barons
+train everyday for their upcoming battles. Unlike normal training however,
+everything here is very real and it is quite easy to get killed so be on the look
+out for mines and the enemy.
+~
+0 1 0
+D3
+~
+~
+0 -1 10324
+D1
+~
+~
+0 -1 10319
+D2
+~
+~
+0 -1 10320
+S
+#10325
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the next room.
+~
+0 1 0
+D3
+~
+~
+0 -1 10314
+D1
+~
+~
+0 -1 10326
+S
+#10326
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue on to
+the infirmitary.
+~
+0 1 0
+D3
+~
+~
+0 -1 10325
+D1
+~
+~
+0 -1 10327
+S
+#10327
+The Infirmitary~
+Here, in these small rooms is where the sick get tended in the Garden. Looking at
+all of the advanced equipment with the latest in technology, you are not surprised
+that they is hardly anyone here. In front of you is a huge desk with alot of
+paper work on it and to the north is another small room.
+~
+0 1 0
+D3
+~
+~
+0 -1 10326
+D0
+~
+~
+0 -1 10328
+S
+#10328
+The Infirmitary~
+Here, in these small rooms is where the sick get tended in the Garden. Looking at
+all of the advanced equipment with the latest in technology, you are not surprised
+that they is hardly anyone here. You see a small number of beds in front of you with
+sick people recuperating from their wounds. Looking at their faces, you can tell that
+they are quite angry at being here. To the south is the main room of the Infirmitary.
+~
+0 1 0
+D2
+~
+~
+0 -1 10327
+S
+#10329
+The Elevator~
+This High Tech elevator is the only means to get access to the other levels of the
+Garden. Instead of a button to press, a hovering ball of energy asks which floor
+you wish to go to.
+~
+0 1 0
+D2
+~
+~
+0 -1 10313
+D4
+~
+~
+0 -1 10330
+S
+#10330
+The Elevator~
+This High Tech elevator is the only means to get access to the other levels of the
+Garden. Instead of a button to press, a hovering ball of energy asks which floor
+you wish to go to.
+~
+0 1 0
+D2
+~
+~
+0 -1 10331
+D4
+~
+~
+0 -1 10332
+D5
+~
+~
+0 -1 10329
+S
+#10332
+The Elevator~
+This High Tech elevator is the only means to get access to the other levels of the
+Garden. Instead of a button to press, a hovering ball of energy asks which floor
+you wish to go to.
+~
+0 1 0
+D4
+~
+~
+0 -1 10350
+D2
+~
+~
+0 -1 10349
+D5
+~
+~
+0 -1 10330
+S
+#10350
+The Elevator~
+This High Tech elevator is the only means to get access to the other levels of the
+Garden. Instead of a button to press, a hovering ball of energy asks which floor
+you wish to go to.
+~
+0 1 0
+D0
+~
+~
+0 -1 10301
+D5
+~
+~
+0 -1 10332
+S
+#10331
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue onwards.
+~
+0 1 0
+D0
+~
+~
+0 -1 10330
+D2
+~
+~
+0 -1 10333
+S
+#10333
+The glittering T-section~
+At a T-section, you have one of three choices - Go east to the Barracks of the Garden,
+go west to the Research Laboratory or go back towards the elevator to the north. Before
+you decide on your path however, you admire the beauty of the Crystal artwork around
+you.
+~
+0 1 0
+D0
+~
+~
+0 -1 10331
+D1
+~
+~
+0 -1 10340
+D3
+~
+~
+0 -1 10334
+S
+#10334
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue onwards.
+~
+0 1 0
+D3
+~
+~
+0 -1 10335
+D1
+~
+~
+0 -1 10333
+S
+#10335
+Entrace to the Research Laboratories~
+Leaving the small corridor, you are now at a huge door. Inside is the heart of the
+scientific advancements of Trabia Garden, so it is probably worth a visit.
+~
+0 1 0
+D0
+~
+~
+0 -1 10336
+D1
+~
+~
+0 -1 10334
+S
+#10336
+the Research Laboratory~
+The room here is filled with a series of terminals, all connected to the very huge
+screen on the wall. Looking at the data there, you see preliminary info on Dark
+Paladins, Holy Paladins and SeeDs. Also, you can see the control mechanism of the
+garden being operated at full capacity.
+~
+0 1 0
+D0
+~
+~
+0 -1 10337
+D1
+~
+~
+0 -1 10338
+D2
+~
+~
+0 -1 10335
+S
+#10337
+the Research Laboratory~
+The room here is filled with a series of terminals, all connected to the very huge
+screen on the wall. Looking at the data there, you see preliminary info on Dark
+Paladins, Holy Paladins and SeeDs. Also, you can see the control mechanism of the
+garden being operated at full capacity.
+~
+0 1 0
+D1
+~
+~
+0 -1 10339
+D2
+~
+~
+0 -1 10336
+S
+#10339
+the Research Laboratory~
+The room here is filled with a series of terminals, all connected to the very huge
+screen on the wall. Looking at the data there, you see preliminary info on Dark
+Paladins, Holy Paladins and SeeDs. Also, you can see the control mechanism of the
+garden being operated at full capacity.
+~
+0 1 0
+D3
+~
+~
+0 -1 10337
+D2
+~
+~
+0 -1 10338
+S
+#10338
+the Research Laboratory~
+The room here is filled with a series of terminals, all connected to the very huge
+screen on the wall. Looking at the data there, you see preliminary info on Dark
+Paladins, Holy Paladins and SeeDs. Also, you can see the control mechanism of the
+garden being operated at full capacity.
+~
+0 1 0
+D3
+~
+~
+0 -1 10336
+D0
+~
+~
+0 -1 10339
+S
+#10340
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue onwards.
+~
+0 1 0
+D3
+~
+~
+0 -1 10333
+D1
+~
+~
+0 -1 10341
+S
+#10341
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue onwards.
+~
+0 1 0
+D3
+~
+~
+0 -1 10340
+D1
+~
+~
+0 -1 10342
+S
+#10342
+Entrance to the Barracks~
+This is where the members of SOLDIER and Red Barons spend their recreational time
+from all of their hard training. Nevertheless, even then they are well prepared
+for any type of invasion so caution is still advised.
+~
+0 1 0
+D3
+~
+~
+0 -1 10341
+D2
+~
+~
+0 -1 10343
+S
+#10343
+the Barracks~
+Rows of Bunks and basins greet your eyes as you step into this room. Unlike most
+barracks however, this place is amzing clean. It makes you wonder why.
+~
+0 1 0
+D3
+~
+~
+0 -1 10344
+D1
+~
+~
+0 -1 10345
+D2
+~
+~
+0 -1 10346
+D0
+~
+~
+0 -1 10342
+S
+#10344
+the Barracks~
+Rows of Bunks and basins greet your eyes as you step into this room. Unlike most
+barracks however, this place is amzing clean. It makes you wonder why.
+~
+0 1 0
+D1
+~
+~
+0 -1 10343
+D2
+~
+~
+0 -1 10347
+S
+#10347
+the Barracks~
+Rows of Bunks and basins greet your eyes as you step into this room. Unlike most
+barracks however, this place is amzing clean. It makes you wonder why.
+~
+0 1 0
+D1
+~
+~
+0 -1 10346
+D0
+~
+~
+0 -1 10344
+S
+#10346
+the Barracks~
+Rows of Bunks and basins greet your eyes as you step into this room. Unlike most
+barracks however, this place is amzing clean. It makes you wonder why.
+~
+0 1 0
+D3
+~
+~
+0 -1 10347
+D0
+~
+~
+0 -1 10343
+D1
+~
+~
+0 -1 10348
+S
+#10348
+the Barracks~
+Rows of Bunks and basins greet your eyes as you step into this room. Unlike most
+barracks however, this place is amzing clean. It makes you wonder why.
+~
+0 1 0
+D3
+~
+~
+0 -1 10346
+D0
+~
+~
+0 -1 10345
+S
+#10345
+the Barracks~
+Rows of Bunks and basins greet your eyes as you step into this room. Unlike most
+barracks however, this place is amzing clean. It makes you wonder why.
+~
+0 1 0
+D3
+~
+~
+0 -1 10343
+D2
+~
+~
+0 -1 10348
+S
+#10349
+The glittering corridor~
+As you walk through this small corridor, you stop to gaze at your reflection from
+the crystal walls. Brushing your hair as you admire yourself, you continue onwards
+to the Executive Domitories.
+~
+0 1 0
+D0
+~
+~
+0 -1 10332
+D2
+~
+~
+0 -1 10351
+S
+#10351
+The Executive Domitory~
+This is where all the top administrative and Royalty of the Garden Resides. In
+all directions is a personal room of one person. To the north is the direction
+to the elevator.
+~
+0 1 0
+D0
+~
+~
+0 -1 10349
+D3
+~
+~
+0 -1 10354
+D1
+~
+~
+0 -1 10353
+D2
+~
+~
+0 -1 10352
+S
+#10352
+Mystical Room of Legendary Diamonds~
+Wow, unlike the manificant display of crystal artwork through the rest of the
+Garden, this room is finely detailed in the finest of Diamonds throughout the
+lands. Seeing this, you know immediately that you are in one of the Royalty
+rooms. Walking past the huge, fluffy bed, you step over a magnazine. Picking
+it up, you see that it is a dogs magnazine. There is an exit to the north.
+~
+0 1 0
+D0
+~
+~
+0 -1 10351
+S
+#10353
+In the Mind of the Trinity~
+Unlike other rooms, it appears that you are in some sort of illusion or dimension.
+The very walls, floor and ceiling keeps on rotating in random directions almost
+like you are rolling on top of some ball. Suddenly, everything goes dark as it
+appears you are floating endlessly through space. Struggling to turn yourself to
+the left, you see an exit there.
+~
+0 1 0
+D3
+~
+~
+0 -1 10351
+S
+#10354
+Beyond the Darkness~
+This room is totally devoid of anything, even a rug to lie on. However, staring
+deep into the darkness, you think you see a figure lurking at the corner.
+As two glowing eyes focus on towards you, you see that you were right. The exit
+back to the rest of the dormitories is to the right.
+~
+0 1 0
+D1
+~
+~
+0 -1 10351
+S
+#0
+
+#SPECIALS
+S
+
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#$

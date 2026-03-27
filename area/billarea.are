@@ -1,0 +1,566 @@
+#AREADATA
+Name        #gT#Gh#ge #0Land of #RBill#7              ~
+Builders    Datern~
+VNUMs       34000 35000
+Security    1
+Recall      800
+Land        0
+End
+
+
+
+#MOBILES
+#34000
+Thief~
+A thief~
+#0A #rsly looking man #qstands here#n.
+~
+~
+1 0 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#34001
+Believer~
+a Believer~
+#LA #7church believer prays here#n.
+~
+This is a church going person.
+~
+1 0 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#34002
+Sharkman~
+Sharkman~
+#qHere is a #LShark looking #rman#n.
+~
+~
+1 0 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34003
+Bill~
+Bill~
+A #rman named #RBill #nis here.
+~
+~
+1 0 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34004
+Shit~
+Shit~
+#RA piece of #rshit #nlies #Lhere#n.
+~
+~
+1 0 0 S
+800 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34005
+Wife~
+Woman~
+#LBill's #rwife #Wlies here#n.
+~
+~
+1 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34006
+Resident~
+Resident~
+#LBills #7friend #ris here#n.
+~
+~
+1 0 0 S
+500 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34007
+Death~
+#0Death#n~
+#cGuess who is here#n? #0Death!
+~
+~
+1 0 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34008
+Maid~
+#7Maid#n~
+#7A #RM#ra#Gi#gd#n #Pi#ps #Ch#7e#cr#0e#n.
+~
+~
+1 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34009
+Clothes~
+#0Clothes#n~
+#0C#7l#Ro#Ct#rh#ce#0s #Rattack #yy#so#qu #Lh#7e#0r#Ce#7.#n
+~
+~
+1 0 0 S
+900 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34010
+#sA #sR#so#sb#sb#se#sr#n~
+#sA #sR#so#sb#sb#se#sr~
+#sA #sR#so#sb#sb#se#sr #0is here #LH#Co#Ll#Cd#Li#Cn#Lg #RBill#g'#Rs #0T#7v #yS#Pe#yt#n
+~
+~
+1 0 0 S
+5001 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34011
+Naked Woman~
+#RA #CNa#7k#Ced #0W#Ro#0m#Ra#0n#n~
+#RA #CNa#7k#Ced #0W#Ro#0m#Ra#0n #ris standing #Gh#ge#Gr#ge#n
+~
+~
+1 0 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34012
+Rat~
+#RRats#n~
+#RR#ya#0t#Gs #rs#gc#qu#sr#sr#sy #sa#sc#sr#so#ss#ss #st#sh#se #sg#sr#so#su#sn#sd#7.#n
+~
+~
+1 0 0 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#34013
+A Large Wine Bottle~
+#gA #RLarge #PW#pi#Pn#pe #LB#co#Lt#ct#Ll#ce#n~
+#gA #RLarge #PW#pi#Pn#pe #LB#co#Lt#ct#Ll#ce#n #0is lying #Rhere on the #0B#7a#0s#7e#0m#7e#0n#7t #gF#Gl#go#Go#gr#n
+~
+~
+1 0 0 S
+5000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#34000
+#0Dark Alley#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34002
+D1
+~
+~
+0 0 34003
+D2
+~
+~
+0 0 34001
+D3
+~
+~
+0 0 20202
+S
+#34001
+#7Church#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34000
+S
+#34002
+#LOcean Of Despair#n~
+~
+0 0 0
+D2
+~
+~
+0 0 34000
+S
+#34003
+#gHome #Gof #RBill#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34004
+D1
+~
+~
+0 0 34007
+D3
+~
+~
+0 0 34000
+S
+#34004
+#rDarker Alley#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34005
+D2
+~
+~
+0 0 34003
+S
+#34005
+#rDarker Alley#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34006
+D2
+~
+~
+0 0 34004
+S
+#34006
+#rThe #0Darkest #rAlley#n~
+~
+0 0 0
+D2
+~
+~
+0 0 34005
+S
+#34007
+#RBill#g'#Rs #gLiving #GRoom#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34010
+D1
+~
+~
+0 0 34009
+D2
+~
+~
+0 0 34008
+D3
+~
+~
+0 0 34003
+D4
+~
+~
+0 0 34011
+D5
+~
+~
+0 0 34027
+S
+#34008
+#LThe #gB#Ga#gt#Gh#gr#Go#go#Gm #7of #RBill#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34007
+S
+#34009
+#RA #LM#Ca#7g#Ln#Ci#7f#Li#Cc#7e#Ln#Ct #gK#Gi#gt#Gc#gh#Ge#gn#n~
+~
+0 4 0
+D3
+~
+~
+0 0 34007
+S
+#34010
+#RA #0H#7u#0g#7e #gD#Gi#gn#Gi#gn#Gg #CRoom#n~
+~
+0 4 0
+D2
+~
+~
+0 0 34007
+D5
+~
+~
+0 0 34028
+S
+#34011
+#RThe #gS#Ge#gc#Go#gn#Gd #0F#7l#0o#7o#0r#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34018
+D1
+~
+~
+0 0 34020
+D2
+~
+~
+0 0 34026
+D3
+~
+~
+0 0 34012
+D5
+~
+~
+0 0 34007
+S
+#34012
+#RA #LH#Ca#Ll#Cl#Lw#Ca#Ly#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34017
+D1
+~
+~
+0 0 34011
+D2
+~
+~
+0 0 34016
+D3
+~
+~
+0 0 34013
+S
+#34013
+#gE#Gn#gd #Rof #cThe #LH#Ca#Ll#Cl#Lw#Ca#Ly#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34015
+D1
+~
+~
+0 0 34012
+D2
+~
+~
+0 0 34014
+S
+#34014
+#RA #CB#re#Cd#rr#Co#ro#Cm#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34013
+S
+#34015
+#RA #LB#Re#Ld#Rr#Lo#Ro#Lm#n~
+~
+0 4 0
+D2
+~
+~
+0 0 34013
+S
+#34016
+#RA #gB#Re#gd#Rr#go#Ro#gm#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34012
+S
+#34017
+#gA #RB#0e#Rd#0r#Ro#0o#Rm#n~
+~
+0 4 0
+D2
+~
+~
+0 0 34012
+S
+#34018
+#0The #RM#ra#Rs#rt#Re#rr #gB#Ge#gd#Gr#go#Go#gm#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34019
+D2
+~
+~
+0 0 34011
+S
+#34019
+#RA #LW#ca#Ll#ck#g-#LI#cn #GC#gl#Go#gs#Ge#gt#n~
+~
+0 4 0
+D2
+~
+~
+0 0 34018
+S
+#34020
+#RA #LH#Ca#Ll#Cl#Lw#Ca#Ly#n~
+~
+0 4 0
+D0
+~
+~
+0 0 34022
+D1
+~
+~
+0 0 34023
+D2
+~
+~
+0 0 34021
+D3
+~
+~
+0 0 34011
+S
+#34021
+#LA #0B#7e#0d#7r#0o#7o#0m#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34020
+S
+#34022
+#RA #GB#Re#Gd#Rr#Go#Ro#Gm#n~
+~
+0 0 0
+D2
+~
+~
+0 0 34020
+S
+#34023
+#gE#Gn#gd #0of #RThe #LH#Ca#Ll#Cl#Lw#Ca#Ly#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34024
+D2
+~
+~
+0 0 34025
+D3
+~
+~
+0 0 34020
+S
+#34024
+#RA #yB#Pe#yd#Pr#yo#Po#ym#n~
+~
+0 0 0
+D2
+~
+~
+0 0 34023
+S
+#34025
+#yA #RB#Pe#Rd#Pr#Ro#Po#Rm#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34023
+S
+#34026
+#RA #qS#Lh#qo#Lw#qe#Lr #s?#s!#s?#s!#s?#s!#s?#s!#s?#s!#s?#s!#s?#s!#n~
+~
+0 0 0
+D0
+~
+~
+0 0 34011
+S
+#34027
+#rThe #0B#7a#0s#7e#0m#7e#0n#7t#n~
+~
+0 0 0
+D4
+~
+~
+0 0 34007
+S
+#34028
+#RThe #PW#pi#Pn#pe #LC#ye#Ll#yl#La#yr#n~
+~
+0 0 0
+D4
+~
+~
+0 0 34010
+S
+#34029
+~
+~
+0 4 0
+S
+#34030
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

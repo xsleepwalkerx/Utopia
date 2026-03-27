@@ -1,0 +1,1097 @@
+#AREADATA
+Name        Golden Road~
+Builders    Imms~
+VNUMs       20000 20099
+Security    9
+Recall      0
+Land        0
+End
+
+#MOBILES
+#20000
+bee mutant~
+A mutant bee~
+A large bee is here buzzing around you!
+~
+Yike! Where did this KILLER bee came from!?!
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20001
+mutant flower~
+A mutant flower~
+Vines leap from the ground wrapping themselves across your feet!
+~
+Now you have heard of flower power, but this is RIDICIOUS!
+A long vine made out of a strange material looks like it come
+to life as it attacks you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#20000
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20001
+D3
+~
+~
+0 -1 17000
+S
+#20001
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20002
+D2
+~
+~
+0 -1 20000
+S
+#20002
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20013
+D1
+~
+~
+0 -1 20003
+D2
+~
+~
+0 -1 20001
+D3
+~
+~
+0 -1 20028
+D4
+~
+~
+0 -1 20069
+D5
+~
+~
+0 -1 20048
+S
+#20003
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20004
+D3
+~
+~
+0 -1 20002
+S
+#20004
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20005
+D3
+~
+~
+0 -1 20003
+S
+#20005
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20006
+D2
+~
+~
+0 -1 20004
+S
+#20006
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20007
+D2
+~
+~
+0 -1 20005
+S
+#20007
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20008
+D2
+~
+~
+0 -1 20006
+S
+#20008
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D5
+~
+~
+0 -1 20009
+S
+#20009
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D4
+~
+~
+0 -1 20008
+D5
+~
+~
+0 -1 20010
+S
+#20010
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20011
+D4
+~
+~
+0 -1 20009
+S
+#20011
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20012
+D2
+~
+~
+0 -1 20010
+S
+#20012
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20042
+D2
+~
+~
+0 -1 20011
+D4
+~
+~
+0 -1 20053
+S
+#20013
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20014
+D2
+~
+~
+0 -1 20002
+S
+#20014
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20013
+D4
+~
+~
+0 -1 20015
+S
+#20015
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20016
+D5
+~
+~
+0 -1 20014
+S
+#20016
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20017
+D2
+~
+~
+0 -1 20015
+D3
+~
+~
+0 -1 20052
+S
+#20017
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20018
+D2
+~
+~
+0 -1 20016
+S
+#20018
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20019
+D2
+~
+~
+0 -1 20017
+S
+#20019
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20018
+D3
+~
+~
+0 -1 20020
+D5
+~
+~
+0 -1 20056
+S
+#20020
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20019
+D3
+~
+~
+0 -1 20021
+S
+#20021
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20022
+D1
+~
+~
+0 -1 20020
+S
+#20022
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20021
+D5
+~
+~
+0 -1 20023
+S
+#20023
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20024
+D4
+~
+~
+0 -1 20022
+S
+#20024
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20025
+D2
+~
+~
+0 -1 20023
+S
+#20025
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20026
+D3
+~
+~
+0 -1 20024
+D5
+~
+~
+0 -1 20061
+S
+#20026
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20027
+D3
+~
+~
+0 -1 824
+D2
+~
+~
+0 -1 20025
+D4
+~
+~
+0 -1 20061
+S
+#20027
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20026
+S
+#20028
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20002
+D3
+~
+~
+0 -1 20029
+S
+#20029
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20030
+D1
+~
+~
+0 -1 20028
+S
+#20030
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20031
+D2
+~
+~
+0 -1 20029
+S
+#20031
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20032
+D2
+~
+~
+0 -1 20030
+S
+#20032
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20033
+D2
+~
+~
+0 -1 20031
+S
+#20033
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20034
+D3
+~
+~
+0 -1 20032
+S
+#20034
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20035
+D3
+~
+~
+0 -1 20033
+S
+#20035
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20036
+D2
+~
+~
+0 -1 20034
+S
+#20036
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20037
+D3
+~
+~
+0 -1 20035
+D5
+~
+~
+0 -1 20042
+S
+#20037
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20036
+D4
+~
+~
+0 -1 20038
+S
+#20038
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20039
+D5
+~
+~
+0 -1 20037
+S
+#20039
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20040
+D2
+~
+~
+0 -1 20038
+S
+#20040
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20041
+D2
+~
+~
+0 -1 20039
+S
+#20041
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20042
+D3
+~
+~
+0 -1 20040
+S
+#20042
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20043
+D2
+~
+~
+0 -1 20012
+D3
+~
+~
+0 -1 20041
+D4
+~
+~
+0 -1 20036
+S
+#20043
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20042
+D4
+~
+~
+0 -1 20044
+S
+#20044
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D3
+~
+~
+0 -1 20045
+D5
+~
+~
+0 -1 20043
+S
+#20045
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20044
+D3
+~
+~
+0 -1 20046
+S
+#20046
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20047
+D1
+~
+~
+0 -1 20045
+S
+#20047
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20048
+D2
+~
+~
+0 -1 20046
+S
+#20048
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20049
+D2
+~
+~
+0 -1 20047
+D4
+~
+~
+0 -1 20002
+S
+#20049
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20050
+D3
+~
+~
+0 -1 20048
+S
+#20050
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D3
+~
+~
+0 -1 20049
+D5
+~
+~
+0 -1 20051
+S
+#20051
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20052
+D4
+~
+~
+0 -1 20050
+S
+#20052
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20051
+D1
+~
+~
+0 -1 20016
+D3
+~
+~
+0 -1 2000
+S
+#20053
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20054
+D5
+~
+~
+0 -1 20012
+S
+#20054
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20055
+D2
+~
+~
+0 -1 20053
+S
+#20055
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20054
+D4
+~
+~
+0 -1 20056
+S
+#20056
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D3
+~
+~
+0 -1 20057
+D4
+~
+~
+0 -1 20019
+D5
+~
+~
+0 -1 20055
+S
+#20057
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20056
+D3
+~
+~
+0 -1 20058
+S
+#20058
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20059
+D1
+~
+~
+0 -1 20057
+S
+#20059
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20060
+D2
+~
+~
+0 -1 20058
+S
+#20060
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20061
+D3
+~
+~
+0 -1 20059
+D4
+~
+~
+0 -1 8114
+S
+#20061
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20062
+D2
+~
+~
+0 -1 20060
+D4
+~
+~
+0 -1 20025
+D5
+~
+~
+0 -1 20026
+S
+#20062
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20061
+D3
+~
+~
+0 -1 20063
+S
+#20063
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20062
+D3
+~
+~
+0 -1 20064
+S
+#20064
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20065
+D1
+~
+~
+0 -1 20063
+S
+#20065
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D2
+~
+~
+0 -1 20064
+D4
+~
+~
+0 -1 20066
+S
+#20066
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20067
+D5
+~
+~
+0 -1 20065
+S
+#20067
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D0
+~
+~
+0 -1 20068
+D2
+~
+~
+0 -1 20066
+S
+#20068
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D1
+~
+~
+0 -1 20069
+D2
+~
+~
+0 -1 20067
+S
+#20069
+Golden Road~
+You are walking the Golden Road.
+~
+0 0 1
+D3
+~
+~
+0 -1 20068
+D5
+~
+~
+0 -1 20002
+D0
+~
+~
+0 -1 21500
+S
+#0
+
+#RESETS
+S
+
+
+#$

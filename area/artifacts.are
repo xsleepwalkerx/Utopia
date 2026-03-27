@@ -1,0 +1,174 @@
+#AREADATA
+Name        Artifacts~
+Builders    Imms~
+VNUMs       900 906
+Security    1
+Recall      3005
+Land        0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#900
+revenge blade demonic~
+#0the #RRevenge #0Blade#n~
+A MASSIVE, JaGgEd, blade in the form of a spear is here pulsing demonic energy.~
+~
+5 0 8193
+30024 300000 350000 1
+1 0 0
+A
+18 200000
+A
+19 200000
+A
+17 -10000
+#901
+pendant faith~
+#cPendant of #wFaith#n~
+A spiritual pendant cries out for you.~
+~
+9 259 5
+25 0 0 80
+1 1000000 0
+#902
+illumina shield~
+#bIllumina Shield#n~
+A huge blue shield is on the ground.~
+~
+9 259 16385
+25 0 0 81
+1 1000000 0
+A
+14 5000000
+A
+17 -50000
+#903
+cloak darkness~
+The #PCloak#n of #eDarkness#n~
+A bleak cloaks is here crumbled on the floor.~
+~
+9 259 1025
+25 0 0 82
+1 1000000 0
+A
+12 5000000
+#904
+tooth of fenris~
+#wTooth of #RFenris#n~
+A large, decaying tooth lies here.~
+~
+9 259 16385
+25 0 0 83
+1 1000000 0
+A
+19 500000
+A
+18 500000
+#905
+helm thor~
+#yThe Helm of Thor#n~
+A magical helmet lies here.~
+~
+9 259 17
+25 0 0 84
+1 1000000 0
+A
+1 10
+A
+2 10
+A
+3 10
+A
+4 10
+A
+5 10
+#906
+breastplate soth~
+#eLord Soth's BreastPlate#n~
+A huge plate lies here.~
+~
+9 259 9
+25 0 0 85
+1 1000000 0
+A
+17 -25000
+A
+13 2000000
+#907
+fated star~
+the #efated #pstar#n~
+A glittering star hovers silently in the air.~
+~
+5 0 8193
+24 30000 30000 1
+1 0 0
+A
+18 30000
+A
+19 30000
+A
+17 -30000
+#908
+dragon staff~
+#oDragon #CStaff#n~
+A slender staff, in the shape of Bahamut lies at your feet.~
+~
+5 0 8193
+62024 50000 50000 7
+1 0 0
+A
+17 -10000
+#909
+dragon buster~
+#CDragon #yBuster#n~
+Even Bahamut himself is scared of the destructive capabilities of this weapon.~
+~
+5 0 8193
+61024 350000 350000 7
+1 0 0
+A
+18 200000
+A
+19 200000
+A
+17 -10000
+#910
+grahf's memento bracelet~
+#eGrahf's #PM#pe#Pm#pe#Pn#pt#Po#n~
+A beautiful bracelet is here with a small picture of Lacan and Sophia inside.~
+~
+9 259 4097
+25 0 0 63
+1 1000000 0
+#0
+
+
+
+#ROOMDATA
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

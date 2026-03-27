@@ -1,0 +1,905 @@
+#AREADATA
+Name        Pathway to the Heavens~
+Builders    Imms~
+VNUMs       20100 20199
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#20100
+rogue taira~
+A Taira Rogue~
+A figure leaps from the shadow towards you!
+~
+A member of the infamous Rogue clan, these ninjas
+will do anything in their power to destroy all
+unprepared travellers for their gold!
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#20100
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20101
+D2
+~
+~
+0 -1 821
+S
+#20101
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20102
+D2
+~
+~
+0 -1 20100
+S
+#20102
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20103
+D2
+~
+~
+0 -1 20101
+S
+#20103
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D1
+~
+~
+0 -1 20104
+D5
+~
+~
+0 -1 20102
+S
+#20104
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20105
+D3
+~
+~
+0 -1 20103
+S
+#20105
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20106
+D5
+~
+~
+0 -1 20104
+S
+#20106
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20107
+D5
+~
+~
+0 -1 20105
+S
+#20107
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20108
+D1
+~
+~
+0 -1 20106
+S
+#20108
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20109
+D3
+~
+~
+0 -1 20107
+S
+#20109
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20110
+D5
+~
+~
+0 -1 20108
+S
+#20110
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20111
+D1
+~
+~
+0 -1 20112
+D5
+~
+~
+0 -1 20109
+S
+#20111
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20113
+D1
+~
+~
+0 -1 20110
+S
+#20113
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20114
+D1
+~
+~
+0 -1 20111
+S
+#20114
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D5
+~
+~
+0 -1 20115
+D1
+~
+~
+0 -1 20113
+S
+#20115
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20116
+D4
+~
+~
+0 -1 20114
+S
+#20116
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20117
+D2
+~
+~
+0 -1 20115
+S
+#20117
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20118
+D2
+~
+~
+0 -1 20116
+S
+#20118
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D1
+~
+~
+0 -1 20119
+D5
+~
+~
+0 -1 20117
+S
+#20119
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20120
+D3
+~
+~
+0 -1 20118
+S
+#20120
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20121
+D5
+~
+~
+0 -1 20119
+S
+#20121
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20122
+D1
+~
+~
+0 -1 20123
+D5
+~
+~
+0 -1 20120
+S
+#20122
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D1
+~
+~
+0 -1 20121
+S
+#20123
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20121
+D2
+~
+~
+0 -1 20124
+S
+#20124
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20123
+D1
+~
+~
+0 -1 20125
+S
+#20125
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20124
+D4
+~
+~
+0 -1 20126
+D3
+~
+~
+0 -1 20127
+S
+#20126
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D5
+~
+~
+0 -1 20125
+D3
+~
+~
+0 -1 20127
+S
+#20127
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20128
+D1
+~
+~
+0 -1 20126
+S
+#20128
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20129
+D2
+~
+~
+0 -1 20127
+S
+#20129
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20130
+D5
+~
+~
+0 -1 20128
+S
+#20130
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20131
+D5
+~
+~
+0 -1 20129
+S
+#20131
+End of the Heavens~
+On the outcast of this beautiful path, you have come to the
+infamous ninja's territory. If you have any sense, you will 
+turn back now.
+~
+0 0 1
+D2
+~
+~
+0 -1 20130
+D4
+~
+~
+0 -1 16000
+S
+#20112
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20110
+D1
+~
+~
+0 -1 20132
+S
+#20132
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20112
+D0
+~
+~
+0 -1 20134
+D2
+~
+~
+0 -1 20133
+S
+#20133
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20132
+S
+#20134
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20135
+D2
+~
+~
+0 -1 20132
+S
+#20135
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20136
+D5
+~
+~
+0 -1 20134
+S
+#20136
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20137
+D5
+~
+~
+0 -1 20135
+S
+#20137
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20138
+D5
+~
+~
+0 -1 20136
+S
+#20138
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20139
+D5
+~
+~
+0 -1 20137
+S
+#20139
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20140
+D5
+~
+~
+0 -1 20138
+S
+#20140
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20141
+D1
+~
+~
+0 -1 20139
+S
+#20141
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D5
+~
+~
+0 -1 20140
+D1
+~
+~
+0 -1 20142
+S
+#20142
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20141
+D0
+~
+~
+0 -1 20144
+D2
+~
+~
+0 -1 20143
+S
+#20143
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20142
+D2
+~
+~
+0 -1 20145
+S
+#20145
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20143
+D4
+~
+~
+0 -1 20146
+S
+#20146
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D5
+~
+~
+0 -1 20145
+D1
+~
+~
+0 -1 20147
+S
+#20147
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D3
+~
+~
+0 -1 20146
+D4
+~
+~
+0 -1 20148
+S
+#20148
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D1
+~
+~
+0 -1 20149
+D5
+~
+~
+0 -1 20147
+S
+#20149
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D1
+~
+~
+0 -1 20150
+D3
+~
+~
+0 -1 20148
+S
+#20150
+End of the Heavens~
+Trabia Garden stands before you in all of its glory.
+Be careful of the SOLDIERs and dragoons which patrol
+these halls.
+~
+0 0 1
+D4
+~
+~
+0 -1 10302
+D3
+~
+~
+0 -1 20149
+S
+#20144
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20151
+D2
+~
+~
+0 -1 20142
+S
+#20151
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20152
+D2
+~
+~
+0 -1 20144
+S
+#20152
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20153
+D5
+~
+~
+0 -1 20151
+S
+#20153
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D0
+~
+~
+0 -1 20154
+D5
+~
+~
+0 -1 20152
+S
+#20154
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20155
+D2
+~
+~
+0 -1 20153
+S
+#20155
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D2
+~
+~
+0 -1 20156
+D5
+~
+~
+0 -1 20154
+S
+#20156
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20157
+D0
+~
+~
+0 -1 20155
+S
+#20157
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D1
+~
+~
+0 -1 20158
+D5
+~
+~
+0 -1 20156
+S
+#20158
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20159
+D3
+~
+~
+0 -1 20157
+S
+#20159
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D4
+~
+~
+0 -1 20160
+D5
+~
+~
+0 -1 20158
+S
+#20160
+Pathway to the Heavens~
+You are walking through a beautiful mountain.
+~
+0 0 1
+D5
+~
+~
+0 -1 20159
+D4
+~
+~
+0 -1 7000
+S
+#0
+
+#RESETS
+M 0 20100 10 20100
+S
+
+
+#$

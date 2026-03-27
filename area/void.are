@@ -1,0 +1,72 @@
+#AREADATA
+Name        Void~
+Builders    Imms~
+VNUMs       93 99
+Security    3
+Recall      0
+Land        0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#93
+Limbo~
+You are floating in a formless void, detached from all sensation of physical
+matter, surrounded by swirling glowing light, which fades into the relative
+darkness around you without any trace of edges or shadow.
+   There is a "No Tipping" notice pinned to the darkness.
+~
+0 1024 1
+D4
+~
+~
+0 -1 800
+S
+#94
+#RL#wove #RC#whamber#n~
+Within the soft tantilizing smell of perfumes and oils, a soft
+atmosphere of love and passionate pleasure fills the room. In
+the center of the room, is a large king-sized bed with soft
+silk sheets and laden with rose petals.  With the room, music
+produces a sexual feeling within all who stand here.  Teddy
+bears and hearts are scattered around the room.
+ 
+        .-"-,-"-.          .-"-,-"-.          .-"-,-"-.
+       (         )        (         )        (         )
+        `.     .'          `.     .'          `.     .'
+          `._.'              `._.'              `._.'
+ 
+~
+0 5 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

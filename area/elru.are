@@ -1,0 +1,513 @@
+#AREADATA
+Name        Town of Elru~
+Builders    Imms~
+VNUMs       3000 3499
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#3000
+hellspawn lesser~
+A Lesser HellSpawn~
+A massive demon roars loudly as it tears through the vicinity.
+~
+Destroying this peaceful town until ashes are but is remained,
+these demon warriors fill the air with their screams as they
+look for another victim.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#3000
+Dusty Path~
+A blood encrusted sign is here. Etched in blood informing you that this is the entrance to the doomed Demon Kingdom.
+~
+0 0 1
+D0
+~
+~
+0 -1 3001
+D3
+~
+~
+0 -1 20333
+S
+#3001
+Dusty Path~
+You hear mournful howls coming from all directions from undead demonic creatures.
+~
+0 0 1
+D0
+~
+~
+0 -1 3002
+D2
+~
+~
+0 -1 3000
+S
+#3002
+A smoldering room~
+You sense the presence of foul creatures waiting to attack at the slightest hint of fear.
+~
+0 0 1
+D1
+~
+~
+0 -1 3003
+D2
+~
+~
+0 -1 3001
+S
+#3003
+A smoldering ruin~
+You sense the presence of foul creatures waiting to attack at the slightest hint of fear.
+~
+0 0 1
+D1
+~
+~
+0 -1 3004
+D3
+~
+~
+0 -1 3002
+S
+#3004
+A smoldering ruin~
+You sense the presence of foul creatures waiting to attack at the slightest hint of fear.
+~
+0 0 1
+D1
+~
+~
+0 -1 3005
+D3
+~
+~
+0 -1 3003
+S
+#3005
+A narrowing walkway~
+Suddenly the path narrows and you can hear the rasping breath of a hell hound.
+~
+0 0 1
+D1
+~
+~
+0 -1 3006
+D3
+~
+~
+0 -1 3004
+S
+#3006
+A burning path~
+The path is alit from the foul breath of the demonic hell hounds.
+~
+0 0 1
+D0
+~
+~
+0 -1 3007
+D3
+~
+~
+0 -1 3005
+S
+#3007
+A burning path~
+The path is alit from the foul breath of the demonic hell hounds.
+~
+0 0 1
+D0
+~
+~
+0 -1 3008
+D2
+~
+~
+0 -1 3006
+S
+#3008
+A burning path~
+The path is alit from the foul breath of the demonic hell hounds.
+~
+0 0 1
+D0
+~
+~
+0 -1 3009
+D2
+~
+~
+0 -1 3007
+S
+#3009
+A narrow burning path~
+The path is alit from the foul breath of the demonic hell hounds.
+~
+0 0 1
+D0
+~
+~
+0 -1 3010
+D2
+~
+~
+0 -1 3008
+S
+#3010
+Hell bringer~
+A huge hellspawn ablaze in flames cowers at the sight of your presence.
+~
+0 0 1
+D0
+~
+~
+0 -1 3011
+D2
+~
+~
+0 -1 3009
+S
+#3011
+Hell bringer~
+A huge hellspawn ablaze in flames cowers at the sight of your presence.
+~
+0 0 1
+D0
+~
+~
+0 -1 3012
+D2
+~
+~
+0 -1 3010
+S
+#3012
+Narrow walkway~
+Sqautting to pass the fallen rubble overhead you see the light of the exit ahead.
+~
+0 0 1
+D0
+~
+~
+0 -1 3013
+D2
+~
+~
+0 -1 3011
+S
+#3013
+Salvation Maybe..~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D2
+~
+~
+0 -1 3012
+D3
+~
+~
+0 -1 3014
+S
+#3014
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D1
+~
+~
+0 -1 3013
+D3
+~
+~
+0 -1 3015
+S
+#3015
+the path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D1
+~
+~
+0 -1 3014
+D3
+~
+~
+0 -1 3016
+S
+#3016
+the path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D1
+~
+~
+0 -1 3015
+D3
+~
+~
+0 -1 3017
+S
+#3017
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D1
+~
+~
+0 -1 3016
+D3
+~
+~
+0 -1 3018
+S
+#3018
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D1
+~
+~
+0 -1 3017
+D3
+~
+~
+0 -1 3019
+S
+#3019
+Another Light~
+Seeing two lights before you,you are not sure where to go.Is it west or do I go...up?
+~
+0 0 1
+D1
+~
+~
+0 -1 3018
+D3
+~
+~
+0 -1 3020
+S
+#3020
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D1
+~
+~
+0 -1 3019
+D2
+~
+~
+0 -1 3021
+S
+#3021
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3020
+D2
+~
+~
+0 -1 3022
+S
+#3022
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3021
+D2
+~
+~
+0 -1 3023
+S
+#3023
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3022
+D1
+~
+~
+0 -1 3024
+S
+#3024
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D2
+~
+~
+0 -1 3025
+D3
+~
+~
+0 -1 3023
+S
+#3025
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3024
+D1
+~
+~
+0 -1 3026
+S
+#3026
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D2
+~
+~
+0 -1 3027
+D3
+~
+~
+0 -1 3025
+S
+#3027
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3026
+D2
+~
+~
+0 -1 3028
+S
+#3028
+The path continues~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3027
+D2
+~
+~
+0 -1 3029
+S
+#3029
+The path ends~
+Crawling between the rubble you breath sharply as you keep heading towards the light.
+~
+0 0 1
+D0
+~
+~
+0 -1 3028
+D5
+~
+~
+0 -1 3030
+S
+#3030
+Waiting Room~
+You sit and relax while waiting to transact some important business.
+~
+0 0 0
+D4
+~
+~
+0 -1 3029
+D5
+~
+~
+0 -1 3031
+S
+#3031
+Demon Elru Money Xchange~
+An old gnarled banker shuffles busily waiting to acquire your life's earnings.
+~
+0 0 0
+D4
+~
+~
+0 -1 3030
+D0
+~
+~
+0 -1 3032
+S
+#3032
+Elru's Tavarn~
+Here people of all types come together to rest their feet and get an ice cold Banks beer.
+~
+0 0 0
+D2
+~
+~
+0 -1 3031
+D5
+~
+~
+0 -1 3033
+S
+#3033
+Elru's Pool Hall~
+Here demonic underlings shoot the breeze as two people play on the pool table.
+~
+0 0 0
+D4
+~
+~
+0 -1 3032
+D0
+~
+~
+0 -1 3500
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+S
+
+
+#$

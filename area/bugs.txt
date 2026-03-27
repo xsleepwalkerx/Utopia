@@ -1,0 +1,1392 @@
+[*****] BUG: Creating config.sys
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Char_to_room: Jann -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[ 4500] Samus: la
+[*****] BUG: obj_from_room: NULL.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[30566] HellMuT: er
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Skipping uknown command in disabled.txt file.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_to_room: VreeCe -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: obj_from_room: NULL.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: obj_from_room: NULL.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: obj_from_room: NULL.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Extract_obj: obj 92 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[16500] Omni: i have 6 status and 4 pks.....i didn't eat any tokens wtf?
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 12 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_to_room: Avauriel -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Zyklon -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: DaeCeuS -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Vormav -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: eiji arenax -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: dole braveheart arena8 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: tyrael arena4 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Yusaki -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: terry bogard arena5 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: big joe arena9 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: kasumi arenay -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: drizzt do'urden arena2 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: seifer figure arena1 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: octavius toreador arena7 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: sparda arenaz -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: andria braveheart arena3 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: sparda arenaz -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: tyrael arena4 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Fread_char: no match. WORD: infravision'
+[*****] BUG: Fread_char: no match. WORD: infravision'
+[*****] BUG: Fread_char: no match. WORD: 100
+[*****] BUG: Fread_char: no match. WORD: 100
+[*****] BUG: Fread_char: no match. WORD: 100
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[21030] Hate: frenzy
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Get_obj_index: bad vnum 13521.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Extract_obj: obj 10 not found.
+[  800] Dracunos: I can't seem to get my auras of cursed rage to work, it says I don't know how to do that aura when I type something like aura inner 'bone shield' or some such
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Boot_db: bad section name.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Load_mobiles: vnum 1 non-S.
+[*****] BUG: Load_mobiles: vnum 1 non-S.
+[*****] BUG: Get_mob_index: bad vnum 20.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: obj_from_room: NULL.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Extract_obj: obj 171 not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Fread_char: no match. WORD: faerie
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_char: no match. WORD: faerie
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_char: no match. WORD: faerie
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Fread_char: no match. WORD: faerie
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[  800] DuCky: shad
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_to_room: zero kuruda assassin arenaa -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_to_room: zero kuruda assassin arenaa -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_to_room: zero kuruda assassin arenaa -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Extract_obj: obj 10 not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: NULL.
+[*****] BUG: Act: bad code -15.
+[*****] BUG: Act: bad code -15.
+[*****] BUG: Act: bad code -15.
+[*****] BUG: Act: bad code -15.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Get_mob_index: bad vnum 567.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_to_room: terry bogard arena5 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_to_room: Daore -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Shingo -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Daore -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Shingo -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Daore -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_to_room: Shingo -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Char_to_room: krizalid arena6 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Extract_obj: obj 901 not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Fread_word: word too long.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_to_room: terry bogard arena5 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Fread_string: EOF
+[*****] BUG: Load_char_obj: bad section.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Load_mobiles: vnum 3502 duplicated.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_to_room: terry bogard arena5 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Affect_location_name: unknown location -99.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[  800] Lilo: asdf
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Fread_obj: no match.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_to_room: Lahan -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_to_room: Lahan -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Char_to_room: terry bogard arena5 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Char_from_room: NULL.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_char: NULL.
+[*****] BUG: Extract_char: NULL.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Reverse Exit doesnt lead anywhere (create wall).
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Char_to_room: terry bogard arena5 -> NULL room!  Putting char in Crystal Cathedral (800)
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_char: NULL.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Load_char_obj: ## not found.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Fread_number: bad format.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Sig handler SIGSEGV
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Buffer overflow. Closing.
+
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Extract_obj: obj 12 chobj invalid.
+[*****] BUG: Write_to_buffer: Way too big. Closing.
+[*****] BUG: Char_from_room: ch not found.
+[*****] BUG: Buffer overflow. Closing.
+

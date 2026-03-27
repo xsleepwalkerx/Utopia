@@ -1,0 +1,958 @@
+#AREADATA
+Name        Castle of Ancilla~
+Builders    Imms~
+VNUMs       15500 15999
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#15500
+ancilla vampire~
+A hungry ancilla~
+This guard screams for your very blood.
+~
+One of the fiends cursed to guard the castle against intruders,
+this vampire lies in the shadows awaiting anyone foolish
+enough to venture into your grounds.
+~
+11 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#15501
+soulreaver vampire~
+A SoulReaver~
+A blurry vampire is here walking straight towards you.
+~
+Chosen by the La Magra himself to be an emissary of death,
+this vampire patrols the halls for intruders looking to end
+them all.
+~
+9 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#15502
+vampire~
+Cain~
+You feel the evil presence of this ancient vampire.
+~
+One of the oldest vampires, Cain will do whatever it takes
+to protect the La Magra from harm.
+~
+11 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#15503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+11 0 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#15504
+vampire daywalker shaman~
+A Daywalker Shaman~
+This old vampires meditates here to control his inner beast.
+~
+This fiend forbade the pleasure of blood and chaos to help other
+vampires achieve their innermost power.
+~
+11 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#15505
+vampire trainer~
+A Vampire Elder~
+This ancient vampire is here to teach you how to feast on your prey.
+~
+Too old to actively hunt for his pray, this vampire is all too willingly
+to teach you all the tricks he had learn in his past lives.
+~
+11 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#0
+
+
+#ROOMS
+#15500
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D0
+~
+~
+0 -1 15501
+D5
+~
+~
+0 -1 15034
+S
+#15501
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D0
+~
+~
+0 -1 15502
+D2
+~
+~
+0 -1 15500
+S
+#15502
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D0
+~
+~
+0 -1 15503
+D1
+~
+~
+0 -1 15504
+D3
+~
+~
+0 -1 15505
+D2
+~
+~
+0 -1 15501
+S
+#15505
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D0
+~
+~
+0 -1 15506
+D1
+~
+~
+0 -1 15502
+S
+#15504
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D0
+~
+~
+0 -1 15507
+D3
+~
+~
+0 -1 15502
+S
+#15507
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D3
+~
+~
+0 -1 15503
+D2
+~
+~
+0 -1 15504
+S
+#15506
+Ruined Courtyard~
+Once a powerful palace, it have fall prey to a horde of vampires who wanted
+it as their haven. Now as you walk past the decayed trees and rotted flowers,
+you offer a silent prayer to those who were sacrified.
+~
+0 0 0
+D1
+~
+~
+0 -1 15503
+D2
+~
+~
+0 -1 15505
+S
+#15503
+Broken Archway~
+A Huge Archway made of marble towers before you leading to the entrance of
+this cursed palace. Examining it, you see that it was broken in half centuries
+ago from some ancient battle.
+~
+0 0 0
+D1
+~
+~
+0 -1 15507
+D3
+~
+~
+0 -1 15506
+D0
+~
+~
+0 -1 15508
+D2
+~
+~
+0 -1 15502
+S
+#15508
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15509
+D2
+~
+~
+0 -1 15503
+S
+#15509
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15510
+D2
+~
+~
+0 -1 15508
+S
+#15510
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 15511
+D4
+~
+~
+0 -1 15521
+D5
+~
+~
+0 -1 15523
+D1
+~
+~
+0 -1 15512
+D2
+~
+~
+0 -1 15509
+S
+#15521
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D4
+~
+~
+0 -1 15522
+D5
+~
+~
+0 -1 15510
+S
+#15522
+Bloody Throne Room~
+This is where the La Magra shows his dominance, killing people
+at will for the slightest fault in their behaviour.
+~
+0 0 0
+D5
+~
+~
+0 -1 15521
+S
+#15511
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 15513
+D1
+~
+~
+0 -1 15510
+S
+#15513
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 15514
+D1
+~
+~
+0 -1 15511
+S
+#15514
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 15515
+D1
+~
+~
+0 -1 15513
+S
+#15515
+Feeding Grounds~
+This room is completely covered in blood. With endless corpses
+decaying from previous feedings, you see a bunch of vampires
+ravaging on a new victim. Stopping in the middle of their meal,
+they look at you curiously.
+~
+0 0 0
+D3
+~
+~
+0 -1 15516
+D1
+~
+~
+0 -1 15514
+D0
+~
+~
+0 -1 15517
+D2
+~
+~
+0 -1 15518
+S
+#15517
+Feeding Grounds~
+This room is completely covered in blood. With endless corpses
+decaying from previous feedings, you see a bunch of vampires
+ravaging on a new victim. Stopping in the middle of their meal,
+they look at you curiously.
+~
+0 0 0
+D2
+~
+~
+0 -1 15515
+D3
+~
+~
+0 -1 15519
+S
+#15518
+Feeding Grounds~
+This room is completely covered in blood. With endless corpses
+decaying from previous feedings, you see a bunch of vampires
+ravaging on a new victim. Stopping in the middle of their meal,
+they look at you curiously.
+~
+0 0 0
+D0
+~
+~
+0 -1 15515
+D3
+~
+~
+0 -1 15520
+S
+#15520
+Feeding Grounds~
+This room is completely covered in blood. With endless corpses
+decaying from previous feedings, you see a bunch of vampires
+ravaging on a new victim. Stopping in the middle of their meal,
+they look at you curiously.
+~
+0 0 0
+D0
+~
+~
+0 -1 15516
+D1
+~
+~
+0 -1 15518
+S
+#15519
+Feeding Grounds~
+This room is completely covered in blood. With endless corpses
+decaying from previous feedings, you see a bunch of vampires
+ravaging on a new victim. Stopping in the middle of their meal,
+they look at you curiously.
+~
+0 0 0
+D2
+~
+~
+0 -1 15516
+D1
+~
+~
+0 -1 15517
+S
+#15516
+Feeding Grounds~
+This room is completely covered in blood. With endless corpses
+decaying from previous feedings, you see a bunch of vampires
+ravaging on a new victim. Stopping in the middle of their meal,
+they look at you curiously.
+~
+0 0 0
+D0
+~
+~
+0 -1 15519
+D2
+~
+~
+0 -1 15520
+D1
+~
+~
+0 -1 15515
+S
+#15512
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D1
+~
+~
+0 -1 15524
+D3
+~
+~
+0 -1 15510
+S
+#15524
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D1
+~
+~
+0 -1 15525
+D3
+~
+~
+0 -1 15512
+S
+#15525
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D1
+~
+~
+0 -1 15526
+D3
+~
+~
+0 -1 15524
+S
+#15526
+Decayed Library~
+This area was totallt ramshacked by the invading vampires. Caring
+nothing about the history nor culture of this once magnificant
+palace, they totally destroyed everything in their paths.
+~
+0 0 0
+D1
+~
+~
+0 -1 15531
+D3
+~
+~
+0 -1 15525
+D0
+~
+~
+0 -1 15527
+D2
+~
+~
+0 -1 15528
+S
+#15528
+Decayed Library~
+This area was totallt ramshacked by the invading vampires. Caring
+nothing about the history nor culture of this once magnificant
+palace, they totally destroyed everything in their paths.
+~
+0 0 0
+D0
+~
+~
+0 -1 15526
+D1
+~
+~
+0 -1 15529
+S
+#15527
+Decayed Library~
+This area was totallt ramshacked by the invading vampires. Caring
+nothing about the history nor culture of this once magnificant
+palace, they totally destroyed everything in their paths.
+~
+0 0 0
+D2
+~
+~
+0 -1 15526
+D1
+~
+~
+0 -1 15530
+S
+#15530
+Decayed Library~
+This area was totallt ramshacked by the invading vampires. Caring
+nothing about the history nor culture of this once magnificant
+palace, they totally destroyed everything in their paths.
+~
+0 0 0
+D2
+~
+~
+0 -1 15531
+D3
+~
+~
+0 -1 15527
+S
+#15529
+Decayed Library~
+This area was totallt ramshacked by the invading vampires. Caring
+nothing about the history nor culture of this once magnificant
+palace, they totally destroyed everything in their paths.
+~
+0 0 0
+D0
+~
+~
+0 -1 15531
+D3
+~
+~
+0 -1 15528
+S
+#15531
+Decayed Library~
+This area was totallt ramshacked by the invading vampires. Caring
+nothing about the history nor culture of this once magnificant
+palace, they totally destroyed everything in their paths.
+~
+0 0 0
+D0
+~
+~
+0 -1 15530
+D3
+~
+~
+0 -1 15526
+D2
+~
+~
+0 -1 15529
+S
+#15523
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D4
+~
+~
+0 -1 15510
+D5
+~
+~
+0 -1 15532
+S
+#15532
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D4
+~
+~
+0 -1 15523
+D0
+~
+~
+0 -1 15534
+D2
+~
+~
+0 -1 15535
+D5
+~
+~
+0 -1 15533
+S
+#15534
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15536
+D2
+~
+~
+0 -1 15532
+S
+#15536
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15537
+D2
+~
+~
+0 -1 15534
+S
+#15537
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15538
+D2
+~
+~
+0 -1 15536
+S
+#15538
+A Room of Violent Screaming~
+Jumping back in terror from the high pitch screaming that is filling
+the room, you see a small bed and a book on a grand table. Who can
+sleep in this room must less live in it?
+~
+0 1024 0
+D2
+~
+~
+0 -1 15537
+S
+#15535
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15532
+D2
+~
+~
+0 -1 15539
+S
+#15539
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15535
+D2
+~
+~
+0 -1 15540
+S
+#15540
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15539
+D2
+~
+~
+0 -1 15541
+S
+#15541
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 15540
+D2
+~
+~
+0 -1 15542
+S
+#15542
+Room of Restoration~
+In this small room is where vampires go to hide from the deadly rays
+of the sun, and sigh as this ancient room magical powers restore
+them completely.
+~
+0 0 0
+D0
+~
+~
+0 -1 15541
+S
+#15533
+Bloody PassageWay~
+Hearing screams and moans in the distance, you silently step over
+poodles of blood left from a vampire feast lately. Shuddering,
+you carry onwards.
+~
+0 0 0
+D4
+~
+~
+0 -1 15532
+D5
+~
+~
+0 -1 15543
+S
+#15543
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D4
+~
+~
+0 -1 15533
+D1
+~
+~
+0 -1 15544
+S
+#15544
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D3
+~
+~
+0 -1 15543
+D1
+~
+~
+0 -1 15545
+S
+#15545
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D3
+~
+~
+0 -1 15544
+D1
+~
+~
+0 -1 15546
+S
+#15546
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D3
+~
+~
+0 -1 15545
+D5
+~
+~
+0 -1 15547
+S
+#15547
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D4
+~
+~
+0 -1 15546
+D5
+~
+~
+0 -1 15548
+S
+#15548
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D4
+~
+~
+0 -1 15547
+D3
+~
+~
+0 -1 15549
+S
+#15549
+The Crypt~
+It is in here, the darkest part of the castle where the vampires
+keep their fresh prey to later feast on.
+~
+0 0 0
+D3
+~
+~
+0 -1 15550
+D1
+~
+~
+0 -1 15548
+S
+#15550
+The Final Damnation~
+Looking at the terrified prisoners in front of you, they scream
+and beg for you to release them from their misery... one way
+or the other.
+~
+0 0 0
+D1
+~
+~
+0 -1 15549
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+M 0 15505 1 15547
+S
+
+#$

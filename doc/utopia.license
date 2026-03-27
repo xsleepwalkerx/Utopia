@@ -1,0 +1,42 @@
+Utopia
+September 1999 release
+
+mail hutopia@hotmail.com if you have any questions.
+
+=== Copyright and License Terms
+
+Diku Mud is copyright (C) 1990, 1991 by Sebastian Hammer, Michael Seifert,
+Hans Henrik Storfeldt, Tom Madsen, and Katja Nyboe.  Their license agreement
+is in the file 'license.doc'.
+
+Merc Diku Mud is a derivative of the original Diku Mud and is subject to their
+copyright and license agreement.  Merc Diku Mud contains substantial
+enhancements to Diku Mud.  These enhancements are copyright 1992, 1993 by
+Michael Chastain, Michael Quan, and Mitchell Tse.
+
+God Wars is a derivative of Merc2.1 and is subject to their copyright and
+license agreement, as well as those of Diku.  God Wars contains numerous
+code changes and additions.  With the exception of the prompt code, OLC
+and IMC, all these modifications are copyright 1994, 1995, 1996, 1997,
+1998 by Richard Woolcock.
+
+Utopia is a derivative of God Wars, and is also subject to he copyright
+and license terms of Diku, Merc and God Wars.
+
+In order to use Utopia you must follow the Diku license, Merc license,
+God Wars license and Utopia License
+
+The exact terms of the Diku license are in the file 'license.doc'.
+The exact terms of the Merc license are in the file 'license.txt'.
+The God Wars license terms are in a file 'license.gw'
+
+The Utopia License is :
+
+
+        -- Copyrights must remain UNCHANGED in original source.
+        -- 'Help utopia' must not be changed or removed from help.are
+           and must be available for any player to read.
+        -- If you start a mud running the Utopia codebase
+           you must notify me at hutopia@hotmail.com.
+        -- If you give out anything based on this codebase, this
+           license file MUST be included.

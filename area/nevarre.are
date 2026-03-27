@@ -1,0 +1,558 @@
+#AREADATA
+Name        Nevarre Lookout~
+Builders    Imms~
+VNUMs       16000 16499
+Security    9
+Recall      3001
+Land        0
+End
+
+
+
+#MOBILES
+#16000
+ninja nevarre~
+A Nevarre Ninja~
+A blurry figure leaps from the shadows to strike!
+~
+A ninja student under the leadership of the NightBlades,
+this ninja will do whatever it takes to learn all the
+secret techniques of his clan.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#16000
+A lookout tower~
+Standing on this small tower, you can see miles all around you.
+Protected and hidden by the natural rocky shielding of the Rotana
+mountains, this is a perfect place for a hideaway as well as a
+place to set up ambushes at will.
+~
+0 0 0
+D0
+~
+~
+0 -1 16001
+D1
+~
+~
+0 -1 16002
+D2
+~
+~
+0 -1 16003
+D5
+~
+~
+0 -1 20131
+S
+#16002
+A small room~
+One of the most rugged inns in the land, here travellers can rest
+their bones as they relax with a cold meal at hand.
+~
+0 0 0
+D3
+~
+~
+0 -1 16000
+S
+#16003
+A stone corner~
+Walking in this room, you notice the silent stares of powerful chunin
+warriors looking at you. It suddenly hit you that you are standing in
+the bank for the Nevarre Lookout where besides guarding the plunder
+they had claim, they also look after travellers' money safetly at the
+cost of their lives.
+~
+0 0 0
+D0
+~
+~
+0 -1 16000
+S
+#16001
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D2
+~
+~
+0 -1 16000
+D1
+~
+~
+0 -1 16004
+S
+#16004
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 16005
+D3
+~
+~
+0 -1 16001
+S
+#16005
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D3
+~
+~
+0 -1 16006
+D2
+~
+~
+0 -1 16004
+S
+#16006
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D1
+~
+~
+0 -1 16005
+D2
+~
+~
+0 -1 16007
+S
+#16007
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D4
+~
+~
+0 -1 16008
+D0
+~
+~
+0 -1 16006
+S
+#16008
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D5
+~
+~
+0 -1 16007
+D0
+~
+~
+0 -1 16009
+S
+#16009
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 16010
+D2
+~
+~
+0 -1 16008
+S
+#16010
+A lookout tower~
+Standing on this small tower, you can see miles all around you.
+Protected and hidden by the natural rocky shielding of the Rotana
+mountains, this is a perfect place for a hideaway as well as a
+place to set up ambushes at will.
+~
+0 0 0
+D1
+~
+~
+0 -1 16011
+D2
+~
+~
+0 -1 16009
+S
+#16011
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D3
+~
+~
+0 -1 16010
+D5
+~
+~
+0 -1 16012
+S
+#16012
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D1
+~
+~
+0 -1 16013
+D4
+~
+~
+0 -1 16011
+S
+#16013
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D0
+~
+~
+0 -1 16014
+D3
+~
+~
+0 -1 16012
+S
+#16014
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D1
+~
+~
+0 -1 16015
+D2
+~
+~
+0 -1 16013
+S
+#16015
+A rocky path~
+Struggling to walk across the huge boulders and rocks blocking your way,
+you pant for breath as you gaze at the beautiful sky in the distance.
+~
+0 0 0
+D4
+~
+~
+0 -1 16016
+D3
+~
+~
+0 -1 16014
+S
+#16016
+A secluded training grounds~
+You have just stumbled into the ninjas practice area. No sooner have you
+enter the room, you have to duck to the ground dodging a shuriken thrown
+by an excited ninja student. Geez!
+~
+0 0 0
+D5
+~
+~
+0 -1 16015
+D1
+~
+~
+0 -1 16017
+D2
+~
+~
+0 -1 16018
+S
+#16018
+A secluded training grounds~
+You have just stumbled into the ninjas practice area. No sooner have you
+enter the room, you have to duck to the ground dodging a shuriken thrown
+by an excited ninja student. Geez!
+~
+0 0 0
+D0
+~
+~
+0 -1 16016
+D1
+~
+~
+0 -1 16019
+S
+#16017
+A secluded training grounds~
+You have just stumbled into the ninjas practice area. No sooner have you
+enter the room, you have to duck to the ground dodging a shuriken thrown
+by an excited ninja student. Geez!
+~
+0 0 0
+D3
+~
+~
+0 -1 16016
+D2
+~
+~
+0 -1 16019
+S
+#16019
+A secluded training grounds~
+You have just stumbled into the ninjas practice area. No sooner have you
+enter the room, you have to duck to the ground dodging a shuriken thrown
+by an excited ninja student. Geez!
+~
+0 0 0
+D0
+~
+~
+0 -1 16017
+D3
+~
+~
+0 -1 16018
+D4
+~
+~
+0 -1 16020
+S
+#16020
+A lookout tower~
+Standing on this small tower, you can see miles all around you.
+Protected and hidden by the natural rocky shielding of the Rotana
+mountains, this is a perfect place for a hideaway as well as a
+place to set up ambushes at will.
+~
+0 0 0
+D4
+~
+~
+0 -1 16021
+D5
+~
+~
+0 -1 16019
+S
+#16021
+A dark path~
+This shadowy path was purposely left blanked by the ninja masters
+so that students can learn to walk without sight. This path is
+extremely hazadrous and there was cases of ninja students accidently
+tumbling over the cliffs to their deaths.
+~
+0 0 0
+D1
+~
+~
+0 -1 16022
+D5
+~
+~
+0 -1 16020
+S
+#16022
+A dark path~
+This shadowy path was purposely left blanked by the ninja masters
+so that students can learn to walk without sight. This path is
+extremely hazadrous and there was cases of ninja students accidently
+tumbling over the cliffs to their deaths.
+~
+0 0 0
+D3
+~
+~
+0 -1 16021
+D2
+~
+~
+0 -1 16023
+S
+#16023
+A dark path~
+This shadowy path was purposely left blanked by the ninja masters
+so that students can learn to walk without sight. This path is
+extremely hazadrous and there was cases of ninja students accidently
+tumbling over the cliffs to their deaths.
+~
+0 0 0
+D0
+~
+~
+0 -1 16022
+D1
+~
+~
+0 -1 16024
+S
+#16024
+A dark path~
+This shadowy path was purposely left blanked by the ninja masters
+so that students can learn to walk without sight. This path is
+extremely hazadrous and there was cases of ninja students accidently
+tumbling over the cliffs to their deaths.
+~
+0 0 0
+D0
+~
+~
+0 -1 16025
+D3
+~
+~
+0 -1 16023
+S
+#16025
+A dark path~
+This shadowy path was purposely left blanked by the ninja masters
+so that students can learn to walk without sight. This path is
+extremely hazadrous and there was cases of ninja students accidently
+tumbling over the cliffs to their deaths.
+~
+0 0 0
+D0
+~
+~
+0 -1 16026
+D2
+~
+~
+0 -1 16024
+S
+#16026
+A dark path~
+This shadowy path was purposely left blanked by the ninja masters
+so that students can learn to walk without sight. This path is
+extremely hazadrous and there was cases of ninja students accidently
+tumbling over the cliffs to their deaths.
+~
+0 0 0
+D3
+~
+~
+0 -1 16027
+D2
+~
+~
+0 -1 16025
+S
+#16027
+A lookout tower~
+Standing on this small tower, you can see miles all around you.
+Protected and hidden by the natural rocky shielding of the Rotana
+mountains, this is a perfect place for a hideaway as well as a
+place to set up ambushes at will.
+~
+0 0 0
+D4
+~
+~
+0 -1 16028
+D1
+~
+~
+0 -1 16026
+S
+#16028
+The inner sanctum~
+In this small peaceful room is where ninjas meditate to be one
+with their spiritual energy. Taking a deep breath savoring the
+moment, you continue on your trek.
+~
+0 0 0
+D5
+~
+~
+0 -1 16027
+D1
+~
+~
+0 -1 16029
+S
+#16029
+Before the Dojo~
+You are mere feet from the most powerful dojo through the lands, 
+where the mightiest ninja warriors graduate from with honour.
+But be wary though, these masters kill all intruders.
+~
+0 0 0
+D5
+~
+~
+0 -1 16030
+D3
+~
+~
+0 -1 16028
+S
+#16030
+Before the Dojo~
+You are mere feet from the most powerful dojo through the lands, 
+where the mightiest ninja warriors graduate from with honour.
+But be wary though, these masters kill all intruders.
+~
+0 0 0
+D0
+~
+~
+0 -1 16500
+D4
+~
+~
+0 -1 16029
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

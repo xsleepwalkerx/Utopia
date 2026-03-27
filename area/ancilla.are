@@ -1,0 +1,584 @@
+#AREADATA
+Name        The City Of Ancilla~
+Builders    Imms~
+VNUMs       15000 15499
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#15000
+vampire chile~
+A Vampire Childe~
+A childe is here lurking the streets.
+~
+This wicked and viscious vampire is here looking for
+who he can kill. One quick snap with his fangs and
+your soul is his.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+#ROOMS
+#15000
+Darkness and Gloom~
+You are standing at the entrance of one of the most deadly creatures of all times. 
+The creatures of the night whose only aim is to kill you and suck your blood.
+~
+0 0 3
+D5
+~
+~
+0 -1 15001
+D4
+~
+~
+0 -1 20360
+S
+#15001
+Dense Air~
+Standing inside this place of terror you suddenly feel fangs sinking deep into 
+your jugular vein.
+~
+0 0 3
+D0
+~
+~
+0 -1 15002
+D1
+~
+~
+0 -1 15032
+D3
+~
+~
+0 -1 15033
+D4
+~
+~
+0 -1 15000
+S
+#15002
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15003
+D2
+~
+~
+0 -1 15001
+S
+#15003
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15004
+D2
+~
+~
+0 -1 15002
+D5
+~
+~
+0 -1 15030
+S
+#15004
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15005
+D3
+~
+~
+0 -1 15003
+S
+#15005
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D3
+~
+~
+0 -1 15004
+D5
+~
+~
+0 -1 15006
+S
+#15006
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D4
+~
+~
+0 -1 15005
+D5
+~
+~
+0 -1 15007
+S
+#15007
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15008
+D2
+~
+~
+0 -1 15034
+D4
+~
+~
+0 -1 15006
+S
+#15008
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15009
+D3
+~
+~
+0 -1 15007
+D4
+~
+~
+0 -1 15032
+S
+#15009
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15010
+D2
+~
+~
+0 -1 15008
+D4
+~
+~
+0 -1 15029
+S
+#15010
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15011
+D2
+~
+~
+0 -1 15009
+S
+#15011
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D2
+~
+~
+0 -1 15010
+D5
+~
+~
+0 -1 15012
+S
+#15012
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15013
+D2
+~
+~
+0 -1 15022
+D4
+~
+~
+0 -1 15011
+S
+#15013
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D2
+~
+~
+0 -1 15012
+D3
+~
+~
+0 -1 15014
+S
+#15014
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15013
+D3
+~
+~
+0 -1 15015
+S
+#15015
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15014
+D3
+~
+~
+0 -1 15016
+S
+#15016
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15015
+D3
+~
+~
+0 -1 15017
+S
+#15017
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15016
+D2
+~
+~
+0 -1 15018
+S
+#15018
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15017
+D4
+~
+~
+0 -1 15019
+S
+#15019
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D4
+~
+~
+0 -1 15020
+D5
+~
+~
+0 -1 15018
+S
+#15020
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15031
+D3
+~
+~
+0 -1 15021
+D5
+~
+~
+0 -1 15019
+S
+#15021
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15020
+D3
+~
+~
+0 -1 15022
+S
+#15022
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15012
+D1
+~
+~
+0 -1 15021
+D2
+~
+~
+0 -1 15023
+D3
+~
+~
+0 -1 15034
+S
+#15023
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15022
+D2
+~
+~
+0 -1 15024
+S
+#15024
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15023
+D1
+~
+~
+0 -1 15025
+S
+#15025
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15026
+D3
+~
+~
+0 -1 15024
+S
+#15026
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D2
+~
+~
+0 -1 15027
+D3
+~
+~
+0 -1 15025
+S
+#15027
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15026
+D5
+~
+~
+0 -1 15028
+S
+#15028
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D4
+~
+~
+0 -1 15027
+S
+#15029
+Ching Ching~
+The sound of money drives this crazy banker bonkers. Watch out he is a swindler.
+~
+0 0 3
+D0
+~
+~
+0 -1 15030
+D5
+~
+~
+0 -1 15009
+S
+#15030
+Wanderers Beware~
+Watch out ... someone is coming to get your blood.
+~
+0 0 3
+D1
+~
+~
+0 -1 15031
+D2
+~
+~
+0 -1 15029
+D4
+~
+~
+0 -1 15003
+S
+#15031
+Rammer Jammer~
+Blaring music and the crashing of glasses tell you to come in and join the wild party.
+~
+0 0 3
+D2
+~
+~
+0 -1 15020
+D3
+~
+~
+0 -1 15030
+D5
+~
+~
+0 -1 15032
+S
+#15032
+Relax Room~
+This is where we kick back and relax and get our blood drinking going on and on.
+~
+0 0 3
+D3
+~
+~
+0 -1 15001
+D4
+~
+~
+0 -1 15031
+D5
+~
+~
+0 -1 15008
+S
+#15033
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15034
+D1
+~
+~
+0 -1 15001
+S
+#15034
+Death Awaits~
+Terror strikes quickly to the heart as a set of fangs quickly drain your blood.
+~
+0 0 3
+D0
+~
+~
+0 -1 15007
+D1
+~
+~
+0 -1 15022
+D2
+~
+~
+0 -1 15033
+D4
+~
+~
+0 -1 15500
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+S
+
+
+#$

@@ -1,0 +1,1631 @@
+#AREADATA
+Name        Balamb Garden~
+Builders    Gogeta~
+VNUMs       33000 33100
+Security    9
+Flags       0
+Land        0
+End
+
+
+#MOBILES
+#33000
+woman headmistress~
+Mary Kramer~
+Leaning back on her chair is the Headmistress of the Garden.
+~
+Being apponited the position from her family line, Mary runs Balamb
+Garden with a nerve quite unlike another. Participating in the
+daily activities, she makes sure that the next generation of SeeDs
+is available to fight the SorceresS.
+Looking at you, she smiles as she asks what you want.
+~
+3 136 1000 S
+500 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33001
+student boy~
+a student~
+A young boy in high-tech clothes is strolling around the garden.
+~
+Aspiring to be a member of SeeD, this young child studies hard and 
+practice even harder in the hope that he beats all the other 
+candidates. For when one become a SeeD, they must be prepare to
+fight the SorceresS.
+~
+1 0 1000 S
+15 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#33002
+student girl~
+a student~
+A young girl in high-tech clothes is skipping through the garden.
+~
+Aspiring to be a member of SeeD, this young child studies hard and 
+practice even harder in the hope that she beats all the other 
+candidates. For when one become a SeeD, they must be prepare to
+fight the SorceresS.
+~
+1 0 1000 S
+13 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33003
+student girl~
+a student~
+A young girl is here playing cards.
+~
+Spending her free time between classes, this girl is playing a very
+popular game amongst the students - Triad. Seeing how instence she
+is, you decided to leave her only.
+~
+3 0 1000 S
+12 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33004
+student boy~
+a student~
+A young boy throws down his cards in disgust.
+~
+Losing horribly to his opponent in the popular card game - Triad,
+the student gives up on the game. Seeing how angry he looks, you
+decided to leave him only.
+~
+3 0 1000 S
+12 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#33005
+boy child~
+a boy~
+A small child is running around over the place.
+~
+Sweat running down his body, this child is having the time of his
+life exploring the Garden. A tradition starting centuries ago,
+young children are taken care in the Gardens before enrolling
+for the SeeDs candiency.
+~
+1 0 1000 S
+2 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#33006
+SeeD girl~
+Jhan Dincht~
+A slender girl in a high-tech outfit is standing at attention here.
+~
+Member of SeeD, combat specialist, this young girl can decimate any
+foe with her fists. The Great, great, great grand daughter of Zell
+Dincht, she still aspires in the fact that one day, the SorceresS
+as well the descendant of Seifer - Seifer, can be killed.
+~
+3 136 1000 S
+600 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33007
+student boy~
+A student~
+A boy is focusing his attention on a computer terminal.
+~
+Enjoying the work which is to be perform in the Garden, this boy
+idly goes through the available options on his terminal screen.
+~
+3 0 1000 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#33008
+student girl~
+A student~
+A young girl is here sleeping on her terminal screen.
+~
+Stress out from the tremedous work load of the Garden, this tired 
+girl is taking what she feels to be a well deserved rest.
+~
+3 0 1000 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33009
+student boy~
+A student~
+this student is rapidly inputting data onto his terminal.
+~
+Storing everything he learn in the class for later use, this
+boy plans on becoming one of the best graduates Balamb Garden
+ever had.
+~
+3 0 1000 S
+25 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33010
+teacher girl~
+Zen Trepes~
+A teacher is here pointing to complex diagrams on a huge monitor.
+~
+Being the Instructor of the Garden, Zen shows no remorse in the
+brutal workload he dispenses onto his students.
+'No pain... No Gain' is his favorite motto and usually by the end
+of the first day of school, he is on everyone hate list.
+Nevertheless, everyone agrees that he is the best instructor the
+Garden has in a long, long time.
+~
+3 136 1000 S
+400 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#33011
+luc girl sorceror~
+Luc Nihial~
+A beautiful girl in silk, nomadic clothing is meditating in the air.
+~
+A mystic knight of the eastern magi clan, this Sorceror is here on
+request of her leader to speak with Mary Kramer, Headmistress of
+Balamb Gardens.
+Hoping to unite forces against the battle with the SorceresS, Luc
+will do whatever it takes for the salvation of her fellow clan
+members.
+Just by looking at her, you can feel the sheer power that lies
+within this beautiful girl and you have the feeling that you dont
+want to find out its limit.
+~
+3 136 1000 S
+666 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#33012
+dinosaur monster~
+A huge Dinosaur~
+An ancient beast of the past is ripping everything in the room!
+~
+The most feared beast of the training room, this dinosaur is known
+for showing no mercy on its victim. Created by the DNA of a past
+SeeD scientist, this beast amongst others is used for practice for
+the upcoming SeeDs.
+~
+1 136 1000 S
+500 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#33013
+blob monster~
+A small blob~
+A slimely substance is oozing itself across the floor!
+~
+Yuck! You dont know what this itchy thing dripping towards you is
+but you do know what you want to get rid of it as soon as
+possible. Created by the DNA of a past SeeD scientist, this beast 
+amongst others is used for practice for the upcoming SeeDs.
+~
+1 0 1000 S
+10 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#33014
+insect monster~
+A small flying insect~
+The noisy buzzing of an annoying insect hums near you!
+~
+EgaD! You are really sick of that humming noise coming from this
+creature and since this is a training ground, you ready your
+weapon to kill the darn thing. Created by the DNA of a past SeeD 
+scientist, this beast amongst others is used for practice for the 
+upcoming SeeDs.
+~
+1 0 1000 S
+10 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#33015
+terminal screen~
+A Huge Terminal Screen~
+#wInformation on the Garden is being processed on this Screen#n.
+~
+Welcome Student. I hope you find your short visit in the Garden
+subtle but useful in your quest to be our next hero. Below is
+a map of the first floor. The Classroom is to the west on the 2nd
+floor and the Headmistress' Office is on the Third Floor. Good
+Luck. Also, if you have any questions to ask, please do so.
+
+
+          Cafeteria    Dormitory       Car Park ( Portal Room )
+              \            |            /
+               \           |           /
+                \----------|----------/
+                |                     |
+                |                     |
+ Festival   -----       [-----]       ----- Training Grounds
+    Grounds     |       [ 2nd ]       |
+                |       [-   -]       |
+                /         SP           \
+               /--------       ---------\
+  Infirmitary /        |      |          \ Library
+                       |      |
+             -----------      -----------
+                     Entry Point
+
+Key Symbols - SP: Starting Point, 2nd: 2nd Floor
+~
+3 0 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#OBJECTS
+#33000
+street~
+#eHigh-Tech Jacket#n~
+A jacket lies here.~
+~
+9 259 1025
+25 0 0 0
+1 1000000 0
+#33001
+shirt~
+#eHigh tech Shirt#n~
+A lovely shirt lies here.~
+~
+9 259 9
+25 0 0 0
+1 1000000 0
+#33002
+jeans~
+#pHigh-Tech Jeans#n~
+A pairs of jeans lies here.~
+~
+9 259 33
+25 0 0 0
+1 1000000 0
+#33003
+skirt~
+#pHigh-Tech Skirt#n~
+A skirt lies here.~
+~
+9 259 33
+25 0 0 0
+1 1000000 0
+#33004
+silk cloak~
+#wa Silk Cloak#n~
+A beautiful cloak lies here.~
+~
+9 259 1025
+25 0 0 0
+1 1000000 0
+#33005
+silk robe~
+#wSilk Robe#n~
+A lovely robe lies here.~
+~
+9 259 9
+25 0 0 0
+1 1000000 0
+#33006
+silk pants~
+#wSilk Pants#n~
+A pairs of silk pants.~
+~
+9 259 33
+25 0 0 0
+1 1000000 0
+#33007
+silk turban~
+#wa Silk Turban#n~
+A turban lies here.~
+~
+9 259 17
+25 0 0 0
+1 1000000 0
+#33008
+diamond sword~
+#wDiamond Sword#n~
+A diamond sword lies at your feet.~
+~
+5 16384 8193
+0 50 70 3
+1 1000000 0
+A
+18 20
+A
+19 20
+A
+17 -30
+#33009
+silk sandals~
+#wa pair of silk sandals#n~
+A pair of sandals lie here.~
+~
+9 259 65
+25 0 0 0
+1 1000000 0
+#0
+
+
+#ROOMS
+#33000
+Center of Balamb Garden~
+All around you lies Balamb Garden, the starting institute of students wishing
+to become SeeDs. Spreading out in all directions, this school teaches a newbie
+everything they need to know against the dangers of the outside world. Right
+in front of your eyes however is a huge terminal screen used by the students
+to get infomation on the whereabouts of the Garden. Maybe you should use it?
+~
+0 0 0
+T
+>ENTER<~
+The terminal flashes 'Welcome to Balamb Garden, $n!'
+ 
+The terminal flashes 'Being a student, if you need any help, just ask and I will do my best to answer.'~
+copy~
+all~
+1048576 0 33015
+T
+&thank~
+The terminal flashes 'You are welcome, $n.'.~
+copy~
+all~
+1048576 0 33015
+T
+|hello*hi *~
+The terminal flashes 'Salutations $n, can I be of service?.'.~
+copy~
+all~
+1048576 0 33015
+T
+|yes*~
+The terminal flashes 'Sorry $n but you'll need to be more specific.'.~
+copy~
+all~
+1048576 0 33015
+T
+|help*~
+The terminal flashes 'Look at me to see what I can do.'~
+copy~
+all~
+1048576 0 33015
+T
+&where*go*~
+The terminal flashes 'First you should go up to the Second floor of the Garden.'
+
+The terminal flashes 'Then head towards the classroom for more instructions.'~
+copy~
+all~
+1048576 0 33015
+T
+&what*do*~
+The terminal flashes 'First you should go up to the Second floor of the Garden.'
+
+The terminal flashes 'Then head towards the classroom for more instructions.'~
+copy~
+all~
+1048576 0 33015
+D0
+~
+~
+0 -1 33001
+D1
+~
+~
+0 -1 33002
+D2
+~
+~
+0 -1 33003
+D3
+~
+~
+0 -1 33004
+S
+#33004
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+Seeing that, you continue onwards.
+~
+0 0 0
+D1
+~
+~
+0 -1 33000
+D3
+~
+~
+0 -1 33005
+S
+#33005
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the west of you lies the Infirmitary, where sick students go to tend their
+wounds or seek advise from one of friendly doctors. The Passageway also
+continues to the north and east.
+~
+0 0 0
+D0
+~
+~
+0 -1 33006
+D1
+~
+~
+0 -1 33004
+D3
+~
+~
+0 -1 33007
+S
+#33007
+Infirmitary~
+The floor here is made of sparkling tiles, freshly mopped to a dazzling
+sparkle. Also, there are some huge glass windows on the walls to each side
+of you allowing one a pleasant view of the Garden outside the school.
+After taking in your fill of the scenery, you continue on your journey
+~
+0 4 0
+D1
+~
+~
+0 -1 33005
+D3
+~
+~
+0 -1 33008
+S
+#33008
+Infirmitary~
+The floor here is made of sparkling tiles, freshly mopped to a dazzling
+sparkle. Also, there are some huge glass windows on the walls to each side
+of you allowing one a pleasant view of the Garden outside the school.
+After taking in your fill of the scenery, you continue on your journey
+~
+0 4 0
+D1
+~
+~
+0 -1 33007
+D3
+~
+~
+0 -1 33009
+S
+#33009
+Doctor's Office~
+One of the main offices of the Institute, this is where all of the
+medical transactions and details take place. Sitting behind her desk
+is a plump woman of asian descent, giving free advice on the good
+practice of one's health.
+
+'If your life is low, cast #wheal#n or some other #wrestorative magic#n on
+yourself,' the doctor says. 'Heaven forbids we have enough fatalities
+already.' 
+~
+0 0 0
+D1
+~
+~
+0 -1 33008
+D0
+~
+~
+0 -1 33010
+S
+#33010
+Healing Room~
+Undoubtively the most pleasant room in the Garden, this is where all the 
+sick students go to recover from their wounds, no matter how slight.
+As an institute for small children and up, the members here know how
+to tend from small bruises up to life threatening wounds.
+~
+0 0 0
+D2
+~
+~
+0 -1 33009
+S
+#33006
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+Seeing that, you continue onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 33011
+D2
+~
+~
+0 -1 33005
+S
+#33011
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the west of you lies the Festival Grounds, where all the montly recreational
+activities of the Garden takes place. If you wish to go elsewhere, you can always
+continue northwards or southwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 33012
+D3
+~
+~
+0 -1 33013
+D2
+~
+~
+0 -1 33006
+S
+#33013
+Festival Grounds~
+Unlike the serious tone of the rest of the Garden, you hear a soft carnival
+music floating through the air. Humming to the melody, you pass a row of
+gorgeous trees surrounded by hundrends of beautiful flowers.
+With thousands of ballons floating towards the air and many people chatting
+with their friends, you decide to relax for awhile and enjoy the
+activities.
+~
+0 4 0
+D3
+~
+~
+0 -1 33014
+D1
+~
+~
+0 -1 33011
+S
+#33014
+Festival Grounds~
+Unlike the serious tone of the rest of the Garden, you hear a soft carnival
+music floating through the air. Humming to the melody, you pass a row of
+gorgeous trees surrounded by hundrends of beautiful flowers.
+With thousands of ballons floating towards the air and many people chatting
+with their friends, you decide to relax for awhile and enjoy the
+activities.
+~
+0 0 0
+D5
+~
+~
+0 -1 33015
+D1
+~
+~
+0 -1 33013
+S
+#33015
+Festival Grounds~
+Unlike the serious tone of the rest of the Garden, you hear a soft carnival
+music floating through the air. Humming to the melody, you pass a row of
+gorgeous trees surrounded by hundrends of beautiful flowers.
+With thousands of ballons floating towards the air and many people chatting
+with their friends, you decide to relax for awhile and enjoy the
+activities.
+~
+0 0 0
+D2
+~
+~
+0 -1 33016
+D4
+~
+~
+0 -1 33014
+S
+#33016
+Festival Grounds~
+Unlike the serious tone of the rest of the Garden, you hear a soft carnival
+music floating through the air. Humming to the melody, you pass a row of
+gorgeous trees surrounded by hundrends of beautiful flowers.
+With thousands of ballons floating towards the air and many people chatting
+with their friends, you decide to relax for awhile and enjoy the
+activities.
+~
+0 0 0
+D3
+~
+~
+0 -1 33017
+D0
+~
+~
+0 -1 33015
+S
+#33017
+The Stage~
+Standing erect in the middle of this room lies a huge stage. On it you
+see several group artistes performing their latest songs and dances.
+Swinging to the beat, you also notice that their are clowns in the
+audience pulling off many hilarious tricks that have you laughing.
+To the east lies the gardens of the festival grounds.
+~
+0 0 0
+D1
+~
+~
+0 -1 33016
+S
+#33012
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 33018
+D2
+~
+~
+0 -1 33011
+S
+#33018
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D3
+~
+~
+0 -1 33019
+D2
+~
+~
+0 -1 33012
+D1
+~
+~
+0 -1 33020
+S
+#33019
+Cafeteria Line~
+As soon as you step into this room, you bump into a long line of hungry people
+waiting to order Sensaku famous Hot Dogs. Damn, just how good are these things?
+Sighing loudly, you wait until you get a chance to move forward.
+~
+0 4 0
+D3
+~
+~
+0 -1 33021
+D1
+~
+~
+0 -1 33018
+S
+#33021
+Cafeteria Line~
+As soon as you step into this room, you bump into a long line of hungry people
+waiting to order Sensaku famous Hot Dogs. Damn, just how good are these things?
+Sighing loudly, you wait until you get a chance to move forward.
+~
+0 0 0
+D3
+~
+~
+0 -1 33022
+D1
+~
+~
+0 -1 33019
+S
+#33022
+Cafeteria Line~
+As soon as you step into this room, you bump into a long line of hungry people
+waiting to order Sensaku famous Hot Dogs. Damn, just how good are these things?
+Sighing loudly, you wait until you get a chance to move forward.
+~
+0 0 0
+D3
+~
+~
+0 -1 33023
+D1
+~
+~
+0 -1 33021
+S
+#33023
+Cafeteria Line~
+As soon as you step into this room, you bump into a long line of hungry people
+waiting to order Sensaku famous Hot Dogs. Damn, just how good are these things?
+Sighing loudly, you wait until you get a chance to move forward.
+~
+0 0 0
+D0
+~
+~
+0 -1 33024
+D1
+~
+~
+0 -1 33022
+S
+#33024
+Cafeteria Counter~
+Finally, you are at the start of this hideous line. For all the waiting you have done
+this hot dog better be the best darn meal you have in your life or else you may
+go berserk onto the crowd for this insanity.
+
+The woman at the counter says, 'Hey kid, you may not always have our delicious hot
+dogs to eat. In a case like that when you are stuck with no provisions, cast
+#w'create food'#n, and #w'create spring'#n to make some adequate food to eat and
+drink nuh.'
+~
+0 0 0
+D0
+~
+~
+0 -1 33025
+D2
+~
+~
+0 -1 33023
+S
+#33025
+The MeSs Hall~
+the main meeting place at lunch time, this is where all the gang hang out, eating
+their hot dogs while talking about the classes that they had gone through for the
+day so far.
+Just like the name of this room implies, they tend to be a vicious food fight every
+now and then but nothing too serious.
+~
+0 0 0
+D2
+~
+~
+0 -1 33024
+S
+#33020
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D3
+~
+~
+0 -1 33018
+D1
+~
+~
+0 -1 33026
+S
+#33026
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the north lies the dormitory of the Garden, where students go to sleep
+after a long tiring day of work. Maybe you should go take a look around.
+~
+0 0 0
+D0
+~
+~
+0 -1 33028
+D3
+~
+~
+0 -1 33020
+D1
+~
+~
+0 -1 33027
+S
+#33028
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the north lies the dormitory of the Garden, where students go to sleep
+after a long tiring day of work. Maybe you should go take a look around.
+~
+0 0 0
+D0
+~
+~
+0 -1 33029
+D2
+~
+~
+0 -1 33026
+S
+#33029
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the north lies the dormitory of the Garden, where students go to sleep
+after a long tiring day of work. Maybe you should go take a look around.
+~
+0 0 0
+D0
+~
+~
+0 -1 33030
+D2
+~
+~
+0 -1 33028
+S
+#33030
+Your BedRoom~
+Not exactly a king suite, but at least you have a very comfortable and soft
+bed with plenty of pillows and a roaring fireplace for when it is cold. Dued
+to the number of applicants accepted into the Garden, you have to share this
+room with several other students, but don't worry though as every student
+gets his or her own bed haha.
+~
+0 0 0
+D2
+~
+~
+0 -1 33029
+S
+#33027
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D3
+~
+~
+0 -1 33026
+D1
+~
+~
+0 -1 33031
+S
+#33031
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the east lies the Car Park, where the members of SeeD can have access to
+areas of the Old World, Elenium. You should also go there to if you want a
+lift.
+~
+0 0 0
+D3
+~
+~
+0 -1 33027
+D1
+~
+~
+0 -1 33032
+D2
+~
+~
+0 -1 33033
+S
+#33032
+Entry to the Car Park~
+As soon as you enter this room, you see a series of SeeDs running in and out
+respectively. Everything here is very hectic dued to the strict nature of the
+missions and you feel at times that you are intruding something vital to the
+Garden. Neverthless, you continue onwards.
+~
+0 4 0
+D3
+~
+~
+0 -1 33031
+D1
+~
+~
+0 -1 33034
+S
+#33034
+Transporation Area~
+In this mystical portal room, you are given the option to visit one of
+several areas in the old world, Elenium, all you have to do is to look
+at the sign in front of you for details then say to the transporter
+which area you wish to see, note though that you wont be able to venture
+back into this Garden without some form of magical means.
+
+Just as you are about to say something, some information flashes across
+a terminal. It reads, 'If you wish to #wrecall#n to a particular room,
+go to it and type #whome here#n. When you next type recall, you will be
+magically transported to that room. Note however, that this can't be
+done to every room you come across student.
+~
+0 0 0
+D3
+~
+~
+0 -1 33032
+S
+#33033
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 33031
+D2
+~
+~
+0 -1 33035
+S
+#33035
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the east is the training grounds where students practice on their battle
+skills. This is also a good place for you to go to as well as you may gain
+some experience for use in the dangerous world outside.
+~
+0 0 0
+D0
+~
+~
+0 -1 33033
+D1
+~
+~
+0 -1 33037
+D2
+~
+~
+0 -1 33036
+S
+#33037
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the east is the training grounds where students practice on their battle
+skills. This is also a good place for you to go to as well as you may gain
+some experience for use in the dangerous world outside.
+~
+0 4 0
+D1
+~
+~
+0 -1 33038
+D3
+~
+~
+0 -1 33035
+S
+#33038
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the east is the training grounds where students practice on their battle
+skills. This is also a good place for you to go to as well as you may gain
+some experience for use in the dangerous world outside.
+~
+0 0 0
+D1
+~
+~
+0 -1 33039
+D3
+~
+~
+0 -1 33037
+S
+#33039
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+
+Just as you are about to enter to the next room, you see a SeeD speaking
+to a young boy.
+'Dont expect to think that you can win every battle,' he says, 'Sometimes
+it is necessary to #wflee#n or #wrecall#n from combat to save your neck
+lad. Never forget that.'
+~
+0 0 0
+D1
+~
+~
+0 -1 33040
+D0
+~
+~
+0 -1 33041
+D3
+~
+~
+0 -1 33038
+S
+#33040
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+Listening the chirping of the insects within the forest, you step through
+the soggy mud leaving footprints behind you. Everyone now and then you
+take a look behind you as you get the funniest feeling that you are being 
+followed.
+~
+0 0 0
+D0
+~
+~
+0 -1 33042
+D3
+~
+~
+0 -1 33039
+S
+#33042
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+Listening the chirping of the insects within the forest, you step through
+the soggy mud leaving footprints behind you. Everyone now and then you
+take a look behind you as you get the funniest feeling that you are being 
+followed.
+~
+0 0 0
+D0
+~
+~
+0 -1 33043
+D2
+~
+~
+0 -1 33040
+S
+#33043
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+Listening the chirping of the insects within the forest, you step through
+the soggy mud leaving footprints behind you. Everyone now and then you
+take a look behind you as you get the funniest feeling that you are being 
+followed.
+~
+0 0 0
+D3
+~
+~
+0 -1 33045
+D1
+~
+~
+0 -1 33044
+D2
+~
+~
+0 -1 33042
+S
+#33044
+The Secret Area~
+This is where all the romantic in heart meet after curfew to spend time
+with each other. With a beautiful sight of the clear, starry night beyond them, 
+this is the beginning of many a serious relationship.
+
+'Will you #wmarry#n me Kia?' a young boy ask sweetly to a pretty girl in front
+of him.
+
+'Yes Ruby...,' Kia replied softly. 'But you must #wpropose#n to me first. It is
+the only right way.'
+~
+0 4 0
+D3
+~
+~
+0 -1 33043
+S
+#33045
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+Listening the chirping of the insects within the forest, you step through
+the soggy mud leaving footprints behind you. Everyone now and then you
+take a look behind you as you get the funniest feeling that you are being 
+followed.
+~
+0 0 0
+D1
+~
+~
+0 -1 33043
+D2
+~
+~
+0 -1 33046
+S
+#33046
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+Listening the chirping of the insects within the forest, you step through
+the soggy mud leaving footprints behind you. Everyone now and then you
+take a look behind you as you get the funniest feeling that you are being 
+followed.
+~
+0 0 0
+D0
+~
+~
+0 -1 33045
+D2
+~
+~
+0 -1 33041
+S
+#33041
+The Training Grounds~
+Walking in the depths of a dark jungle, you have your guard up and your
+senses ready for you never know what foul beast may strike at any time.
+Listening the chirping of the insects within the forest, you step through
+the soggy mud leaving footprints behind you. Everyone now and then you
+take a look behind you as you get the funniest feeling that you are being 
+followed.
+~
+0 0 0
+D0
+~
+~
+0 -1 33046
+D2
+~
+~
+0 -1 33039
+S
+#33036
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D0
+~
+~
+0 -1 33035
+D2
+~
+~
+0 -1 33047
+S
+#33047
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the east lies the grand library of the Garden, where many students go to
+study for upcoming examinations.
+~
+0 0 0
+D0
+~
+~
+0 -1 33036
+D1
+~
+~
+0 -1 33049
+D3
+~
+~
+0 -1 33048
+S
+#33049
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+To the east lies the grand library of the Garden, where many students go to
+study for upcoming examinations.
+~
+0 4 0
+D1
+~
+~
+0 -1 33050
+D3
+~
+~
+0 -1 33047
+S
+#33050
+The Library~
+Famous for its vast resources in alot of material, this is where many students
+come to do their research and studies.
+In the corner of the room lies an ancient quest machine that didnot seem to
+be used in ages.
+Dued to the Headmistress' orders, this place is a totally neutral zone and no
+violence should be done within its borders.
+~
+0 1024 0
+D3
+~
+~
+0 -1 33049
+S
+#33048
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D1
+~
+~
+0 -1 33047
+D3
+~
+~
+0 -1 33002
+S
+#33002
+PassageWay~
+Wandering through the Garden on ones of its many passageway, you past a group
+of students gossiping about the latest events. You realise that there is a long
+red carpet going in a circular motion around the center of the garden which
+goes to the 2nd Floor.
+~
+0 0 0
+D1
+~
+~
+0 -1 33048
+D3
+~
+~
+0 -1 33000
+S
+#33001
+The Elevator~
+This elevator takes you up and down the three difference levels of the Garden.
+On the ground floor you are atm lies the general divisions of the compound.
+You can take this up to the #wclass rooms#n or to the #wHeadmistress' Office#n.
+~
+0 4 0
+D4
+~
+~
+0 -1 33051
+D2
+~
+~
+0 -1 33000
+S
+#33003
+Entrace to Balamb Garden~
+standing at the entrance to this magnificant school, you see that it caters to
+young students who are about to venture to this dangerous world. Very strict
+in it guidelines, it has a low failure rate although there are teachers which
+are known to caused pure havoc amongst the students.
+Below you lies the dazzling Crystal Cathedral...
+~
+0 4 0
+D0
+~
+~
+0 -1 33000
+D5
+~
+~
+0 -1 800
+S
+#33051
+The Elevator~
+This elevator takes you up and down the three difference levels of the Garden.
+On the 1st floor you are atm lies the class rooms of the Garden. Go there if
+you want to learn some general information of #cUtopia - Tales of Heroes.#n
+You can take this down to the #wgeneral area#n or to the #wHeadmistress' Office#n.
+~
+0 4 0
+D4
+~
+~
+0 -1 33053
+D3
+~
+~
+0 -1 33052
+D5
+~
+~
+0 -1 33001
+S
+#33053
+The Elevator~
+This elevator takes you up and down the three difference levels of the Garden.
+On the 2nd floor you are atm lies the Headmistress' Office. Go there if
+you have some serious problem about the faculty which you wish to discuss, although
+you shouldnot have any problems.
+You can take this down to the #wclass rooms#n.
+~
+0 0 0
+D5
+~
+~
+0 -1 33051
+D0
+~
+~
+0 -1 33054
+S
+#33054
+Meeting Room~
+In this small cozy room is where everyone with a reason to see the Headmistress
+waits. There are alot of magnazines on the desk that looks inviting to read but
+what catches your attention is a figure in front of you.
+~
+0 0 0
+T
+>ENTER<~
+
+The Sorceror lifts her head up as she frowns at you...
+She then says softly in a nomadic accent 'Trouble me child and there will be hell to pay.'~
+copy~
+all~
+1048576 0 33011
+D2
+~
+~
+0 -1 33053
+D0
+~
+~
+0 -1 33055
+S
+#33055
+Headmistress Office~
+The Grandest office in all of the Garden, this is where Mary Kramer dedicts her
+work to the students on an every day to day basis. With a gold mikephone on top
+of her desk, you notice that it is put in good use.
+There are alot of cozy chairs to sit down on as you discuss your meeting with
+the headmistress.
+~
+0 0 0
+D2
+~
+~
+0 -1 33054
+S
+#33052
+Small PassageWay~
+A smaller passageway then the ones you are used to, this leads directly to the
+class rooms to the left. If you choose to change your mind however, you can go
+back to the elevator on the right.
+~
+0 0 0
+D1
+~
+~
+0 -1 33051
+D3
+~
+~
+0 -1 33056
+S
+#33056
+Small PassageWay~
+A smaller passageway then the ones you are used to, this leads directly to the
+class rooms to the left. If you choose to change your mind however, you can go
+back to the elevator on the right.
+~
+0 0 0
+D1
+~
+~
+0 -1 33052
+D3
+~
+~
+0 -1 33057
+S
+#33057
+Class Room A3~
+The senior class of the Garden, A3 teaches it students the harsh life of the
+world outside if they graduates and become SeeDs. With some of the knowledge
+being passed around, it may be vital for you to go and get some if you hadnot
+already.
+~
+0 0 0
+D1
+~
+~
+0 -1 33056
+D3
+~
+~
+0 -1 33058
+D2
+~
+~
+0 -1 33059
+S
+#33059
+Class Room A3~
+The senior class of the Garden, A3 teaches it students the harsh life of the
+world outside if they graduates and become SeeDs. With some of the knowledge
+being passed around, it may be vital for you to go and get some if you hadnot
+already.
+~
+0 0 0
+T
+>ENTER<~
+
+The teacher smiles as you enter the room.
+'Welcome to class $n, I hope you remember the #wLevel, #cScore and #rFinger#n commands you should
+ had studied for your assignment.' he says.~
+copy~
+all~
+1048576 0 33010
+D0
+~
+~
+0 -1 33057
+D3
+~
+~
+0 -1 33061
+D2
+~
+~
+0 -1 33060
+S
+#33060
+Class Room A3~
+The senior class of the Garden, A3 teaches it students the harsh life of the
+world outside if they graduates and become SeeDs. With some of the knowledge
+being passed around, it may be vital for you to go and get some if you hadnot
+already.
+~
+0 0 0
+D0
+~
+~
+0 -1 33059
+D3
+~
+~
+0 -1 33062
+S
+#33062
+Class Room A3~
+The senior class of the Garden, A3 teaches it students the harsh life of the
+world outside if they graduates and become SeeDs. With some of the knowledge
+being passed around, it may be vital for you to go and get some if you hadnot
+already.
+
+Just as you are about to go to the next room, you overhear two people talking
+with each other. 'Boy, I hope you arenot #wtraining avatar#n today man. I
+heard that they are some nasty people out day who likes nothing better but
+chopping your head off.'
+
+'Don't fret man, I am prepared for those clowns, You should #wtrain avatar#n
+too when you are ready.'
+~
+0 0 0
+D0
+~
+~
+0 -1 33061
+D1
+~
+~
+0 -1 33060
+S
+#33061
+Class Room A3~
+The senior class of the Garden, A3 teaches it students the harsh life of the
+world outside if they graduates and become SeeDs. With some of the knowledge
+being passed around, it may be vital for you to go and get some if you hadnot
+already.
+
+Just as you are about to go to the next room, you overhear two people talking
+with each other. 'Man, I can't find my pen anyway.'
+
+'Have you check your #winventory#n yet? It is a rather big place to store 
+stuff in and it is easy to misplace stuff there.'
+
+'Ok will check there thanks.'
+~
+0 0 0
+D0
+~
+~
+0 -1 33058
+D1
+~
+~
+0 -1 33059
+D2
+~
+~
+0 -1 33062
+S
+#33058
+Class Room A3~
+The senior class of the Garden, A3 teaches it students the harsh life of the
+world outside if they graduates and become SeeDs. With some of the knowledge
+being passed around, it may be vital for you to go and get some if you hadnot
+already.
+
+Just as you are about to go to the next room, you overhear two people talking
+with each other. 'What you going to be when you grow up dude?'
+
+'Don't know man, I wanted to be say a #wHoly Knight#n or a #wDrow#n but just
+can't make up my mind.'
+
+'You should read up on the help files on your choices on the computer. There
+are usually up todate you know and may help you with your choice. Like say
+#whelp monk#n for example.'
+
+'Ok will check it out thanks.'
+~
+0 0 0
+D1
+~
+~
+0 -1 33057
+D2
+~
+~
+0 -1 33061
+S
+#0
+
+#SPECIALS
+S
+
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#$

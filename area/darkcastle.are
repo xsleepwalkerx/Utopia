@@ -1,0 +1,473 @@
+#AREADATA
+Name        Dark Castle~
+Builders    The Imms~
+VNUMs       3500 3999
+Security    9
+Recall      0
+Land        0
+End
+
+
+#MOBILES
+#3500
+drow sentry~
+a Drow Sentry~
+You could had sworn you see a blur from within the shadows.
+~
+You shall feel my blade weak mortal if you dare to enter these gates.
+~
+3 136 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#3501
+drow assassin~
+a Drow Assassin~
+You see nothing in the bleak darkness but the glint of merciless steel.
+~
+You shall surely die if you cross my path mortal.
+~
+1 136 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#3502
+jaxlarle baenre~
+Jaxlarle Baenre~
+You see nothing in the bleak darkness but the glint of merciless steel.
+~
+You shall surely die if you cross my path mortal.
+~
+1 136 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#3504
+soothsayer~
+soothsayer~
+A soothsayer floats here.
+~
+Although retired from adventuring, the soothsayer still lends a hand.
+~
+11 136 1000 S
+1492 -10 -20 1d1+29999 2d4+30
+0 0
+0 0 1
+#3503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+11 136 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 0
+#3505
+trainer~
+The Trainer~
+The trainer of the demonic army is standing here.
+~
+With his staff gripped firmly in hand this old
+warrior teaches his pupils the Arts Of War.
+~
+11 136 -1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#3500
+Hell Fire~
+Screams of death come from all over this place telling you 
+that this is not a very safe place to be. If you favor your 
+soul leave now before you meet the Prince Of Darkness.
+~
+0 0 1
+D0
+~
+~
+0 -1 3501
+D2
+~
+~
+0 -1 3033
+S
+#3501
+Hell Fire~
+Screams of death come from all over this place telling you 
+that this is not a very safe place to be. If you favor your 
+soul leave now before you meet the Prince Of Darkness.
+~
+0 0 1
+D2
+~
+~
+0 -1 3500
+D5
+~
+~
+0 -1 3593
+S
+#3593
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3594
+D4
+~
+~
+0 -1 3501
+S
+#3594
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3595
+D2
+~
+~
+0 -1 3593
+S
+#3595
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D3
+~
+~
+0 -1 3596
+D2
+~
+~
+0 -1 3594
+S
+#3596
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D1
+~
+~
+0 -1 3595
+D3
+~
+~
+0 -1 3597
+S
+#3597
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3598
+D1
+~
+~
+0 -1 3596
+S
+#3598
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D1
+~
+~
+0 -1 3599
+D2
+~
+~
+0 -1 3597
+S
+#3599
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D4
+~
+~
+0 -1 3600
+D3
+~
+~
+0 -1 3598
+S
+#3600
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3601
+D5
+~
+~
+0 -1 3599
+S
+#3601
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D2
+~
+~
+0 -1 3600
+D3
+~
+~
+0 -1 3602
+S
+#3602
+Enter At Your Own Risk~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D1
+~
+~
+0 -1 3601
+D5
+~
+~
+0 -1 3603
+S
+#3603
+Entrance To Death~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3604
+D4
+~
+~
+0 -1 3602
+D5
+~
+~
+0 -1 3608
+S
+#3604
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3605
+D2
+~
+~
+0 -1 3603
+S
+#3605
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3606
+D2
+~
+~
+0 -1 3604
+S
+#3606
+Prison~
+Passing through a gate, you are now in the kingdom's prison... where 
+all of its traitors and capture soldiers are locked away until they 
+are freed.... or executed. Proceed with caution.
+~
+0 0 1
+D0
+~
+~
+0 -1 3607
+D2
+~
+~
+0 -1 3605
+S
+#3607
+Jail Cell~
+Standing within the Cell of the capture foes and/or allies, You hear
+the pitiful screams of prisoners asking for help. Just as you decide to
+do something about it, you hear the LOUD stomping of an PISSED warden
+charging straight towards YOU!!!!
+~
+0 0 1
+D2
+~
+~
+0 -1 3606
+S
+#3608
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D0
+~
+~
+0 -1 3609
+D4
+~
+~
+0 -1 3603
+S
+#3609
+Small Corridor~
+Squeezing yourself into a small passageway, you notice that 
+the rooms here are very dim and shadows crept from all 
+dimensions overstepping your body. A soft breeze grazes your 
+body as you ponder on your next move.
+~
+0 0 1
+D2
+~
+~
+0 -1 3608
+D3
+~
+~
+0 -1 3611
+D5
+~
+~
+0 -1 3610
+S
+#3610
+Throne of Death~
+In this room of decayed corpses and haunting screams lies a massive throne
+encrusted with the skulls of many defeated warriors. In it lies the greatest
+demon spawn, whatever it may be and only a fool will dare challenge it on
+their own.
+~
+0 0 1
+D4
+~
+~
+0 -1 3609
+S
+#3611
+Invasion Room~
+In this bloody vicinity, the demons have fun tormenting their victims and
+improving their skills before going out to BATTLE against the forces of good.
+~
+0 0 1
+T
+soldier~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 4500 0
+T
+forsaken~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 16500 0
+T
+camelot~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 2500 0
+D1
+~
+~
+0 -1 3609
+S
+#0
+
+#SPECIALS
+M 3500 spec_kguard_two Load to: Hooded Hunter
+M 3501 spec_kguard_two Load to: Hooded Hunter
+M 3502 spec_kguard_two Load to: Hooded Hunter
+M 3503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+#RESETS
+M 0 3503 1 3607
+M 0 3500 2 3500
+M 0 3500 2 3500
+M 0 3501 5 3501
+M 0 3501 5 3593
+M 0 3501 5 3596
+M 0 3501 5 3600
+M 0 3501 5 3610
+M 0 3502 1 3607
+S
+
+#$

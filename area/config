@@ -1,0 +1,16 @@
+# Version <config_file_version>
+# LocalName <local_imc_name>
+# LocalPort <local_imc_port>
+# Connection Name:Host:Port:ClientPW:ServerPW:RcvStamp:NoForward:Flags
+Version 1
+LocalName GetThisChanged
+LocalPort 6868
+InfoName Lords of War 4.0
+InfoHost ThisToo
+InfoEmail Andthis
+InfoWWW PlusThis
+InfoDetails Godwars Lords of War version 4.0
+MaxGuests 0
+LogOn yes
+HubSwitch no
+Connection Utopia:gaijinsan.dhs.org:5555:::0:0:none

@@ -1,0 +1,1613 @@
+#AREADATA
+Name        Church of Light~
+Builders    The Imms~
+VNUMs       7500 7999
+Security    9
+Recall      0
+Land        0
+End
+
+#MOBILES
+#7500
+seraph warrior angel~
+A Seraph Warrior~
+A powerful winged figure is here guarding the entrance!
+~
+A gift from God to the monks for their effects, this angel is
+here to protect the Church against evil.
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#7501
+avenger angel redemption~
+An Avenger~
+Redemption have arrived for you!
+~
+Descending from the heavens to kill all heretics, this angel
+is ready for battle.
+~
+1 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#7502
+light angel~
+The Light~
+The very Light itself comes to the monks' aid!
+~
+You are blinded by the sheer intensity of the Light.
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#7503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+11 0 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#7504
+healer~
+A Novice Healer~
+This monk will try it very best to heal you.
+~
+A newcomer into the Holy church, this child only wish is to end all
+evil.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#7505
+monk grandmaster~
+A GrandMaster~
+This old monk is here to teach you some tricks.
+~
+This master monk loves sparring with his counterparts to make fools
+out of them.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#7506
+jadria angel woman~
+Jadria Sylvia~
+A powerful woman hovers in front of you, her wings spread wide apart!
+~
+Called the "Angel of Death" by her friends and foes, this seraph had given
+up her position in the heavens to come and help mankind against the clutches
+of evil. A very silent person, she knows alot more than she lets about and
+had help many aspiring heroes in their quests.
+Those who wished to ask for her help be forewarned that she only help those
+that merits it to her eyes.
+~
+3 136 1000 S
+666 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+#ROOMS
+#7500
+Enter To The Light~
+Here is the entrance to this majestic church created
+before mere man existed. This was one of the last
+gifts from the God's to the wretched human race.
+~
+0 0 1
+D0
+~
+~
+0 -1 7501
+D5
+~
+~
+0 -1 7030
+S
+#7501
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7577
+D1
+~
+~
+0 -1 7502
+D2
+~
+~
+0 -1 7500
+D3
+~
+~
+0 -1 7510
+S
+#7502
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D1
+~
+~
+0 -1 7503
+D3
+~
+~
+0 -1 7501
+D4
+~
+~
+0 -1 7558
+S
+#7503
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7504
+D2
+~
+~
+0 -1 7513
+D3
+~
+~
+0 -1 7502
+S
+#7504
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7505
+D1
+~
+~
+0 -1 7511
+D2
+~
+~
+0 -1 7503
+D4
+~
+~
+0 -1 7546
+S
+#7505
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D1
+~
+~
+0 -1 7517
+D2
+~
+~
+0 -1 7504
+D3
+~
+~
+0 -1 7506
+S
+#7506
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7507
+D1
+~
+~
+0 -1 7505
+D4
+~
+~
+0 -1 7553
+S
+#7507
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7508
+D2
+~
+~
+0 -1 7506
+D3
+~
+~
+0 -1 7516
+D5
+~
+~
+0 -1 7532
+S
+#7508
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D1
+~
+~
+0 -1 7509
+D2
+~
+~
+0 -1 7507
+S
+#7509
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D3
+~
+~
+0 -1 7508
+S
+#7510
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7511
+D1
+~
+~
+0 -1 7501
+D3
+~
+~
+0 -1 7571
+D4
+~
+~
+0 -1 7550
+S
+#7511
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7512
+D2
+~
+~
+0 -1 7510
+D3
+~
+~
+0 -1 7504
+D5
+~
+~
+0 -1 7525
+S
+#7512
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D1
+~
+~
+0 -1 7513
+D2
+~
+~
+0 -1 7511
+S
+#7513
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7503
+D1
+~
+~
+0 -1 7514
+D3
+~
+~
+0 -1 7512
+D4
+~
+~
+0 -1 7554
+S
+#7514
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D2
+~
+~
+0 -1 7515
+D3
+~
+~
+0 -1 7513
+S
+#7515
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7514
+D1
+~
+~
+0 -1 7516
+D5
+~
+~
+0 -1 7522
+S
+#7516
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D1
+~
+~
+0 -1 7507
+D2
+~
+~
+0 -1 7517
+D3
+~
+~
+0 -1 7515
+D5
+~
+~
+0 -1 7531
+S
+#7517
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D0
+~
+~
+0 -1 7516
+D1
+~
+~
+0 -1 7518
+D3
+~
+~
+0 -1 7505
+D4
+~
+~
+0 -1 7555
+D5
+~
+~
+0 -1 7529
+S
+#7518
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D1
+~
+~
+0 -1 7519
+D3
+~
+~
+0 -1 7517
+D5
+~
+~
+0 -1 7534
+S
+#7519
+Light Of God~
+Walking in this church you see pictures all around you
+of great monks and angels all who died for the cause of
+protecting the poor, innocent and weak. You now know why
+this is your calling.
+~
+0 0 1
+D3
+~
+~
+0 -1 7518
+D5
+~
+~
+0 -1 7520
+S
+#7520
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7521
+D1
+~
+~
+0 -1 7532
+D4
+~
+~
+0 -1 7519
+S
+#7521
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7522
+D2
+~
+~
+0 -1 7520
+D3
+~
+~
+0 -1 7526
+S
+#7522
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D1
+~
+~
+0 -1 7523
+D2
+~
+~
+0 -1 7521
+D4
+~
+~
+0 -1 7515
+S
+#7523
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D1
+~
+~
+0 -1 7524
+D2
+~
+~
+0 -1 7526
+D3
+~
+~
+0 -1 7522
+S
+#7524
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D2
+~
+~
+0 -1 7525
+D3
+~
+~
+0 -1 7523
+S
+#7525
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7524
+D1
+~
+~
+0 -1 7527
+D2
+~
+~
+0 -1 7543
+D4
+~
+~
+0 -1 7511
+S
+#7526
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7523
+D1
+~
+~
+0 -1 7521
+D3
+~
+~
+0 -1 7527
+S
+#7527
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7528
+D1
+~
+~
+0 -1 7526
+D3
+~
+~
+0 -1 7525
+S
+#7528
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7529
+D2
+~
+~
+0 -1 7527
+S
+#7529
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D2
+~
+~
+0 -1 7528
+D3
+~
+~
+0 -1 7530
+D4
+~
+~
+0 -1 7517
+S
+#7530
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D1
+~
+~
+0 -1 7529
+D2
+~
+~
+0 -1 7531
+S
+#7531
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7530
+D3
+~
+~
+0 -1 7533
+D4
+~
+~
+0 -1 7516
+S
+#7532
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D1
+~
+~
+0 -1 7533
+D3
+~
+~
+0 -1 7520
+D4
+~
+~
+0 -1 7507
+S
+#7533
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7575
+D1
+~
+~
+0 -1 7531
+D2
+~
+~
+0 -1 7534
+D3
+~
+~
+0 -1 7532
+S
+#7534
+Basement Of The Light~
+In this darkened part of this glorious church you can
+still hear the singing of the Saints about and it takes
+the chill of fear from running through your hearts. You
+see some bones lieing on the floor and you relax knowing
+that you are on the good side of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7533
+D4
+~
+~
+0 -1 7518
+D5
+~
+~
+0 -1 7535
+S
+#7535
+Dark Corridor~
+You can barely see in front of your face. Walk carefully
+before you fall to your DOOM!!
+~
+0 0 1
+D2
+~
+~
+0 -1 7536
+D4
+~
+~
+0 -1 7534
+D5
+~
+~
+0 -1 7540
+S
+#7536
+Prison Of Light~
+This is where all of the intruders and offenders
+of the Code Of Honour are keep until they are brutally
+executed by the Jailer.
+~
+0 0 1
+D0
+~
+~
+0 -1 7535
+D2
+~
+~
+0 -1 7537
+S
+#7537
+Prison Of Light~
+This is where all of the intruders and offenders
+of the Code Of Honour are keep until they are brutally
+executed by the Jailer.
+~
+0 0 1
+D0
+~
+~
+0 -1 7536
+D2
+~
+~
+0 -1 7538
+S
+#7538
+Prison Of Light~
+This is where all of the intruders and offenders
+of the Code Of Honour are keep until they are brutally
+executed by the Jailer.
+~
+0 0 1
+D0
+~
+~
+0 -1 7537
+D1
+~
+~
+0 -1 7539
+S
+#7539
+Execution Parlour~
+Here is where those who defy God face their punishment.
+Even though it is a very brutal punishment it must be
+down to persuade all to walk in the paths of rightousness.
+~
+0 0 1
+D3
+~
+~
+0 -1 7538
+S
+#7540
+Dark Corridor~
+You can barely see in front of your face. Walk carefully
+before you fall to your DOOM!!
+~
+0 0 1
+D4
+~
+~
+0 -1 7535
+D5
+~
+~
+0 -1 7541
+S
+#7541
+Secret Passageway~
+You stubble along blindly in this small passage wondering
+where it will take you.
+~
+0 0 1
+D2
+~
+~
+0 -1 7542
+D4
+~
+~
+0 -1 7540
+S
+#7542
+Secret Passageway~
+You stubble along blindly in this small passage wondering
+where it will take you.
+~
+0 0 1
+D0
+~
+~
+0 -1 7541
+D4
+~
+~
+0 -1 7543
+S
+#7543
+Secret Passageway~
+You stubble along blindly in this small passage wondering
+where it will take you.
+~
+0 0 1
+D0
+~
+~
+0 -1 7525
+D4
+~
+~
+0 -1 7544
+D5
+~
+~
+0 -1 7542
+S
+#7544
+Secret Passageway~
+You stubble along blindly in this small passage wondering
+where it will take you.
+~
+0 0 1
+D0
+~
+~
+0 -1 7549
+D4
+~
+~
+0 -1 7545
+D5
+~
+~
+0 -1 7543
+S
+#7545
+Secret Passageway~
+You stubble along blindly in this small passage wondering
+where it will take you.
+~
+0 0 1
+D4
+~
+~
+0 -1 7570
+D5
+~
+~
+0 -1 7544
+S
+#7546
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7547
+D1
+~
+~
+0 -1 7556
+D3
+~
+~
+0 -1 7553
+D5
+~
+~
+0 -1 7504
+S
+#7547
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+T
+sikena~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 33101 0
+D0
+~
+~
+0 -1 7548
+D2
+~
+~
+0 -1 7546
+S
+#7548
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7558
+D1
+~
+~
+0 -1 7549
+D2
+~
+~
+0 -1 7547
+S
+#7549
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D1
+~
+~
+0 -1 7550
+D2
+~
+~
+0 -1 7544
+D3
+~
+~
+0 -1 7548
+S
+#7550
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7551
+D1
+~
+~
+0 -1 7558
+D3
+~
+~
+0 -1 7549
+D5
+~
+~
+0 -1 7510
+S
+#7551
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7552
+D1
+~
+~
+0 -1 7551
+D2
+~
+~
+0 -1 7550
+D3
+~
+~
+0 -1 7551
+S
+#7552
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D2
+~
+~
+0 -1 7551
+D3
+~
+~
+0 -1 7563
+D4
+~
+~
+0 -1 7567
+S
+#7553
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D1
+~
+~
+0 -1 7546
+D3
+~
+~
+0 -1 7554
+D5
+~
+~
+0 -1 7506
+S
+#7554
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7572
+D1
+~
+~
+0 -1 7553
+D2
+~
+~
+0 -1 7555
+D3
+~
+~
+0 -1 7560
+D5
+~
+~
+0 -1 7513
+S
+#7555
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7554
+D2
+~
+~
+0 -1 7556
+D5
+~
+~
+0 -1 7517
+S
+#7556
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7555
+D1
+~
+~
+0 -1 7557
+D3
+~
+~
+0 -1 7546
+S
+#7557
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D3
+~
+~
+0 -1 7556
+S
+#7558
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7559
+D2
+~
+~
+0 -1 7548
+D3
+~
+~
+0 -1 7550
+D5
+~
+~
+0 -1 7502
+S
+#7559
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D0
+~
+~
+0 -1 7560
+D2
+~
+~
+0 -1 7558
+S
+#7560
+Blazing Balcony~
+This balcony is ablaze with the power of God and
+all of his warriors departed and living. They all
+gather together to join in spirit to destroy evil.
+~
+0 0 1
+D1
+~
+~
+0 -1 7554
+D2
+~
+~
+0 -1 7559
+D4
+~
+~
+0 -1 7561
+S
+#7561
+A Small Passage~
+Barely able to fit through the space you venture to
+see what treasures you may find.
+~
+0 0 1
+D0
+~
+~
+0 -1 7562
+D5
+~
+~
+0 -1 7560
+S
+#7562
+A Small Passage~
+You are standing in room #7562.
+~
+0 0 1
+D0
+~
+~
+0 -1 7563
+D2
+~
+~
+0 -1 7561
+S
+#7563
+A Small Passage~
+You are standing in room #7563.
+~
+0 0 1
+D1
+~
+~
+0 -1 7552
+D2
+~
+~
+0 -1 7562
+D3
+~
+~
+0 -1 7564
+S
+#7564
+A Small Passage~
+You are standing in room #7564.
+~
+0 0 1
+D1
+~
+~
+0 -1 7563
+D4
+~
+~
+0 -1 7565
+S
+#7565
+A Small Passage~
+You are standing in room #7565.
+~
+0 0 1
+D4
+~
+~
+0 -1 7566
+D5
+~
+~
+0 -1 7564
+S
+#7566
+A Small Passage~
+You are standing in room #7566.
+~
+0 0 1
+D2
+~
+~
+0 -1 7567
+D5
+~
+~
+0 -1 7565
+S
+#7567
+Throne Of God~
+Looking at this throne carved from Gold you see
+intricate drawing etched on the wall to depend the
+various battles won for the glory of God.
+~
+0 0 1
+D0
+~
+~
+0 -1 7566
+D2
+~
+~
+0 -1 7568
+D5
+~
+~
+0 -1 7552
+S
+#7568
+Secret Passageway~
+You are standing in room #7568.
+~
+0 0 1
+D0
+~
+~
+0 -1 7567
+D5
+~
+~
+0 -1 7569
+S
+#7569
+Secret Passageway~
+You are standing in room #7569.
+~
+0 0 1
+D4
+~
+~
+0 -1 7568
+D5
+~
+~
+0 -1 7570
+S
+#7570
+Secret Passageway~
+You are standing in room #7570.
+~
+0 0 1
+D4
+~
+~
+0 -1 7569
+D5
+~
+~
+0 -1 7545
+S
+#7571
+The Restoration Room~
+Here you get healed by God for you valiant performance
+and for risking your life for his cause.
+~
+0 0 1
+D1
+~
+~
+0 -1 7510
+D4
+~
+~
+0 -1 7574
+S
+#7572
+God's Healer~
+Here stands God's personal healer whom he gave the
+power to heal you if you are sick and to give to
+you his blessing.
+~
+0 0 1
+D0
+~
+~
+0 -1 7573
+D2
+~
+~
+0 -1 7554
+S
+#7573
+Secret Passageway~
+You are standing in room #7573.
+~
+0 0 1
+D2
+~
+~
+0 -1 7572
+D5
+~
+~
+0 -1 7574
+S
+#7574
+Secret Passageway~
+You are standing in room #7574.
+~
+0 0 1
+D4
+~
+~
+0 -1 7573
+D5
+~
+~
+0 -1 7571
+S
+#7575
+To Arms~
+You are nearing the training grounds of these elite
+and courageous warriors of God.
+~
+0 0 1
+D2
+~
+~
+0 -1 7533
+D4
+~
+~
+0 -1 7576
+S
+#7576
+Weapon Practice~
+Here you are trained in all of the fighting
+styles and karate arts known to man. God makes sure
+that his warriors are the best in the land.
+~
+0 0 1
+D5
+~
+~
+0 -1 7575
+S
+#7577
+Rays of the Light~
+Nowhere is safe from the reach of the Light. Every kingdom is
+readily accessible for the Warriors of the true Faith, who at
+any time can invade at will. There is a blinding book radiating
+off the names of the territories which can be travelled to.
+~
+0 0 0
+D0
+~
+~
+0 -1 7501
+S
+#0
+
+#SPECIALS
+M 7503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+#RESETS
+M 0 7500 2 7500
+M 0 7500 2 7500
+M 0 7501 4 7547
+M 0 7501 4 7570
+M 0 7501 4 7530
+M 0 7501 4 7517
+M 0 7503 1 7539
+S
+
+#$

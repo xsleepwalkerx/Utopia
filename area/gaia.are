@@ -1,0 +1,583 @@
+#AREADATA
+Name        Narshe Cave~
+Builders    Imms~
+VNUMs       14000 14499
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#14000
+silent strider~
+A Silent Strider~
+A warrior is here guarding this town.
+~
+A hairy wolf is here seeking to destroy all those
+who dare to oppose his queen Gaia. Oppose her and
+meet your death.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+#ROOMS
+#14000
+Dark Opening~
+Barely distinguishable a large hole lies ahead showing the path to become on of Gaia's elite warriors.
+~
+0 0 4
+D1
+~
+~
+0 -1 14025
+D5
+~
+~
+0 -1 14001
+D2
+~
+~
+0 -1 20260
+S
+#14001
+Deep Recesses~
+Walking deeper into this world of the hunters of the Wyrm you sense danger lurking.
+~
+0 0 4
+D3
+~
+~
+0 -1 14031
+D4
+~
+~
+0 -1 14000
+D5
+~
+~
+0 -1 14002
+S
+#14002
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14003
+D1
+~
+~
+0 -1 14029
+D3
+~
+~
+0 -1 14017
+D4
+~
+~
+0 -1 14001
+D5
+~
+~
+0 -1 14025
+S
+#14003
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14004
+D2
+~
+~
+0 -1 14002
+S
+#14004
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14005
+D2
+~
+~
+0 -1 14003
+D5
+~
+~
+0 -1 14030
+S
+#14005
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D2
+~
+~
+0 -1 14004
+D5
+~
+~
+0 -1 14006
+S
+#14006
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D2
+~
+~
+0 -1 14031
+D4
+~
+~
+0 -1 14005
+D5
+~
+~
+0 -1 14007
+S
+#14007
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14008
+D4
+~
+~
+0 -1 14006
+S
+#14008
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14009
+D3
+~
+~
+0 -1 14007
+S
+#14009
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14010
+D2
+~
+~
+0 -1 14033
+D3
+~
+~
+0 -1 14008
+S
+#14010
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14011
+D3
+~
+~
+0 -1 14009
+S
+#14011
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14012
+D3
+~
+~
+0 -1 14010
+S
+#14012
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D3
+~
+~
+0 -1 14011
+D5
+~
+~
+0 -1 14013
+S
+#14013
+A flicker of light~
+You see a faint glow coming from the ahead. Do you dare to pursue it?
+~
+0 0 4
+D0
+~
+~
+0 -1 14031
+D4
+~
+~
+0 -1 14012
+D5
+~
+~
+0 -1 14014
+S
+#14014
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D4
+~
+~
+0 -1 14013
+D5
+~
+~
+0 -1 14015
+S
+#14015
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14016
+D4
+~
+~
+0 -1 14014
+S
+#14016
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14017
+D2
+~
+~
+0 -1 14015
+S
+#14017
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14018
+D1
+~
+~
+0 -1 14002
+D2
+~
+~
+0 -1 14016
+S
+#14018
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D2
+~
+~
+0 -1 14017
+D3
+~
+~
+0 -1 14019
+S
+#14019
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14018
+D3
+~
+~
+0 -1 14020
+S
+#14020
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14019
+D3
+~
+~
+0 -1 14021
+S
+#14021
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14020
+D3
+~
+~
+0 -1 14022
+S
+#14022
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D1
+~
+~
+0 -1 14021
+D3
+~
+~
+0 -1 14023
+S
+#14023
+Sound of laughter~
+The sound of joyous laughter brings a warm feeling to a heart filled with fear.
+~
+0 0 4
+D1
+~
+~
+0 -1 14022
+D2
+~
+~
+0 -1 14024
+D5
+~
+~
+0 -1 14032
+S
+#14024
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14023
+D2
+~
+~
+0 -1 14025
+S
+#14025
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14024
+D2
+~
+~
+0 -1 14026
+D3
+~
+~
+0 -1 14000
+D4
+~
+~
+0 -1 14002
+S
+#14026
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14025
+D4
+~
+~
+0 -1 14027
+S
+#14027
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D4
+~
+~
+0 -1 14028
+D5
+~
+~
+0 -1 14026
+S
+#14028
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D2
+~
+~
+0 -1 14029
+D5
+~
+~
+0 -1 14027
+S
+#14029
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D0
+~
+~
+0 -1 14028
+D3
+~
+~
+0 -1 14002
+D4
+~
+~
+0 -1 14030
+S
+#14030
+Deep Down Under~
+Your heart begin to fail you as you hear loud roars from all around telling you that death is very near.
+~
+0 0 4
+D4
+~
+~
+0 -1 14004
+D5
+~
+~
+0 -1 14029
+S
+#14031
+Bank Of Gaia~
+Sitting counting old bills is a grizzly old wolf. One of Gaia's oldest and fiercest warriors.
+~
+0 0 4
+D0
+~
+~
+0 -1 14006
+D1
+~
+~
+0 -1 14001
+D2
+~
+~
+0 -1 14013
+D5
+~
+~
+0 -1 14033
+S
+#14032
+Gaia's Dark Den~
+You see tired and old warriors sitting around a warm fire telling tales of battles won and lost.
+~
+0 0 4
+D0
+~
+~
+0 -1 14033
+D4
+~
+~
+0 -1 14023
+S
+#14033
+Gaia's Dark Den~
+They are younger warriors here telling tales of more battles to be found with a wild gleam in their eye's.
+~
+0 0 4
+D0
+~
+~
+0 -1 14009
+D2
+~
+~
+0 -1 14032
+D4
+~
+~
+0 -1 14031
+D5
+~
+~
+0 -1 14500
+S
+#0
+
+#SPECIALS
+S
+
+#RESETS
+S
+
+#$

@@ -1,0 +1,5 @@
+destroy 12 Ramsus
+kdeposit 12 Ramsus
+punch 12 Nima
+talk 12 Ramsus
+END

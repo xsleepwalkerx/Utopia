@@ -1,0 +1,136 @@
+#AREADATA
+Name        Kingdom 7~
+Builders    Imms~
+VNUMs       22600 22700
+Security    9
+Flags       0
+Land        0
+End
+
+
+#MOBILES
+#22600
+guardian~
+a Huge Guardian~
+A towering knight with a MASSIVE two handed sword patrols here.
+~
+Guardian of the kingdom, this warrior will fight to the very
+death... so beware invader.
+~
+1 136 0 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#22600
+Kingdom Recall~
+The main entry point of the kingdom, here has seen its fair
+share of peace and war. Now with the guardians resting and
+kingdom members plotting, which shall it be now?
+~
+0 0 0
+D0
+~
+~
+0 -1 22601
+D1
+~
+~
+0 -1 22602
+D2
+~
+~
+0 -1 22603
+D3
+~
+~
+0 -1 22604
+D4
+~
+~
+0 -1 800
+D5
+~
+~
+0 -1 22605
+S
+#22601
+Meeting Room~
+This vicinity is usually closed off to all people but the
+most trusted members of the kingdom. In here, under the dim
+lights, plans for upcoming invasions and defending is done.
+~
+0 0 0
+D2
+~
+~
+0 -1 22600
+S
+#22602
+Resting Room~
+After a long difficult day, people come into this room
+to rest their wounds and prepare themselves for the next
+upcoming battle.
+~
+0 1024 0
+D3
+~
+~
+0 -1 22600
+S
+#22603
+Weapons Room~
+Just a bare room fill with the weapons and armour of
+war. Don yourself warrior and go forth to protect the
+kingdom.
+~
+0 0 0
+D0
+~
+~
+0 -1 22600
+S
+#22604
+Prince Room~
+More highly decorated than the other rooms, this area is
+for the splendour of princes and princesses alike, but
+beware royalty... this is usually the first place invaders
+strike.
+~
+0 0 0
+D1
+~
+~
+0 -1 22600
+S
+#22605
+Chamber of the Leader~
+For those who wield the power, usually has to worry about
+the responsibility as well... but once in this beautiful room
+displaying wealth and comfort, all of those thoughts shall
+be dwelled on another time.
+~
+0 0 0
+D4
+~
+~
+0 -1 22600
+S
+#0
+
+
+#SPECIALS
+M 22600 spec_kguard Load to: Guardian
+S
+
+
+#RESETS
+S
+
+#SHOPS
+0
+
+#$

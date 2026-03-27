@@ -1,0 +1,2654 @@
+#AREADATA
+Name        Mystic Jungle~
+Builders    The Imms~
+VNUMs       21500 21999
+Security    9
+Recall      800
+Land        0
+End
+
+
+
+#MOBILES
+#21500
+monster mud~
+The Mud Monster~
+A Huge thing made of mud sloshes toward you.
+~
+The monster looks back at you and slaps you silly.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21501
+healer~
+The Swamp Healer~
+A beautiful healer
+~
+The healer looks at you in her vision of beauty.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21502
+swamp lord~
+The Swamp Lord~
+The Swamp Lord
+~
+This huge hideous creature raises its hand at
+you in attacking style.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21503
+mosquito~
+The mosquito~
+A small bug with a Large Stinger
+~
+Weeeeee....the mosquito buzzes around your head and confuses you
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21504
+bird egret~
+The Swamp Bird~
+A huge white bird is here.
+~
+The egret pays you no attention.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21505
+imp~
+The imp~
+A little imp hides here
+~
+The imp is loaded with corpses he has collected...some are decayed..that explains his smell.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21506
+mystic mage evil~
+The evil mystic mage~
+The Magical Embodyment of evil.
+~
+The evil mage looks at you evily and grins as he chants words from his book meant for you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21507
+fly~
+The Swamp Bug~
+A fly is buzzing around here.
+~
+The fly takes no notice of you and lands on a rotting corpse.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21508
+stone golem~
+The Stone Golem~
+The Huge Golem Stands Here
+~
+This Golemn made out of pure gold reminds you of A Great person
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21509
+fairy mystic~
+The Blue Mystic Fairy~
+A blue ball of light flys past you.
+~
+The little fairy looks at you and smiles
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21510
+fairy mystic~
+The Red Mystic Fairy~
+A red ball of light flys past you
+~
+The little fairy looks at you and smiles
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21511
+fairy mystic~
+The Yellow Mystic Fairy~
+A yellow ball of light flys past you
+~
+The little fairy looks at you and smiles
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21512
+mystic fairy~
+The Purple Mystic Fairy~
+A purple ball of lignt flys past you
+~
+The little fairy looks at you and smiles
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21513
+fairy mystic~
+The Green Mystic Fairy~
+A green ball of lignt flys past you
+~
+The little fairy looks at you and smiles
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21514
+mage wizard~
+The Good Mage~
+A handsome man with many books walks by.
+~
+This peaceful wizard smiles at you and continues to hunt for herbs for his potions.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21515
+wolf~
+A Huge Wolf ~
+A huge wolf dashes by.
+~
+The huge wolf snarls at you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21516
+lion elemental~
+The elemental Lion~
+The Jungle Beast.
+~
+The Lion looks at you and thinks  "Dinner!"
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21517
+orc~
+A small orc~
+A small orc stands here
+~
+The orc looks back at you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21518
+unicorn~
+A unicorn~
+A Mystical horse gallops by.
+~
+The unicorn runs away from you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21519
+mutated tree~
+The Slimy Tree~
+A mutated tree slithers toward you.
+~
+The Tree waves it's branches at you with anger.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21520
+sentinel hunter~
+The Hunter~
+A mystic hunter hides.
+~
+The hunter hides thinking you havent seen him.  He is going to attack you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21521
+caladoran~
+The Caladoran~
+An unusual creature sneaks by.
+~
+You have no idea what this creature is.
+Can a lion and wolf mate?
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21522
+sphinx~
+A sphinx~
+A shinx lays proudly down next to you
+~
+The sphinx takes no notice of you and relaxes.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21523
+priest~
+The Priest~
+A priest stands here Praying
+~
+The priest bows toward you and starts praying for the forgiveness of your sins
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21524
+priestess priest~
+The Priestess~
+A priestess kneels and prays
+~
+The priestess prays for you.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#21500
+Braveheart~
+the Brave Sword~
+A Brave sword rests here.~
+~
+5 3171 8193
+0 200 300 11
+1 0 0
+E
+Brave~
+This is the legendary sword wielded by Hanzo in the Immortal wars.~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21501
+Gold~
+gold~
+Gold is scattered here~
+~
+20 0 1
+1000 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21502
+wand fire~
+a Fire Wand~
+A wand lies here~
+~
+3 4096 8193
+3 5 10 ' '
+5 0 0
+A
+23 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21503
+demon club~
+a Demon Club~
+A club lies here~
+~
+5 2561 8193
+0 900 1000 7
+5 0 0
+A
+12 0
+A
+14 0
+A
+13 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21504
+breast plate~
+a Huge Breast Plate~
+A beautiful plate lies here ~
+~
+9 2592 9
+-10000 1 6 11
+5 0 0
+A
+19 99
+A
+18 99
+A
+12 99
+A
+14 99
+A
+13 99
+E
+breast plate~
+This plate was worn by hanzo in the Great Immortal Battle.~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21505
+potion~
+a potion~
+A potion is here~
+~
+10 0 16385
+10 ' ' ' ' ' '
+5 0 0
+E
+potion~
+A small bottle of potion~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#21506
+sword  key~
+a huge Golden Sword~
+A sword rests here.~
+~
+18 0 16385
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#21500
+The Mystic Path~
+You walk along a Jungle path to Mystic.
+~
+0 0 3
+D0
+~
+~
+0 -1 21501
+D2
+~
+~
+0 -1 20069
+S
+#21501
+The Mystic Path~
+You walk along a Jungle path to Mystic.
+~
+0 0 3
+D0
+~
+~
+0 -1 21502
+D2
+~
+~
+0 -1 21500
+S
+#21502
+The Mystic Path~
+You walk along a Jungle path to Mystic.
+~
+0 4 3
+D0
+~
+~
+0 -1 21503
+D2
+~
+~
+0 -1 21501
+S
+#21503
+Path Intersection at Mystic~
+You arrive At the Entrance To Mystic. 
+Sounds eminate from every single direction and from every
+single shadow. Balls of energy fly around you in all colors.
+You are amazed at their beauty.
+~
+0 0 3
+D0
+~
+~
+0 -1 21506
+D1
+~
+~
+0 -1 21504
+D2
+~
+~
+0 -1 21502
+D3
+~
+~
+0 -1 21505
+S
+#21504
+East Path~
+This is the East path of Mystic.
+~
+0 0 3
+D1
+~
+~
+0 -1 21507
+D3
+~
+~
+0 -1 21503
+S
+#21505
+West Path~
+The West Path of Mystic Forest.
+~
+0 0 3
+D1
+~
+~
+0 -1 21503
+D3
+~
+~
+0 -1 21553
+S
+#21506
+North Mystic~
+The North path in the Mystic Forest.
+~
+0 0 3
+D0
+~
+~
+0 -1 21552
+D2
+~
+~
+0 -1 21503
+S
+#21507
+East Mystic~
+The East path of the Mystic Forest.
+~
+0 0 3
+D2
+~
+~
+0 -1 21508
+D3
+~
+~
+0 -1 21504
+S
+#21508
+Muddy Paths~
+You step onto a muddy path.
+~
+0 0 3
+D0
+~
+~
+0 -1 21507
+D2
+~
+~
+0 -1 21549
+S
+#21509
+The Swamp Land~
+This land you are in is very muddy and wet.  A thick fog 
+now comes over the area and you know not which direction 
+to go.  ALl you know is that if you go what you think is 
+south, you will escape this horrid place.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21516
+D1
+~
+~
+0 -1 21512
+D2
+~
+~
+0 -1 21551
+D3
+~
+~
+0 -1 21515
+S
+#21510
+The Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21514
+D1
+~
+~
+0 -1 21519
+D3
+~
+~
+0 -1 21533
+S
+#21511
+The Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21515
+D1
+~
+~
+0 -1 21509
+D3
+~
+~
+0 -1 21510
+S
+#21512
+The Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21517
+D1
+~
+~
+0 -1 21513
+D2
+~
+~
+0 -1 21536
+D3
+~
+~
+0 -1 21509
+S
+#21513
+The Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21518
+D1
+~
+~
+0 -1 21523
+D3
+~
+~
+0 -1 21512
+S
+#21514
+The Inner Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21519
+D1
+~
+~
+0 -1 21515
+D2
+~
+~
+0 -1 21510
+S
+#21515
+The Inner Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21520
+D1
+~
+~
+0 -1 21520
+D2
+~
+~
+0 -1 21511
+D3
+~
+~
+0 -1 21514
+S
+#21516
+The Inner Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21521
+D1
+~
+~
+0 -1 21517
+D2
+~
+~
+0 -1 21509
+D3
+~
+~
+0 -1 21515
+S
+#21517
+The Inner Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21522
+D1
+~
+~
+0 -1 21518
+D2
+~
+~
+0 -1 21512
+D3
+~
+~
+0 -1 21516
+S
+#21518
+The Inner Swamp~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21523
+D1
+~
+~
+0 -1 21528
+D2
+~
+~
+0 -1 21513
+D3
+~
+~
+0 -1 21523
+S
+#21519
+The Shadow Bog~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21524
+D1
+~
+~
+0 -1 21510
+D2
+~
+~
+0 -1 21514
+D3
+~
+~
+0 -1 21524
+S
+#21520
+The Shadow Bog~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21525
+D1
+~
+~
+0 -1 21521
+D2
+~
+~
+0 -1 21515
+D3
+~
+~
+0 -1 21522
+S
+#21521
+The Shadow Bog~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D1
+~
+~
+0 -1 21522
+D2
+~
+~
+0 -1 21516
+D3
+~
+~
+0 -1 21520
+S
+#21522
+The Shadow Bog~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21527
+D1
+~
+~
+0 -1 21523
+D2
+~
+~
+0 -1 21517
+D3
+~
+~
+0 -1 21521
+S
+#21523
+The Shadow Bog~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21528
+D2
+~
+~
+0 -1 21518
+D3
+~
+~
+0 -1 21518
+S
+#21524
+Demon Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21529
+D1
+~
+~
+0 -1 21519
+D2
+~
+~
+0 -1 21519
+S
+#21525
+Demon Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21530
+D1
+~
+~
+0 -1 21526
+D2
+~
+~
+0 -1 21520
+D3
+~
+~
+0 -1 21530
+S
+#21526
+The Swamp Center~
+You are now at the center of the swamp.
+Not many people have made it here.  The ones that did 
+make it here lie as skeletons at your feet.  They made 
+their choice to stay here and die in this safe area.
+~
+0 25600 3
+D0
+~
+~
+0 -1 21528
+D1
+~
+~
+0 -1 21527
+D2
+~
+~
+0 -1 21521
+D3
+~
+~
+0 -1 21525
+S
+#21527
+Demon Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D1
+~
+~
+0 -1 21528
+D2
+~
+~
+0 -1 21522
+D3
+~
+~
+0 -1 21526
+S
+#21528
+Demon Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21533
+D2
+~
+~
+0 -1 21523
+D3
+~
+~
+0 -1 21518
+S
+#21529
+Drow Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21534
+D1
+~
+~
+0 -1 21531
+D2
+~
+~
+0 -1 21524
+S
+#21530
+Drow Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21535
+D1
+~
+~
+0 -1 21531
+D2
+~
+~
+0 -1 21525
+D3
+~
+~
+0 -1 21529
+S
+#21531
+Drow Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21538
+D1
+~
+~
+0 -1 21532
+D2
+~
+~
+0 -1 21526
+D3
+~
+~
+0 -1 21529
+S
+#21532
+Drow Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21537
+D1
+~
+~
+0 -1 21533
+D3
+~
+~
+0 -1 21531
+S
+#21533
+Drow Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21538
+D1
+~
+~
+0 -1 21509
+D2
+~
+~
+0 -1 21528
+D3
+~
+~
+0 -1 21532
+S
+#21534
+Evil Darkness ~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21539
+D1
+~
+~
+0 -1 21513
+D2
+~
+~
+0 -1 21529
+S
+#21535
+Evil Darkness~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21540
+D1
+~
+~
+0 -1 21536
+D2
+~
+~
+0 -1 21530
+D3
+~
+~
+0 -1 21534
+S
+#21536
+Evil Darkness~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21512
+D1
+~
+~
+0 -1 21537
+D2
+~
+~
+0 -1 21531
+D3
+~
+~
+0 -1 21535
+S
+#21537
+Evil Darkness~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21542
+D1
+~
+~
+0 -1 21533
+D2
+~
+~
+0 -1 21532
+D3
+~
+~
+0 -1 21536
+S
+#21538
+Evil Darkness~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21543
+D2
+~
+~
+0 -1 21531
+D3
+~
+~
+0 -1 21514
+S
+#21539
+The Perfect Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21534
+D1
+~
+~
+0 -1 21540
+D2
+~
+~
+0 -1 21534
+S
+#21540
+The Perfect Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21535
+D1
+~
+~
+0 -1 21543
+D2
+~
+~
+0 -1 21535
+D3
+~
+~
+0 -1 21539
+S
+#21541
+The Perfect Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21546
+D1
+~
+~
+0 -1 21542
+D2
+~
+~
+0 -1 21536
+D3
+~
+~
+0 -1 21540
+S
+#21542
+The Perfect Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21547
+D1
+~
+~
+0 -1 21543
+D2
+~
+~
+0 -1 21537
+D3
+~
+~
+0 -1 21541
+S
+#21543
+The Perfect Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D0
+~
+~
+0 -1 21548
+D1
+~
+~
+0 -1 21533
+D2
+~
+~
+0 -1 21538
+D3
+~
+~
+0 -1 21542
+S
+#21544
+The End of the Maze.~
+You stumble uppon a trap door into a room with golden 
+walls and seemingly live stone guardians around the room.
+You look around to see if there is a prize for you for 
+trecking through the maze.  You will be pissed off if 
+there is none.
+~
+0 8192 0
+D1
+~
+~
+0 -1 21545
+S
+#21545
+Absolute Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D1
+~
+~
+0 -1 21546
+D2
+~
+~
+0 -1 21540
+D3
+~
+~
+0 -1 21544
+S
+#21546
+Absolute Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D1
+~
+~
+0 -1 21547
+D2
+~
+~
+0 -1 21541
+D3
+~
+~
+0 -1 21545
+S
+#21547
+Absolute Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D1
+~
+~
+0 -1 21548
+D2
+~
+~
+0 -1 21542
+D3
+~
+~
+0 -1 21532
+S
+#21548
+Absolute Dark~
+You stand in the mud looking around you trying to see 
+through the heavy fog and dark shadows.
+~
+0 8192 3
+D1
+~
+~
+0 -1 21543
+D2
+~
+~
+0 -1 21543
+D3
+~
+~
+0 -1 21547
+S
+#21549
+Muddy Paths~
+The Path here is very muddy...you need boots.
+~
+0 0 3
+D0
+~
+~
+0 -1 21508
+D1
+~
+~
+0 -1 21550
+D3
+~
+~
+0 -1 21549
+S
+#21550
+Muddy Path~
+The Path here is very muddy...you need boots.
+~
+0 0 3
+D1
+~
+~
+0 -1 21551
+D3
+~
+~
+0 -1 21549
+S
+#21551
+Muddy Path~
+The Path here is very muddy...you need boots.
+~
+0 0 3
+D0
+~
+~
+0 -1 21509
+D3
+~
+~
+0 -1 21550
+S
+#21552
+Dead End~
+Well you better go back. No where you can go here. The 
+Bridge to go to North Mystic has fallen and a permanent 
+mage created tornado bars all path to the North...something 
+must be done about it.
+~
+0 0 3
+D2
+~
+~
+0 -1 21506
+S
+#21553
+Mystic Hunting.~
+This is where the powerful mages hunt magical animals for 
+their precious parts for spells.  Animals that youve never 
+seen before and ones that have mutated in this mystical 
+environment are walking freely all around you...indeed some 
+have to be violent mobs.
+~
+0 0 3
+D1
+~
+~
+0 -1 21505
+D3
+~
+~
+0 -1 21590
+S
+#21554
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages procedure 
+of hunting skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 21560
+D1
+~
+~
+0 -1 21555
+D2
+~
+~
+0 -1 21590
+S
+#21555
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages procedure 
+of hunting skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 21561
+D1
+~
+~
+0 -1 21556
+D3
+~
+~
+0 -1 21554
+S
+#21556
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages procedure 
+of hunting skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 21562
+D1
+~
+~
+0 -1 21557
+D3
+~
+~
+0 -1 21555
+S
+#21557
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages procedure 
+of hunting skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 21563
+D1
+~
+~
+0 -1 21558
+D3
+~
+~
+0 -1 21556
+S
+#21558
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages procedure 
+of hunting skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 21564
+D1
+~
+~
+0 -1 21559
+D3
+~
+~
+0 -1 21557
+S
+#21559
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages procedure of 
+hunting skills.
+~
+0 0 3
+D0
+~
+~
+0 -1 21565
+D1
+~
+~
+0 -1 21554
+D3
+~
+~
+0 -1 21558
+S
+#21560
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21566
+D1
+~
+~
+0 -1 21561
+D2
+~
+~
+0 -1 21554
+S
+#21561
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21567
+D1
+~
+~
+0 -1 21562
+D2
+~
+~
+0 -1 21555
+D3
+~
+~
+0 -1 21560
+S
+#21562
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21568
+D1
+~
+~
+0 -1 21563
+D2
+~
+~
+0 -1 21556
+D3
+~
+~
+0 -1 21561
+S
+#21563
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21569
+D1
+~
+~
+0 -1 21564
+D2
+~
+~
+0 -1 21557
+D3
+~
+~
+0 -1 21562
+S
+#21564
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21570
+D1
+~
+~
+0 -1 21565
+D2
+~
+~
+0 -1 21559
+D3
+~
+~
+0 -1 21563
+S
+#21565
+Mystic Hunting Plains~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21571
+D1
+~
+~
+0 -1 21560
+D2
+~
+~
+0 -1 21559
+D3
+~
+~
+0 -1 21564
+S
+#21566
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21572
+D1
+~
+~
+0 -1 21567
+D2
+~
+~
+0 -1 21560
+S
+#21567
+Mystic Hunting Forest~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21573
+D1
+~
+~
+0 -1 21568
+D2
+~
+~
+0 -1 21561
+D3
+~
+~
+0 -1 21566
+S
+#21568
+Mystic Hunting Forest~
+You roam the hunting grounds following the mages.
+~
+0 0 3
+D0
+~
+~
+0 -1 21574
+D1
+~
+~
+0 -1 21569
+D2
+~
+~
+0 -1 21562
+D3
+~
+~
+0 -1 21567
+S
+#21569
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21575
+D1
+~
+~
+0 -1 21570
+D2
+~
+~
+0 -1 21563
+D3
+~
+~
+0 -1 21568
+S
+#21570
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21576
+D1
+~
+~
+0 -1 21571
+D2
+~
+~
+0 -1 21564
+D3
+~
+~
+0 -1 21569
+S
+#21571
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21577
+D1
+~
+~
+0 -1 21566
+D2
+~
+~
+0 -1 21565
+D3
+~
+~
+0 -1 21570
+S
+#21572
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21578
+D1
+~
+~
+0 -1 21573
+D2
+~
+~
+0 -1 21566
+S
+#21573
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21579
+D1
+~
+~
+0 -1 21574
+D2
+~
+~
+0 -1 21567
+D3
+~
+~
+0 -1 21572
+S
+#21574
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21580
+D1
+~
+~
+0 -1 21575
+D2
+~
+~
+0 -1 21568
+D3
+~
+~
+0 -1 21573
+S
+#21575
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21581
+D1
+~
+~
+0 -1 21576
+D2
+~
+~
+0 -1 21569
+D3
+~
+~
+0 -1 21574
+S
+#21576
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21582
+D1
+~
+~
+0 -1 21577
+D2
+~
+~
+0 -1 21570
+D3
+~
+~
+0 -1 21575
+S
+#21577
+Mystic Hunting Forest~
+You roam the hunting grounds following the real hunters 
+that are killing bigger game.
+~
+0 0 3
+D0
+~
+~
+0 -1 21583
+D1
+~
+~
+0 -1 21572
+D2
+~
+~
+0 -1 21571
+D3
+~
+~
+0 -1 21576
+S
+#21578
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D0
+~
+~
+0 -1 21584
+D1
+~
+~
+0 -1 21579
+D2
+~
+~
+0 -1 21572
+S
+#21579
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D0
+~
+~
+0 -1 21585
+D1
+~
+~
+0 -1 21580
+D2
+~
+~
+0 -1 21573
+D3
+~
+~
+0 -1 21578
+S
+#21580
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D0
+~
+~
+0 -1 21586
+D1
+~
+~
+0 -1 21581
+D2
+~
+~
+0 -1 21574
+D3
+~
+~
+0 -1 21579
+S
+#21581
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D0
+~
+~
+0 -1 21587
+D1
+~
+~
+0 -1 21582
+D2
+~
+~
+0 -1 21575
+D3
+~
+~
+0 -1 21580
+S
+#21582
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D0
+~
+~
+0 -1 21588
+D1
+~
+~
+0 -1 21583
+D2
+~
+~
+0 -1 21576
+D3
+~
+~
+0 -1 21581
+S
+#21583
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D0
+~
+~
+0 -1 21589
+D1
+~
+~
+0 -1 21578
+D2
+~
+~
+0 -1 21577
+D3
+~
+~
+0 -1 21582
+S
+#21584
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D1
+~
+~
+0 -1 21585
+D2
+~
+~
+0 -1 21578
+D3
+~
+~
+0 -1 21589
+S
+#21585
+Mystic Hunting ~
+You roam the hunting plains at the base of a small 
+mountain.
+~
+0 0 3
+D1
+~
+~
+0 -1 21586
+D2
+~
+~
+0 -1 21579
+D3
+~
+~
+0 -1 21584
+D4
+~
+~
+0 -1 21591
+S
+#21586
+Mystic Hunting~
+You roam the hunting plains at the base of a small 
+mountain.
+~
+0 0 3
+D1
+~
+~
+0 -1 21587
+D2
+~
+~
+0 -1 21580
+D3
+~
+~
+0 -1 21585
+D4
+~
+~
+0 -1 21592
+S
+#21587
+Mystic Hunting ~
+You roam the hunting plains at the base of a small 
+mountain.
+~
+0 0 3
+D1
+~
+~
+0 -1 21588
+D2
+~
+~
+0 -1 21581
+D3
+~
+~
+0 -1 21586
+D4
+~
+~
+0 -1 21593
+S
+#21588
+Mystic Hunting ~
+You roam the hunting plains at the base of a small 
+mountain.
+~
+0 0 3
+D1
+~
+~
+0 -1 21589
+D2
+~
+~
+0 -1 21582
+D3
+~
+~
+0 -1 21587
+D4
+~
+~
+0 -1 21594
+S
+#21589
+Mystic Hunting Forest~
+You roam the hunting plains.
+~
+0 0 3
+D1
+~
+~
+0 -1 21584
+D2
+~
+~
+0 -1 21583
+D3
+~
+~
+0 -1 21588
+S
+#21590
+The Hunting Grounds~
+The hunting grounds begin here.
+~
+0 0 3
+D0
+~
+~
+0 -1 21554
+D1
+~
+~
+0 -1 21553
+S
+#21591
+Small Hill~
+This small incline is scattered with gold glitter.
+~
+0 0 5
+D1
+~
+~
+0 -1 21592
+D5
+~
+~
+0 -1 21585
+S
+#21592
+Small Hill~
+This small incline is scattered with gold glitter. Up 
+form here is a Temple.
+~
+0 4 5
+D1
+~
+~
+0 -1 21593
+D3
+~
+~
+0 -1 21591
+D4
+~
+~
+0 -1 21595
+D5
+~
+~
+0 -1 21586
+S
+#21593
+Small Hill~
+This small incline is scattered with gold glitter. UP 
+from here is a temple.
+~
+0 4 5
+D1
+~
+~
+0 -1 21594
+D3
+~
+~
+0 -1 21592
+D4
+~
+~
+0 -1 21596
+D5
+~
+~
+0 -1 21587
+S
+#21594
+Small Hill~
+This small incline is scattered with gold glitter.
+~
+0 0 5
+D3
+~
+~
+0 -1 21593
+D5
+~
+~
+0 -1 21588
+S
+#21595
+The Mystic Temple~
+You enter the Mystic Temple seeing more of thoes Huge 
+golems guarding the entrance. All around you is just 
+brilliant gold and lots of precious stones.
+~
+0 0 0
+D0
+~
+~
+0 -1 21598
+D5
+~
+~
+0 -1 21592
+S
+#21596
+The Mystic Temple~
+You enter the Mystic Temple seeing more of thoes Huge 
+golems guarding the entrance. All around you is just 
+brilliant gold and lots of precious stones.
+~
+0 0 0
+D0
+~
+~
+0 -1 21599
+D5
+~
+~
+0 -1 21593
+S
+#21597
+Inside the Temple~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21601
+D1
+~
+~
+0 -1 21598
+D3
+~
+~
+0 -1 21600
+S
+#21598
+Inside the Temple~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21602
+D1
+~
+~
+0 -1 21599
+D2
+~
+~
+0 -1 21595
+D3
+~
+~
+0 -1 21597
+S
+#21599
+Inside the Temple~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21603
+D1
+~
+~
+0 -1 21600
+D2
+~
+~
+0 -1 21596
+D3
+~
+~
+0 -1 21598
+S
+#21600
+Inside the Temple~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21604
+D1
+~
+~
+0 -1 21597
+D3
+~
+~
+0 -1 21599
+S
+#21601
+Temple Hall~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21605
+D1
+~
+~
+0 -1 21602
+D2
+~
+~
+0 -1 21597
+D3
+~
+~
+0 -1 21604
+S
+#21602
+Temple Hall~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 21603
+D2
+~
+~
+0 -1 21598
+D3
+~
+~
+0 -1 21601
+S
+#21603
+Temple Hall~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D1
+~
+~
+0 -1 21604
+D2
+~
+~
+0 -1 21599
+D3
+~
+~
+0 -1 21602
+S
+#21604
+Temple Hall~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21606
+D1
+~
+~
+0 -1 21601
+D2
+~
+~
+0 -1 21600
+D3
+~
+~
+0 -1 21603
+S
+#21605
+Temple Way~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+0 -1 21607
+D2
+~
+~
+0 -1 21601
+S
+#21606
+Temple Way~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple.
+~
+0 0 0
+D0
+~
+~
+33 -1 21609
+D2
+~
+~
+0 -1 21604
+S
+#21607
+Before the Altar~
+You are standing in room with more statues of great 
+people. To your East is the Temple altar.
+~
+0 0 0
+D1
+~
+~
+0 -1 21608
+D2
+~
+~
+0 -1 21605
+S
+#21608
+The Altar~
+Here lies an altar.  It was just cleaned from a sacrifice
+to the Gods. A slim dagger used in the sacrifice is here 
+also.
+~
+0 0 0
+D1
+~
+~
+0 -1 21609
+D2
+~
+~
+0 -1 21610
+D3
+~
+~
+0 -1 21607
+S
+#21609
+Before the Altar~
+Priests and Priestesses roam the halls bowing and praying 
+to the statues that align the Temple. West is an altar.
+~
+0 0 0
+D2
+A huge Golden Door.~
+door~
+33 21506 21606
+D3
+~
+~
+0 -1 21608
+S
+#21610
+The Most Holy Room~
+Here is the Most Holy Room in Mystic.
+Artifacts and relics of all kinds adorn the walls of the 
+room as trophies. The Ruler of The Land is here.... The 
+Tempest is here.
+~
+0 17929 0
+D0
+~
+~
+0 -1 21608
+S
+#0
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
+

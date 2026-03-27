@@ -1,0 +1,1493 @@
+#AREADATA
+Name        Kaylara's Predator area~
+Builders    None~
+VNUMs       19700 19749
+Security    3
+Recall      0
+Land        0
+End
+
+
+
+#MOBILES
+#19700
+Predator Leader~
+Predator Leader~
+The Predator Leader scans you for you weaknesses and strikes!
+~
+As the leader of the Predator pack gazes at you, you are fear struck. You think.. oh my god! This Elite
+Predator will strike me dead! Run! Before it's too late!
+You are unable to flee!
+~
+9 136 -1000 S
+925 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19701
+Regeneration Bot~
+Regeneration Bot~
+The Regeneration Bot wanders around the alien ship giving healer spells to those who need it.
+~
+The Regeneration Bot is a lifeless bot. It does you no good to hurt it. Why don't you just leave it
+alone and let it heal you however it wants?
+~
+1197 533160 0 S
+886 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#19702
+executioner predator~
+Executioner of the Predators~
+The super powerful executioner of the Predators stands here.
+~
+As he looks at you as if you were an insignificant being, he grumbles because he cannot kill you at
+will. He stands and waits for you to make your move.
+~
+9 136 -1000 S
+820 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19703
+Predator~
+The Predator~
+The Predator here is very alarmed at your presence and attacks!
+~
+The elite killer you stand before looks at you and stares deep into you. He scans you for your
+weaknesses.
+~
+9 136 -1000 S
+811 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19704
+predator trainee~
+The Predator in Training~
+The Predator Adept looks at you and issues a challenge!
+~
+This predator doesn't look as big and as bad as the other ones but STILL looks big and bad.
+~
+831 1147562 -1000 S
+69 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19705
+predator priest~
+a priest of the predators~
+An alien priest stands here looking at you.
+~
+The priest of the predators looks at your nice round skull. He determines your future and tells you 'YOU
+WILL DIE!'
+~
+9 136 -1000 S
+857 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19706
+merc mercenary~
+The Mercenary~
+A mercenary is here looking for something out there....
+~
+You know that just by looking at the mercenary, he is extremely deadly.
+~
+9 136 1000 S
+897 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19707
+super merc mercenary~
+the BIG mercenary~
+Hey look! Arnold Schwa... a BIG mercenary is here! He must be hunting predators
+~
+Arno... the mercenary has lots of muscles and wears camoflage. You notice he's heavily armed and is
+dirty.
+~
+9 136 1000 S
+826 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19708
+The Predator~
+The Predator~
+The Predator is looking for something to kill and sees you!
+~
+The predator is a deadly and elite killer. He is on the loose and looking for people to kill.
+~
+9 136 -1000 S
+893 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19709
+predator baby~
+a predator baby~
+A predator baby is here acting like a baby and sucking on a pacifier.
+~
+This ugly kid is 100% defected! Kill it!
+~
+9 136 -1000 S
+811 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19710
+predator mother~
+a predator mother giving birth~
+A predator mother is here giving birth.
+~
+She looks like she's in pain.. why don't you end her misery?
+~
+9 136 -1000 S
+812 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#19711
+predator father~
+a predator father~
+A predator father is here supporting his wife.
+~
+The predator father is here saying 'push baby push! come on.. push! just a little bit farther.. i'm
+getting this all on tape! oh look! theres junior's head!' or at least, that's what you think he's saying
+in that odd language of his...
+~
+9 136 -1000 S
+875 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19712
+predator doctor~
+a predator doctor~
+A predator doctor is here ripping out babies this way and that.
+~
+Being too busy to notice you, this is the only doctor in the room and he is running this way and that
+delivering ugly sick nasty little critters.
+~
+9 136 -1000 S
+854 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#19713
+Predator reject~
+a predator reject~
+A predator reject is sitting there twiddling it's thumbs.
+~
+The reject looks back at you and says 'My oh my.. why do I look so ugly?'
+~
+9 136 -1000 S
+837 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#19700
+black projectile launcher~
+a BIG black projectile launcher~
+A black high tech gun lies here. It looks as if it came from alien origins.~
+~
+5 6899 8193
+0 10 13 6
+5 0 0
+A
+18 5
+A
+19 5
+A
+3 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19701
+plate predator leader~
+the Plate of the Predator Leader~
+A black regal plate hovers here mysteriously.~
+~
+9 2610 9
+15 1 6 11
+20 0 0
+A
+19 3
+A
+18 3
+A
+17 -10
+A
+1 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19702
+glove predator~
+the Glove of the Predator Leader~
+A black regal glove hovers here mysteriously.~
+~
+5 2610 8193
+0 5 7 9
+5 0 0
+A
+4 2
+A
+19 3
+A
+18 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19703
+black implant regal predator~
+the Implant of the Predator Leader~
+An implant lies on the ground here which looks like it might fit on your hand.~
+~
+9 2610 129
+15 1 6 11
+5 0 0
+A
+19 2
+A
+18 2
+A
+24 -5
+A
+2 2
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19704
+strange orange potion~
+a strange orange potion~
+A orange potion glows silently, giving off a soft orange light.~
+~
+10 0 16385
+50 ' ' ' ' ' '
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19705
+Sacrificial Axe Predators~
+the Sacrifical Axe of the Predators~
+A large black and intricately designed axe lies here looking powerful.~
+~
+5 6899 8193
+0 10 20 1
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19706
+sesame~
+the circle in the middle of the room~
+~
+~
+15 0 0
+0 5 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19707
+training projectile launcher~
+a small black projectile launcher~
+A small black projectile launcher hovers mysteriously.~
+~
+5 2610 8193
+0 5 5 6
+5 0 0
+A
+4 1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19708
+black predator training suit~
+a black Predator Training suit~
+A black suit of Predator kind hovers mysteriously.~
+~
+9 2610 1025
+10 1 6 11
+5 0 0
+A
+17 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19709
+full black predator suit~
+full Predator suit of Armor~
+A full suit of strange black armor hovers in the air mysteriously.~
+~
+9 2610 1025
+15 1 6 11
+5 0 0
+A
+19 2
+A
+18 2
+A
+17 -30
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19710
+black glove~
+a glove of Predator Kind~
+A glove has been left here carelessly and hovers mysteriously.~
+~
+5 2610 8193
+0 7 10 13
+5 0 0
+A
+18 3
+A
+19 3
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19711
+Unholy Robe~
+an Unholy Robe~
+An Unholy Robe lies here.~
+~
+9 6739 1025
+5 1 6 11
+5 0 0
+A
+24 -5
+A
+4 5
+A
+3 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19712
+machine gun~
+a machine gun~
+A hand held machine gun lies here on the floor.~
+~
+5 3073 8193
+0 5 5 6
+5 0 0
+A
+19 7
+A
+18 -1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19713
+big fucking machine gun~
+a BIG FUCKING MACHINE GUN~
+A BIG FUCKING MACHINE GUN BEING HUGE AND GARGANTUOUS LIES HERE! TAKE IT!~
+~
+5 3073 8193
+0 10 10 6
+60 0 0
+A
+19 0
+A
+19 10
+A
+18 -1
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19714
+army camoflage pants~
+a pair of army camoflage pants~
+A pair of Army camoflage pants is here lookin' stylin'.~
+~
+9 0 33
+5 1 6 11
+5 0 0
+A
+17 -15
+A
+14 50
+A
+23 -10
+A
+2 5
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19715
+Black stoneridge boots~
+a black pair of 'StoneRidge' boots~
+Some REALLY nice boots have been left here.~
+~
+9 0 65
+5 1 6 11
+5 0 0
+A
+17 -5
+A
+2 3
+A
+23 -10
+A
+14 50
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19716
+predator crown helm~
+the Helm of the Predator Leader~
+A black regal crown hovers mysteriously.~
+~
+9 2610 17
+15 1 6 11
+5 0 0
+A
+19 3
+A
+18 3
+A
+17 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19717
+shoelace~
+a shoelace~
+A shoelace that's fallen out of a shoe has been left here carelessly.~
+~
+8 0 1
+0 0 0 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19718
+pacifier~
+a nasty pacifier~
+A nasty pacifier lies here.~
+~
+3 2642 16385
+50 6 6 ' '
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19719
+apron~
+an Apron~
+An apron lies here unused. Theres lots of blood on this thing.~
+~
+9 0 1025
+10 1 6 11
+5 0 0
+A
+24 -10
+A
+23 -10
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19720
+tape recorder~
+a tape recorder~
+A tape recorder is here.. set on record.~
+~
+13 130 16385
+0 0 0 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19721
+sink~
+a sink~
+A sink is running water here.~
+~
+25 65 0
+0 0 0 0
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19722
+portable toilet potty~
+a porta-potty~
+A porta-potty is right there for the taking.~
+~
+15 0 17
+500 1 -1 11
+1 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19723
+shit~
+some shit~
+Some shit is lying on the ground.. why don't you pick it up?~
+~
+13 0 1
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19724
+some piss~
+some piss~
+There is a puddle of piss on the ground.~
+~
+13 0 1
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19725
+chanting skull red~
+a red chanting skull~
+A red skull lies on the ground.~
+~
+12 0 8192
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19726
+chanting skull blue~
+a blue chanting skull~
+A blue skull lies here chanting mysterious ramblings~
+~
+12 0 8192
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#19727
+white chanting skull~
+a white chanting skull~
+A white skull lies on the ground just frightening to look at.~
+~
+12 0 0
+0 1 6 11
+5 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#19700
+The End of the Forest and the Start to a long way down.~
+You have seemed to come to the end of the forest and 
+the start of a great way down a cliff. As you peer over 
+the cliff, you can see more and more forests. As if you 
+haven't seen enough already...there is a sign here.
+~
+0 4 3
+E
+sign~
+The sign reads:
+
+******************BEWARE*****************
+*                                       *
+*There is an inspection going on below. *
+*   Please do not descend the cliff.    *
+*An object has crash landed and has been*
+*   considered to have very volitile    *
+* contents. Continue at your own risk.  *
+*                                       *
+*****************************************
+~
+D5
+~
+~
+0 -1 19701
+D2
+~
+~
+0 -1 20265
+S
+#19701
+Down the cliff~
+As you climb down the cliff, you notice scratches 
+along the rocks. It looks as if there may have been 
+something very powerful along the edges of the forest 
+you thought you knew very well.
+~
+0 0 5
+D4
+~
+~
+0 -1 19700
+D5
+~
+~
+0 -1 19702
+S
+#19702
+The bottom of the cliff~
+You reach the bottom of the cliff and look around. 
+You see forest areas around you and you face the 
+wall of the cliff behind you. You notice a few 
+carvings around the wall and it looks like many 
+scratches and other things have been making their 
+marks on the wall.
+~
+0 0 2
+D0
+~
+~
+0 -1 19710
+D2
+~
+~
+33 -1 19703
+D4
+~
+~
+0 -1 19701
+S
+#19703
+A dark black hallway.~
+You have found your way into strange hallway. At 
+your sides, you see intricately designed walls. 
+It is very dark in here.
+~
+0 9 0
+D0
+~
+~
+33 -1 19702
+D2
+~
+~
+0 -1 19704
+S
+#19704
+Crossway in the Halls~
+You have come across an intersection. Exits lead 
+in all directions. To the east, you hear a 
+mysterious humming while to the west, you hear a 
+group of people speaking a strange language you 
+have never heard before. The hallway continues 
+through to the north.
+~
+0 9 0
+D0
+~
+~
+0 -1 19703
+D1
+~
+~
+0 -1 19705
+D2
+~
+~
+0 -1 19707
+D3
+~
+~
+0 -1 19706
+S
+#19705
+A room~
+You see nothing in here but a circle in the center
+of the room. The humming seems to be coming from that 
+one circle.
+~
+0 0 1
+D3
+~
+~
+0 -1 19704
+S
+#19706
+The Meeting Room of the Predators~
+You are standing in the room in which all the predators 
+meet. You feel as if you are being watched...
+~
+0 9 0
+D1
+~
+~
+0 -1 19704
+S
+#19707
+A hallway~
+You walk further down the dark hallway and see nothing 
+special... but you hear some sort of chanting around you.
+~
+0 9 0
+D0
+~
+~
+0 -1 19704
+D2
+~
+~
+0 -1 19708
+S
+#19708
+A T-Intersection in the Hallway~
+The chanting is louder around here. To the east you see a 
+door. The chanting seems to be coming from that room. The 
+hallway continues to the south.
+~
+0 9 0
+D0
+~
+~
+0 -1 19707
+D1
+~
+~
+0 -1 19709
+D2
+~
+~
+0 -1 19735
+S
+#19709
+Skull Keep~
+You stand in a room filled with skulls. Each skull looks 
+frighteningly real. You find that in this room, there are 
+three skulls in the center of the room, chanting the 
+horrifying stave.
+~
+0 9 0
+D3
+~
+~
+0 -1 19708
+S
+#19710
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19711
+D1
+~
+~
+0 -1 19715
+D2
+~
+~
+0 -1 19702
+D3
+~
+~
+0 -1 19720
+S
+#19711
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19712
+D2
+~
+~
+0 -1 19710
+S
+#19712
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19713
+D2
+~
+~
+0 -1 19711
+S
+#19713
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19714
+D2
+~
+~
+0 -1 19712
+S
+#19714
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D2
+~
+~
+0 -1 19713
+S
+#19715
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19716
+D3
+~
+~
+0 -1 19710
+S
+#19716
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19717
+D2
+~
+~
+0 -1 19715
+D3
+~
+~
+0 -1 19732
+S
+#19717
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19718
+D1
+~
+~
+0 -1 19733
+D3
+~
+~
+0 -1 19716
+S
+#19718
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19744
+D2
+~
+~
+0 -1 19717
+D3
+~
+~
+0 -1 19719
+S
+#19719
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19718
+S
+#19720
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19721
+D1
+~
+~
+0 -1 19710
+S
+#19721
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D2
+~
+~
+0 -1 19720
+D3
+~
+~
+0 -1 19722
+S
+#19722
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19721
+D2
+~
+~
+0 -1 19723
+S
+#19723
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19722
+D3
+~
+~
+0 -1 19724
+S
+#19724
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19725
+D1
+~
+~
+0 -1 19723
+D3
+~
+~
+0 -1 19747
+S
+#19725
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19726
+D2
+~
+~
+0 -1 19724
+S
+#19726
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19727
+D1
+~
+~
+0 -1 19741
+D2
+~
+~
+0 -1 19725
+S
+#19727
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19728
+D2
+~
+~
+0 -1 19726
+S
+#19728
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19748
+D1
+~
+~
+0 -1 19729
+D3
+~
+~
+0 -1 19727
+S
+#19729
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D0
+~
+~
+0 -1 19746
+D1
+~
+~
+0 -1 19730
+D3
+~
+~
+0 -1 19728
+S
+#19730
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19731
+D3
+~
+~
+0 -1 19729
+S
+#19731
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D3
+~
+~
+0 -1 19730
+S
+#19732
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19716
+D2
+~
+~
+0 -1 19749
+S
+#19733
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D1
+~
+~
+0 -1 19734
+D3
+~
+~
+0 -1 19717
+S
+#19734
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8192 3
+D3
+~
+~
+0 -1 19733
+S
+#19735
+A hallway~
+This hall just goes straight north and south. 
+You here some chanting up north though...
+~
+0 9 0
+D0
+~
+~
+0 -1 19708
+D2
+~
+~
+0 -1 19737
+D5
+~
+~
+33 -1 19736
+S
+#19736
+The Room of the Predator Leader~
+You stand in the room of the Predator Leader. 
+I'd get out of here if I were you.. the Predator 
+Leader is SUPER DEADLY.
+~
+0 8201 0
+D0
+~
+~
+0 -1 19740
+D4
+~
+~
+33 -1 19735
+S
+#19737
+The End of the Hallway .. another T-Intersection~
+You have come to the end of the alienic hallway. 
+There are rooms to your east and to your west.
+~
+0 8201 0
+D0
+~
+~
+0 -1 19735
+D1
+~
+~
+0 -1 19739
+D2
+~
+~
+33 -1 19743
+D3
+~
+~
+0 -1 19738
+S
+#19738
+The Predator Training Room~
+You've entered the Predator Training Room. Here 
+is the place where Predators are trained to be 
+lethal and deadly. You can see a lot of those 
+aliens in here and they see you too...
+~
+0 9 0
+D1
+~
+~
+0 -1 19737
+S
+#19739
+The Predator Breeding Room~
+You see some nasty things in here.. you see female 
+predators having sex with male predators and you 
+also see baby predators too... then theres the doctor 
+predators who are looking after the mother predators 
+in labour. You wish you never stepped in here. All 
+these buck naked predators make you sick and you puke.
+~
+0 8 0
+D0
+~
+~
+0 -1 19742
+D3
+~
+~
+0 -1 19737
+S
+#19740
+The Predator Leader's Private Washroom~
+No one is generally allowed in here except the Predator 
+Leader. When he finds out what you've been doing in here, 
+he'll be very ticked off.
+~
+0 0 0
+D2
+~
+~
+0 -1 19736
+S
+#19741
+A clearing in the forest~
+You feel free from the supreme presence and clear of mind. 
+You can actually see the sky.
+~
+0 1024 1
+D3
+~
+~
+0 -1 19726
+S
+#19742
+The reject room~
+This is where all the rejected predators go.
+~
+0 9 0
+D2
+~
+~
+0 -1 19739
+S
+#19743
+A washroom~
+Look at these facilities! Yuck! Just a portable 
+toilet and a sink? Man'o'man.. you woulda thought 
+that aliens were HIGH TECH beings, but being in 
+here is just a disgrace.
+~
+0 9 0
+D0
+~
+~
+33 -1 19737
+S
+#19744
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8193 3
+D0
+~
+~
+0 -1 19745
+D3
+~
+~
+0 -1 19718
+S
+#19745
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 8193 3
+D2
+~
+~
+0 -1 19744
+S
+#19746
+Dark Forest area~
+You feel some supreme being looking over you.
+~
+0 8193 3
+D2
+~
+~
+0 -1 19729
+S
+#19747
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 1 3
+D1
+~
+~
+0 -1 19724
+S
+#19748
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 1 3
+D2
+~
+~
+0 -1 19728
+S
+#19749
+Dark Forest Area~
+You feel some supreme being looking over you.
+~
+0 1 3
+D0
+~
+~
+0 -1 19732
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

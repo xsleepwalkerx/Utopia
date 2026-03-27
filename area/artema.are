@@ -1,0 +1,598 @@
+#AREADATA
+Name        Artema Academy~
+Builders    Imms~
+VNUMs       17000 17499
+Security    9
+Recall      3001
+Land        0
+End
+
+
+
+#MOBILES
+#17000
+mage wandering~
+A Wandering Mage~
+A fully cloaked magician is here scouting the ground for herbs.
+~
+Looking for items she needs to cast her various spells, this
+mage is using all of her concentration searching the ground
+for them.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#17000
+The Magical Vortex~
+As you walk through the entrance of this academy, you see a
+set of apprentices running to their classes.
+~
+0 0 0
+D0
+~
+~
+0 -1 17001
+D1
+~
+~
+0 -1 20000
+S
+#17001
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 17002
+D1
+~
+~
+0 -1 17003
+D2
+~
+~
+0 -1 17000
+D3
+~
+~
+0 -1 17004
+S
+#17004
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 17005
+D1
+~
+~
+0 -1 17001
+S
+#17003
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 17006
+D3
+~
+~
+0 -1 17001
+S
+#17002
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 17007
+D3
+~
+~
+0 -1 17005
+D2
+~
+~
+0 -1 17001
+D1
+~
+~
+0 -1 17006
+S
+#17006
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 17009
+D3
+~
+~
+0 -1 17002
+D1
+~
+~
+0 -1 17008
+D2
+~
+~
+0 -1 17003
+S
+#17008
+Magical Classroom~
+Flying chairs and pencils swirl throughout the room doing work for
+the students standing in here as they chant in a mysterious
+language.
+~
+0 0 0
+D3
+~
+~
+0 -1 17006
+S
+#17005
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D0
+~
+~
+0 -1 17011
+D1
+~
+~
+0 -1 17002
+D3
+~
+~
+0 -1 17010
+D2
+~
+~
+0 -1 17004
+S
+#17010
+Magical Classroom~
+Flying chairs and pencils swirl throughout the room doing work for
+the students standing in here as they chant in a mysterious
+language.
+~
+0 0 0
+D1
+~
+~
+0 -1 17005
+S
+#17011
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D1
+~
+~
+0 -1 17007
+D2
+~
+~
+0 -1 17005
+S
+#17009
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 17007
+D2
+~
+~
+0 -1 17006
+S
+#17007
+Courtyard of Mystica~
+Unlike most courtyards, this one appears to be inside of a
+shimmering vortex. ducking shooting stars that are whizzing pass 
+you, you carry onwards.
+~
+0 0 0
+D3
+~
+~
+0 -1 17011
+D1
+~
+~
+0 -1 17009
+D2
+~
+~
+0 -1 17002
+D4
+~
+~
+0 -1 17012
+S
+#17012
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D2
+~
+~
+0 -1 17013
+D5
+~
+~
+0 -1 17007
+S
+#17013
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17012
+D3
+~
+~
+0 -1 17014
+D1
+~
+~
+0 -1 17015
+D2
+~
+~
+0 -1 17016
+S
+#17014
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D1
+~
+~
+0 -1 17013
+D2
+~
+~
+0 -1 17017
+S
+#17015
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D3
+~
+~
+0 -1 17013
+D2
+~
+~
+0 -1 17018
+S
+#17016
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17013
+D3
+~
+~
+0 -1 17017
+D1
+~
+~
+0 -1 17018
+D2
+~
+~
+0 -1 17020
+S
+#17017
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17014
+D1
+~
+~
+0 -1 17016
+D3
+~
+~
+0 -1 17021
+D2
+~
+~
+0 -1 17022
+S
+#17021
+Magical Classroom~
+Flying chairs and pencils swirl throughout the room doing work for
+the students standing in here as they chant in a mysterious
+language.
+~
+0 0 0
+D1
+~
+~
+0 -1 17017
+S
+#17018
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17015
+D3
+~
+~
+0 -1 17016
+D1
+~
+~
+0 -1 17023
+D2
+~
+~
+0 -1 17024
+S
+#17023
+Magical Classroom~
+Flying chairs and pencils swirl throughout the room doing work for
+the students standing in here as they chant in a mysterious
+language.
+~
+0 0 0
+D3
+~
+~
+0 -1 17018
+S
+#17024
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17018
+D3
+~
+~
+0 -1 17020
+S
+#17022
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17017
+D1
+~
+~
+0 -1 17020
+S
+#17020
+The Black Hole~
+It feels like your innards are being ripped apart as you walk
+through this massive black hole. What are the students doing
+at this academy you wonder.
+~
+0 0 0
+D0
+~
+~
+0 -1 17016
+D1
+~
+~
+0 -1 17024
+D3
+~
+~
+0 -1 17022
+D4
+~
+~
+0 -1 17025
+S
+#17025
+An Icy Road~
+Walking on an impossible icy path which is hovering over a fiery
+chasm, you can't help but wonder if this is another illusion or
+something very, very real.
+~
+0 0 0
+D0
+~
+~
+0 -1 17026
+D5
+~
+~
+0 -1 17020
+S
+#17026
+An Icy Road~
+Walking on an impossible icy path which is hovering over a fiery
+chasm, you can't help but wonder if this is another illusion or
+something very, very real.
+~
+0 0 0
+D1
+~
+~
+0 -1 17027
+D2
+~
+~
+0 -1 17025
+S
+#17027
+An Icy Road~
+Walking on an impossible icy path which is hovering over a fiery
+chasm, you can't help but wonder if this is another illusion or
+something very, very real.
+~
+0 0 0
+D0
+~
+~
+0 -1 17028
+D3
+~
+~
+0 -1 17026
+S
+#17028
+An Icy Road~
+Walking on an impossible icy path which is hovering over a fiery
+chasm, you can't help but wonder if this is another illusion or
+something very, very real.
+~
+0 0 0
+D1
+~
+~
+0 -1 17030
+D3
+~
+~
+0 -1 17029
+D2
+~
+~
+0 -1 17027
+D0
+~
+~
+0 -1 17500
+S
+#17029
+A money converter~
+A ingenious invention by the mages, this machine converts travellers'
+money into mana until it is needed again, making it impossible for
+it to be stolen in any way.
+~
+0 0 0
+D1
+~
+~
+0 -1 17028
+S
+#17030
+A regenerating capsule~
+Some strange device made by the mages, this is supposively allow
+travellers to rest their tired bones, completely rejuvernating
+themselves.
+~
+0 0 0
+D3
+~
+~
+0 -1 17028
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

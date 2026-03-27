@@ -1,0 +1,1628 @@
+#AREADATA
+Name        Bathsheba Beach~
+Builders    The Imms~
+VNUMs       21000 21499
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#21000
+star fish~
+A Star Fish~
+A star fish floats here in the surf.
+~
+This small five legged sea creature leisurely
+floats about in the sea waiting for lunch to
+pass by.~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21001
+swordfish~
+A Swordfish~
+A swordfish is here swimming.
+~
+This pretty orange fish is swimming in circles
+watching for prey to enter its domain.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21002
+sea monsters~
+A Sea Monster~
+A monster is here to kill you.
+~
+This monsters protects it home with it's deadly
+poison.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21003
+shark~
+A Shark~
+A shark is lazily swimming here.
+~
+This huge and vicious is here waiting with it's
+razor sharp teeth to rip you flesh for off of 
+it's bones.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21004
+manta ray~
+A Manta Ray~
+A huge manta ray is camoflaged on the sea floor.
+~
+This huge manta is here posed to strike at all
+fish small enough to be food.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21005
+flying fish~
+A flying Fish~
+A flying fish leaps from the water.
+
+SPLASH!!!!
+~
+This silver grey fish is here waiting to be caught.
+
+MMMMMMM!!!
+What a delicacy.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21006
+dolphin~
+A Dolphin~
+A dophin is here attacking a shark.
+~
+Here fighting it's greatest enemy the shark,
+the dolphin rams it's head into the sharks
+chest.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21007
+sea shell~
+A Sea Shell~
+A beautiful shell is laying in the sand.
+~
+What a pretty shell! Such esquiste dimensions
+this would be such a nice addition to any shell
+collection.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21008
+conch~
+A Conch~
+A conch is here in the sea bed.
+~
+What another pretty shell. Another good addition
+for any shell collection.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#21009
+sea urchin~
+A Sea Urchin~
+A black urchin is here.
+~
+What is this thing sticking up from the sand.
+OUUUCCCCHHHH!!!
+That hurts.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#21000
+The Path To Bathsheba~
+As you come to the path, you see flowered vines covering 
+each side with precious blue flowers.  You can smell the 
+fresh salty sea breeze as you keep walking toward a village.
+~
+0 0 2
+D0
+~
+~
+0 -1 21001
+S
+#21001
+The Village Of Bathsheba~
+As You enter the cozy little village, you can see that 
+inspite its size, that its very active in business and 
+activities. Traders are here as well as tourists and 
+the natives are all over the place.
+~
+0 0 2
+D0
+~
+~
+0 -1 21002
+D1
+~
+~
+0 -1 21053
+D2
+~
+~
+0 -1 21000
+D3
+~
+~
+0 -1 21052
+S
+#21002
+A Small Path~
+You take a path that leads down a small hill onto 
+the beach.   Brandons Avenue is to the left and 
+Pebbles Avenue is to the right.
+~
+0 0 2
+D0
+~
+~
+0 -1 21003
+D1
+~
+~
+0 -1 21070
+D2
+~
+~
+0 -1 21001
+D3
+~
+~
+0 -1 21068
+S
+#21003
+A Small Path~
+You take a path that leads down a small hill onto the
+beach.
+~
+0 0 2
+D0
+~
+~
+0 -1 21004
+D2
+~
+~
+0 -1 21002
+S
+#21004
+Bathsheba~
+You finally arrive at the beach.  Its a marvelous place 
+with golden sand everywhere.  The sand is filled with 
+numerous sea shells that the children collect and wear 
+arround their neck. Ahead of you is the sea in all its 
+blue beauty.
+~
+0 0 10
+D0
+~
+~
+0 -1 21014
+D1
+~
+~
+0 -1 21010
+D2
+~
+~
+0 -1 21003
+D3
+~
+~
+0 -1 21005
+S
+#21005
+Along the Beach~
+You walk along the beach trying not to get wet by the 
+raging surf.
+~
+0 0 10
+D0
+~
+~
+0 -1 21015
+D1
+~
+~
+0 -1 21004
+D3
+~
+~
+0 -1 21006
+S
+#21006
+Along the Beach~
+You walk along the beach trying not to get wet by the 
+raging surf.
+~
+0 0 10
+D0
+~
+~
+0 -1 21016
+D1
+~
+~
+0 -1 21005
+D3
+~
+~
+0 -1 21007
+S
+#21007
+Near the West Cliff ~
+From this point you realise that theres a cliff base 
+ahead of you. It gets darker as you walk in the shadow 
+of this huge piece of rock.
+~
+0 0 10
+D0
+~
+~
+0 -1 21017
+D1
+~
+~
+0 -1 21006
+D3
+~
+~
+0 -1 21008
+S
+#21008
+At the West Cliff~
+You are now at the west end of the beach and you are right 
+infront the massive rock with coral formations that dazzle 
+your imagination of the small animals that created them 
+when they died.
+~
+0 0 10
+D0
+~
+~
+0 -1 21009
+D1
+~
+~
+0 -1 21007
+S
+#21009
+Wash in~
+You still wade in the wash in.
+~
+0 0 7
+D0
+~
+~
+0 -1 21030
+D1
+~
+~
+0 -1 21017
+D2
+~
+~
+0 -1 21008
+S
+#21010
+Along the Beach~
+You go along the beach watching the villagers have a 
+good time frolicking on the sand and in the water.
+~
+0 0 10
+D0
+~
+~
+0 -1 21018
+D1
+~
+~
+0 -1 21011
+D3
+~
+~
+0 -1 21004
+S
+#21011
+Along the Beach~
+You look around and see huge beach houses.  They are 
+indeed to be admired. You look in your wallet and see 
+if you have enough gold to buy a house.
+~
+0 0 10
+D0
+~
+~
+0 -1 21019
+D1
+~
+~
+0 -1 21012
+D3
+~
+~
+0 -1 21010
+S
+#21012
+Near East End~
+You see the end of the beach from here...
+~
+0 0 10
+D0
+~
+~
+0 -1 21020
+D1
+~
+~
+0 -1 21013
+D3
+~
+~
+0 -1 21011
+S
+#21013
+East End ~
+Here sets a huge pile of boulders as impressive as any 
+clif face.  Boys and men are sitting on the lower rock 
+platform and are fishing with big 3 inch thick ropes...you 
+think its a joke... What fish needs a 3 inch rope you think?
+You then stop and see the largest fish skeleton you have ever 
+seen...it makes you think if you would ever venture further 
+out than the wash in.
+~
+0 0 10
+D0
+~
+~
+0 -1 21021
+D3
+~
+~
+0 -1 21012
+S
+#21014
+The Wash In~
+You now stand in the wash in.  This is where the wimps sea 
+bathe.  The water is only knee height here, but there are 
+large aggressive star fish here that will not hesitate to 
+whip your butt.
+~
+0 0 6
+D0
+~
+~
+0 -1 21022
+D1
+~
+~
+0 -1 21018
+D2
+~
+~
+0 -1 21004
+D3
+~
+~
+0 -1 21015
+S
+#21015
+Wash in~
+You are in the wash in...come on Be adventureous...go out a 
+little furthur. Only 3 year olds bathe here.
+~
+0 0 6
+D0
+~
+~
+0 -1 21027
+D1
+~
+~
+0 -1 21014
+D2
+~
+~
+0 -1 21005
+D3
+~
+~
+0 -1 21016
+S
+#21016
+Wash in Wimps~
+This sucks...there are virtually no waves here...be a big 
+boy and go out farther. Your parents didn't teach you to 
+be a wimp.
+~
+0 0 6
+D0
+~
+~
+0 -1 21028
+D1
+~
+~
+0 -1 21015
+D2
+~
+~
+0 -1 21006
+D3
+~
+~
+0 -1 21017
+S
+#21017
+The Shallows~
+This is really Boring to you.  You are an adventrous person 
+and all this shallow water is no fun.
+~
+0 0 6
+D0
+~
+~
+0 -1 21029
+D1
+~
+~
+0 -1 21016
+D2
+~
+~
+0 -1 21007
+D3
+~
+~
+0 -1 21009
+S
+#21018
+Submarine?~
+From this part of the wash in you can see some kind of 
+creature jumping up out of the water....you dismiss it 
+as some new sort of submarine.
+~
+0 0 6
+D0
+~
+~
+0 -1 21023
+D1
+~
+~
+0 -1 21019
+D2
+~
+~
+0 -1 21010
+D3
+~
+~
+0 -1 21014
+S
+#21019
+Groans~
+You hear loud groans...but you mistake it for the sonar of 
+the submarine you thought you saw.
+~
+0 0 6
+D0
+~
+~
+0 -1 21024
+D1
+~
+~
+0 -1 21020
+D2
+~
+~
+0 -1 21011
+D3
+~
+~
+0 -1 21018
+S
+#21020
+Wash In ~
+You see bits of the same huge starfish you were battling. 
+But they seemed to be bitten in half.  You think its the 
+submarine you thought you saw testing some new fangled 
+type of weapon.
+~
+0 0 6
+D0
+~
+~
+0 -1 21025
+D1
+~
+~
+0 -1 21021
+D2
+~
+~
+0 -1 21012
+D3
+~
+~
+0 -1 21019
+S
+#21021
+The Rope~
+You duck under the big rope the men are fishing with...wow!! 
+it nearly took your head off.
+~
+0 0 6
+D0
+~
+~
+0 -1 21026
+D2
+~
+~
+0 -1 21013
+D3
+~
+~
+0 -1 21020
+S
+#21022
+Rays and Swords~
+Out here are bigger creatures to fight.  Manta rays and 
+SwordFish are frequent in these waters. Watch Out!
+~
+0 0 6
+D0
+~
+~
+0 -1 21031
+D1
+~
+~
+0 -1 21023
+D2
+~
+~
+0 -1 21014
+D3
+~
+~
+0 -1 21027
+S
+#21023
+Surf Away~
+The Surf here is good...but only for wimpy body boarders. 
+For the real surf action get out there.
+~
+0 0 6
+D0
+~
+~
+0 -1 21045
+D1
+~
+~
+0 -1 21024
+D2
+~
+~
+0 -1 21018
+D3
+~
+~
+0 -1 21022
+S
+#21024
+It's All Good~
+You are having a ball killing Rays and fish...you are even 
+having more fun surfing with a couple of village teenagers.
+~
+0 0 6
+D0
+~
+~
+0 -1 21046
+D1
+~
+~
+0 -1 21025
+D2
+~
+~
+0 -1 21019
+D3
+~
+~
+0 -1 21023
+S
+#21025
+You Again!~
+This danged rope again now beneath you nearly takes off your 
+feet. When will they finish this fishing and leave?
+~
+0 0 6
+D0
+~
+~
+0 -1 21047
+D2
+~
+~
+0 -1 21020
+D3
+~
+~
+0 -1 21024
+S
+#21026
+Baracade~
+To your left is a baracade of rocks in the sea...you dont know 
+that its there for but you dont think nothing more of it.
+~
+0 0 6
+D0
+~
+~
+0 -1 21048
+D2
+~
+~
+0 -1 21021
+S
+#21027
+Practice Makes Perfect~
+More village teens are here now....they are the ones practicing 
+to surf. You know you are better than them...why not go further 
+to show them youre bigger and better than them?
+~
+0 0 6
+D0
+~
+~
+0 -1 21032
+D1
+~
+~
+0 -1 21022
+D2
+~
+~
+0 -1 21015
+D3
+~
+~
+0 -1 21028
+S
+#21028
+The Thought~
+How come none of the teens go out any further?...Well there 
+just frightened of nothing you think to yourself.
+~
+0 0 6
+D0
+~
+~
+0 -1 21033
+D1
+~
+~
+0 -1 21027
+D2
+~
+~
+0 -1 21016
+D3
+~
+~
+0 -1 21029
+S
+#21029
+Wanna Be~
+Further out of here you see big muscular men surfing really 
+big waves.... you feel stoked and you want a piece of the 
+surfin' action.
+~
+0 0 6
+D0
+~
+~
+0 -1 21034
+D1
+~
+~
+0 -1 21028
+D2
+~
+~
+0 -1 21017
+D3
+~
+~
+0 -1 21030
+S
+#21030
+Stranger~
+To your left is sheer cliff face.  A few rocks tumble down 
+from kids who just dont like strangers....Hey!!!...that means you.
+~
+0 0 6
+D0
+~
+~
+0 -1 21035
+D1
+~
+~
+0 -1 21029
+D2
+~
+~
+0 -1 21009
+S
+#21031
+Shark Attack~
+Aww Man!!.... Where did these Sharks come from?....You 
+better turn back.
+~
+0 4 6
+D0
+~
+~
+0 -1 21036
+D1
+~
+~
+0 -1 21045
+D2
+~
+~
+0 -1 21022
+D3
+~
+~
+0 -1 21032
+S
+#21032
+Deep Blue Sea~
+Despite the sharks...this part of the sea is totally jammin'. 
+Now youre skimming the waves with the Big Boys. These men are 
+experienced and kill the sharks with one blow and they can 
+surf like no one you've ever seen.
+~
+0 0 6
+D0
+~
+~
+0 -1 21037
+D1
+~
+~
+0 -1 21031
+D2
+~
+~
+0 -1 21027
+D3
+~
+~
+0 -1 21033
+S
+#21033
+Warning~
+"Woah!! Good run kid" one of the men says to you..."but 
+be careful now of the sharks...and dont go any further 
+out." The man turns away and punches his fist through 
+the heart of a huge shark.
+~
+0 0 6
+D0
+~
+~
+0 -1 21038
+D1
+~
+~
+0 -1 21032
+D2
+~
+~
+0 -1 21028
+D3
+~
+~
+0 -1 21034
+S
+#21034
+Go on~
+You look to the horizon....how come no one is any further 
+out?...are these men just wimps like the children?  
+'Go on', you tell yourself.
+~
+0 0 6
+D0
+~
+~
+0 -1 21039
+D1
+~
+~
+0 -1 21033
+D2
+~
+~
+0 -1 21029
+D3
+~
+~
+0 -1 21035
+S
+#21035
+Admiration of Children~
+On the cliff face next to you the kids stop throwing stones 
+at you...they think youre the greatest now that youre with 
+their fathers in the sea....you look at the cliff and see a 
+red line just 10 feet in front of you...as you swim nearer 
+to it the children gasp in fear.
+~
+0 0 6
+D0
+~
+~
+0 -1 21040
+D1
+~
+~
+0 -1 21034
+D2
+~
+~
+0 -1 21030
+S
+#21036
+Oh Shit!!!!~
+Oh Shitty!! Who told you to come out here?...If the 
+natives dont come out here then why should you?....Whats 
+that shadow beneath you? You think its the Submarine you 
+thought you saw from the beach...is it?
+~
+0 0 6
+D1
+~
+~
+0 -1 21041
+D2
+~
+~
+0 -1 21031
+D3
+~
+~
+0 -1 21037
+S
+#21037
+The Horror~
+What are these Monsters?....they seem to be as strong as 
+some of the guardians you have seen from kingdoms, or 
+even stronger.
+~
+0 0 6
+D1
+~
+~
+0 -1 21036
+D2
+~
+~
+0 -1 21032
+D3
+~
+~
+0 -1 21038
+S
+#21038
+Unbearable~
+You think that youre going to die from these creatures...its 
+unbearable...they are pounding you...can you muster strength 
+to beat them?
+~
+0 0 6
+D1
+~
+~
+0 -1 21037
+D2
+~
+~
+0 -1 21033
+D3
+~
+~
+0 -1 21039
+S
+#21039
+Wrong Adventure~
+Well you asked for adventure...now you've got it.  By now 
+it probably sucks to be you.  Watch out....here comes a
+nother monster.
+~
+0 0 6
+D1
+~
+~
+0 -1 21038
+D2
+~
+~
+0 -1 21034
+D3
+~
+~
+0 -1 21040
+S
+#21040
+Childs Play~
+Some the children at the top of the cliff run away on seeing 
+you pass the red line. The older ones think its fun to see a 
+kid your age cry.
+~
+0 0 6
+D1
+~
+~
+0 -1 21039
+D2
+~
+~
+0 -1 21035
+S
+#21041
+Lessons~
+Your mother taught you to look around yourself and observe 
+whats going on to keep yourself out of trouble...well 
+well.... you dont remember that do you?...you should have 
+listened to your mother.
+~
+0 0 6
+D1
+~
+~
+0 -1 21042
+D2
+~
+~
+0 -1 21045
+D3
+~
+~
+0 -1 21036
+S
+#21042
+Hunting~
+You look down and see another shadow raving underwater... it 
+seems caught....you look back an see the men hauling on the 
+rope and hooking it to a big crank...these monsters are what 
+they are catching.
+~
+0 0 6
+D1
+~
+~
+0 -1 21043
+D2
+~
+~
+0 -1 21046
+D3
+~
+~
+0 -1 21041
+S
+#21043
+Try to Read~
+If youre out here you didnt read the plaque at the beach 
+entrance....well no ones gonna tell you what it said now.
+~
+0 0 6
+D1
+~
+~
+0 -1 21044
+D2
+~
+~
+0 -1 21047
+D3
+~
+~
+0 -1 21042
+S
+#21044
+Humm a Vortex?~
+Well if you die now you wont be frightened of anything....whats 
+this? Its a Vortex....Like the one that leads to Atlantis..you 
+think to yourself...'I gotta see if it leads from this hell hole.'
+~
+0 0 6
+D2
+~
+~
+0 -1 21048
+D3
+~
+~
+0 -1 21043
+D5
+~
+~
+0 -1 21049
+S
+#21045
+Jaws~
+Movies like Jaws didnt prepare you for what is out here...but 
+you seem to be sill living.
+~
+0 0 6
+D0
+~
+~
+0 -1 21041
+D1
+~
+~
+0 -1 21046
+D2
+~
+~
+0 -1 21023
+D3
+~
+~
+0 -1 21031
+S
+#21046
+Take a Gamble~
+Well since you're still living, you can take a gamble and go a 
+little further out...the waves are extra big there and you 
+will look good.
+~
+0 0 6
+D0
+~
+~
+0 -1 21042
+D1
+~
+~
+0 -1 21047
+D2
+~
+~
+0 -1 21024
+D3
+~
+~
+0 -1 21045
+S
+#21047
+Why Bother?~
+That blasted rope again...but this time you can barely see 
+it now...its really deep....why are you bothered?
+~
+0 0 6
+D0
+~
+~
+0 -1 21043
+D1
+~
+~
+0 -1 21048
+D2
+~
+~
+0 -1 21025
+D3
+~
+~
+0 -1 21046
+S
+#21048
+Make First Impressions.~
+You look out and long to impress someone...that is if anyone 
+will be looking at you.  Should you take a chance?  Suppose 
+that submarine you thought you saw came for you? Well you 
+dont look like a target.
+~
+0 0 6
+D0
+~
+~
+0 -1 21044
+D2
+~
+~
+0 -1 21026
+D3
+~
+~
+0 -1 21047
+S
+#21049
+The Soup Boul Hole~
+You spin Violently as you are sucked through a magical 
+vortex....you be come dizzy as you spiral downward.
+~
+0 0 6
+D5
+~
+~
+0 -1 21050
+S
+#21050
+Down in the Soup~
+The water thickens and starts to spin more violently...you 
+become sick and your lungs begin to burst.  You have to 
+get out of there fast.
+~
+0 0 7
+S
+#21051
+In the Air?~
+You find that you can breathe.  you feel yourself 
+floating...you open your eyes to only realize that you 
+are flying upwards...Oh my God!!! the laws of Physics got 
+you good....you start to fall with the ground approching 
+fast.  Where will you land?
+
+
+THUD!!!
+~
+0 0 9
+D5
+~
+~
+0 -1 21000
+S
+#21052
+Bath Avenue~
+Bath avenue is the residential district in this village... 
+houses are left and right of you all the way to the 
+end of the street.
+~
+0 0 1
+D0
+~
+~
+0 -1 21058
+D1
+~
+~
+0 -1 21001
+D2
+~
+~
+0 -1 21059
+D3
+~
+~
+0 -1 21061
+S
+#21053
+Accra Avenue~
+Accra Avenue is where all the Shops and Bars are...plus 
+an Armory to the North and a little Training Academy to 
+the South. The avenue continues East.
+~
+0 0 1
+D0
+~
+~
+0 -1 21054
+D1
+~
+~
+0 -1 21062
+D2
+~
+~
+0 -1 21055
+D3
+~
+~
+0 -1 21001
+S
+#21054
+Armory~
+Here you see lotts of precious battle eqipment made of the 
+magical sea shells found on Bathsheba Beach...they cost a 
+hell of alot of gold though.
+~
+0 0 0
+D2
+~
+~
+0 -1 21053
+S
+#21055
+Training Academy~
+Hiee Ya!!... A student flys across your face and gives you 
+a vicious kick.... You're not going to take that are you?
+~
+0 0 0
+D0
+~
+~
+0 -1 21053
+S
+#21056
+A Native House ~
+A native house with all the comforts of home. You wish you can take a rest now..but you dont want to intrude.
+~
+0 0 0
+D2
+~
+~
+0 -1 21061
+S
+#21057
+A Native House~
+A native house with all the comforts of home. You wish you 
+can take a rest now..but you dont want to intrude.
+~
+0 0 0
+D0
+~
+~
+0 -1 21061
+S
+#21058
+A House~
+A native house with all the comforts of home. You wish you 
+can take a rest now..but you dont want to intrude.
+~
+0 0 0
+D2
+~
+~
+0 -1 21052
+S
+#21059
+A House~
+A native house with all the comforts of home. You wish you 
+can take a rest now..but you dont want to intrude.
+~
+0 0 0
+D0
+~
+~
+0 -1 21052
+S
+#21060
+The Cathedral~
+As you enter into this large place of worship, a calm 
+comes over you, you dont need to fight...you have never 
+needed to fight. As you look at the splendor of the 
+Stained windows you think, 'I must be Good to Others'.
+~
+0 1024 0
+D1
+~
+~
+0 -1 21061
+S
+#21061
+Bath Avenue~
+Bath avenue is the residential district in this village... 
+houses are left and right of you all the way to the end of 
+the street. You see a Cathedral at the end of the Avenue.
+~
+0 0 1
+D0
+~
+~
+0 -1 21056
+D1
+~
+~
+0 -1 21052
+D2
+~
+~
+0 -1 21057
+D3
+~
+~
+0 -1 21060
+S
+#21062
+Accra Avenue~
+Accra Avenue is where all the Shops and Bars are...The 
+police station is North and a school is to the South. 
+The avenue continues East.
+~
+0 0 1
+D0
+~
+~
+0 -1 21063
+D1
+~
+~
+0 -1 21067
+D2
+~
+~
+0 -1 21064
+D3
+~
+~
+0 -1 21001
+S
+#21063
+Police Head Quaters~
+As you Step Inside the building you see huge cops walking 
+around doing business. Some are working on cases and 
+others are interviewing prostitutes in private rooms.  
+You wish you could get into a part of that interview.
+~
+0 0 0
+D2
+~
+~
+0 -1 21062
+S
+#21064
+The Bathsheba School ~
+The small school is full of children and teachers...makes 
+ya sick dont it?...who loves school?
+~
+0 0 0
+D0
+~
+~
+0 -1 21062
+S
+#21065
+A Banks Beer Tavern~
+This finely placed establishment is well known for the finest 
+Beer ever. Patrons come from all over the world just to sip 
+this alcoholic nectar. Ask the barkeep for a glass.
+~
+0 0 0
+D2
+~
+~
+0 -1 21067
+S
+#21066
+The Vendors Mall~
+In this mall clothes and groceries are bought as well as 
+other house-hold items. You see women buying up groceries 
+and Men in the hardware section...the kids even have a 
+Toys R Us.
+~
+0 0 0
+S
+#21067
+Accra Avenue~
+This is the end of the avenue.  There is a Bar with famous
+beer to the North and a Mall to the South.
+~
+0 0 1
+D0
+~
+~
+0 -1 21065
+D2
+~
+~
+0 -1 21066
+D3
+~
+~
+0 -1 21062
+S
+#21068
+Brandons Avenue~
+This avenue contains more houses all the way down...go 
+take a visit.
+~
+0 0 1
+D0
+~
+~
+0 -1 21072
+D1
+~
+~
+0 -1 21002
+D2
+~
+~
+0 -1 21073
+D3
+~
+~
+0 -1 21069
+S
+#21069
+Brandons Avenue~
+This avenue contains more houses all the way down...go 
+take a visit.
+~
+0 0 1
+D0
+~
+~
+0 -1 21074
+D1
+~
+~
+0 -1 21068
+D2
+~
+~
+0 -1 21075
+S
+#21070
+Prebbles Avenue~
+This avenue contains more houses all the way down...go 
+take a visit.
+~
+0 0 1
+D0
+~
+~
+0 -1 21076
+D1
+~
+~
+0 -1 21071
+D2
+~
+~
+0 -1 21077
+D3
+~
+~
+0 -1 21002
+S
+#21071
+Pebbles Avenue~
+This avenue contains more houses all the way down...go 
+take a visit.
+~
+0 0 1
+D0
+~
+~
+0 -1 21078
+D2
+~
+~
+0 -1 21079
+D3
+~
+~
+0 -1 21070
+S
+#21072
+Another House~
+This house is just like the others.
+~
+0 0 0
+D2
+~
+~
+0 -1 21068
+S
+#21073
+Another House~
+This house is just like the others.
+~
+0 0 0
+D0
+~
+~
+0 -1 21068
+S
+#21074
+Another House~
+This house is just like the others.
+~
+0 0 0
+D2
+~
+~
+0 -1 21069
+S
+#21075
+Another House~
+This house is just like the others.
+~
+0 0 0
+D0
+~
+~
+0 -1 21069
+S
+#21076
+An Apartment~
+
+~
+0 0 0
+D2
+~
+~
+0 -1 21070
+S
+#21077
+An Apartment~
+These apartments are for rent...they are used by the tourists.
+~
+0 0 0
+D0
+~
+~
+0 -1 21070
+S
+#21078
+An Apartment~
+These apartments are for rent...they are used by the 
+tourists.
+~
+0 0 0
+D2
+~
+~
+0 -1 21071
+S
+#21079
+An Apartment~
+These apartments are for rent...they are used by the 
+tourists.
+~
+0 0 0
+D0
+~
+~
+0 -1 21071
+S
+#0
+
+#RESETS
+S
+
+#$

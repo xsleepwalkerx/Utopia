@@ -1,0 +1,1455 @@
+#AREADATA
+Name        Fortress of the Sun~
+Builders    Imms~
+VNUMs       4500 4999
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#4500
+SOLDIER~
+A SOLDIER~
+A powerful warrior is here scouting the area with a machine gun.
+~
+One of SOLDIER's newest recruits, their main purpose is to make sure noone
+invade Shinra's newest stronghold.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#4501
+SOLDIER~
+A SOLDIER~
+A powerful swordsman is here waiting for a challenge.
+~
+One of SOLDIER's elite members, this powerful fighter never backs down from
+a good fight.
+~
+1 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#4502
+Zack~
+Zack~
+You feel the presence of this powerful SOLDIER.
+~
+Second in command under Rufus himself, this is one person you DON'T want
+to mess around with.
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#4503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+3 0 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#4504
+daramon priest~
+A Daramon Priest~
+The priest of the Fortress greets you with harmony.
+~
+Seeing the troubled look on your face, the priest comforts you with
+the assurance that there is always a better place to go in life.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#4505
+samurai man~
+A Master Samurai~
+This retired samurai is here to train your weapon skills.
+~
+Used to be considered as one of the True Emperor mightiest warriors, this
+old man is now here to help young samurais and daramons to master the way
+of the Bushido.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#4507
+SOLDIER~
+A SOLDIER~
+A powerful warrior is here scouting the area with a machine gun.
+~
+One of SOLDIER's newest recruits, their main purpose is to make sure noone
+invade Shinra's newest stronghold.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+#ROOMS
+#4500
+Passage to the Empire~
+At the footstep of this once great fortress, is the headquarters
+of the Empire as they once again strive to become the most powerful
+force throughout the lands. Now with the help of the Daramon Monks,
+this may very well become a reality.
+~
+0 0 0
+D1
+~
+~
+0 -1 4024
+D2
+~
+~
+0 -1 4501
+S
+#4501
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4500
+D1
+~
+~
+0 -1 4502
+D3
+~
+~
+0 -1 4503
+D2
+~
+~
+0 -1 4504
+S
+#4503
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D1
+~
+~
+0 -1 4501
+D2
+~
+~
+0 -1 4505
+S
+#4502
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D3
+~
+~
+0 -1 4501
+D2
+~
+~
+0 -1 4506
+S
+#4504
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4501
+D3
+~
+~
+0 -1 4505
+D1
+~
+~
+0 -1 4506
+D2
+~
+~
+0 -1 4507
+S
+#4506
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4502
+D3
+~
+~
+0 -1 4504
+D2
+~
+~
+0 -1 4508
+S
+#4505
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4502
+D1
+~
+~
+0 -1 4504
+D2
+~
+~
+0 -1 4509
+S
+#4509
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4505
+D1
+~
+~
+0 -1 4507
+S
+#4508
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4506
+D3
+~
+~
+0 -1 4507
+S
+#4507
+The Golden Garden~
+A never ending remainder of what happen to those who fall to the
+sin of greed, this garden is filled with golden statues of living
+people who have fallen to the curse of ignorance. May they rest
+in peace.
+~
+0 0 0
+D0
+~
+~
+0 -1 4504
+D3
+~
+~
+0 -1 4509
+D1
+~
+~
+0 -1 4508
+D2
+~
+~
+0 -1 4510
+S
+#4510
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D0
+~
+~
+0 -1 4507
+D4
+~
+~
+0 -1 4511
+S
+#4511
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D4
+~
+~
+0 -1 4512
+D5
+~
+~
+0 -1 4510
+S
+#4512
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D4
+~
+~
+0 -1 4513
+D5
+~
+~
+0 -1 4511
+S
+#4513
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D4
+~
+~
+0 -1 4516
+D5
+~
+~
+0 -1 4512
+D3
+~
+~
+0 -1 4514
+D1
+~
+~
+0 -1 4515
+S
+#4514
+The Golden Room of Invasion~
+The heat in this room is more instense than usual,
+almost as if the very sun itself is striking the fortress
+with all of its might. Nevertheless, you sigh as the 
+sunlight bathes your wounds and prepare to INVADE your
+foes.
+~
+0 0 0
+T
+camelot~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 2500 0
+T
+forsaken~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 16500 0
+T
+underworld~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 3500 0
+D1
+~
+~
+0 -1 4513
+S
+#4515
+The Healing Powers of the Sun~
+The home of the infamous Daramon Priests, this is where
+the samurais of the Empire go to for advice from the
+keepers of the Sword.
+~
+0 0 0
+D3
+~
+~
+0 -1 4513
+S
+#4516
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D4
+~
+~
+0 -1 4517
+D5
+~
+~
+0 -1 4513
+S
+#4517
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D4
+~
+~
+0 -1 4518
+D5
+~
+~
+0 -1 4516
+S
+#4518
+The Stairs of Radiance~
+As you step on these stairs, it almost feels like you
+are being levitated into the air, such is the delicacy
+and powerful is the power of this fortress.
+~
+0 0 0
+D4
+~
+~
+0 -1 4519
+D5
+~
+~
+0 -1 4517
+S
+#4519
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4520
+D1
+~
+~
+0 -1 4521
+D2
+~
+~
+0 -1 4522
+D5
+~
+~
+0 -1 4518
+S
+#4520
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4523
+D2
+~
+~
+0 -1 4519
+S
+#4523
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4524
+D2
+~
+~
+0 -1 4520
+S
+#4524
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4525
+D3
+~
+~
+0 -1 4523
+S
+#4525
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4526
+D2
+~
+~
+0 -1 4524
+S
+#4526
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4527
+D1
+~
+~
+0 -1 4525
+S
+#4527
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4528
+D1
+~
+~
+0 -1 4526
+S
+#4528
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4529
+D1
+~
+~
+0 -1 4527
+S
+#4529
+The Shining Temple~
+Everything in this room is made from the purest gold
+throughout Utopia. Even the dust that is flying around
+the place as well as the small creatures roaming through
+the broken paths is made out of gold.
+~
+0 0 0
+D0
+~
+~
+0 -1 4530
+D1
+~
+~
+0 -1 4531
+D3
+~
+~
+0 -1 4532
+D2
+~
+~
+0 -1 4528
+S
+#4532
+The Shining Temple~
+Everything in this room is made from the purest gold
+throughout Utopia. Even the dust that is flying around
+the place as well as the small creatures roaming through
+the broken paths is made out of gold.
+~
+0 0 0
+D1
+~
+~
+0 -1 4529
+D0
+~
+~
+0 -1 4533
+S
+#4531
+The Shining Temple~
+Everything in this room is made from the purest gold
+throughout Utopia. Even the dust that is flying around
+the place as well as the small creatures roaming through
+the broken paths is made out of gold.
+~
+0 0 0
+D3
+~
+~
+0 -1 4529
+D0
+~
+~
+0 -1 4534
+S
+#4534
+The Shining Temple~
+Everything in this room is made from the purest gold
+throughout Utopia. Even the dust that is flying around
+the place as well as the small creatures roaming through
+the broken paths is made out of gold.
+~
+0 0 0
+D3
+~
+~
+0 -1 4530
+D2
+~
+~
+0 -1 4531
+S
+#4533
+The Shining Temple~
+Everything in this room is made from the purest gold
+throughout Utopia. Even the dust that is flying around
+the place as well as the small creatures roaming through
+the broken paths is made out of gold.
+~
+0 0 0
+D1
+~
+~
+0 -1 4530
+D2
+~
+~
+0 -1 4532
+S
+#4530
+The Golden Shrine~
+The heart of this fortress is actually a dedication to
+the Might Lord Buddha, a powerful deity worship by the
+Empire. Right beneath this shrine is the Golden Throne
+of the Son of the Sun, The True Emperor.
+~
+0 0 0
+D3
+~
+~
+0 -1 4533
+D1
+~
+~
+0 -1 4534
+D2
+~
+~
+0 -1 4529
+S
+#4521
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4519
+D1
+~
+~
+0 -1 4535
+S
+#4535
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4521
+D1
+~
+~
+0 -1 4536
+S
+#4536
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D4
+~
+~
+0 -1 4537
+D1
+~
+~
+0 -1 4535
+S
+#4537
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4538
+D5
+~
+~
+0 -1 4536
+S
+#4538
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4537
+D2
+~
+~
+0 -1 4539
+S
+#4539
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4538
+D2
+~
+~
+0 -1 4540
+S
+#4540
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D0
+~
+~
+0 -1 4539
+D1
+~
+~
+0 -1 4541
+D2
+~
+~
+0 -1 4542
+S
+#4541
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D1
+~
+~
+0 -1 4545
+D3
+~
+~
+0 -1 4540
+D2
+~
+~
+0 -1 4543
+S
+#4542
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D0
+~
+~
+0 -1 4539
+D1
+~
+~
+0 -1 4543
+S
+#4543
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D0
+~
+~
+0 -1 4541
+D3
+~
+~
+0 -1 4542
+D1
+~
+~
+0 -1 4544
+S
+#4545
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D3
+~
+~
+0 -1 4541
+D1
+~
+~
+0 -1 4547
+D2
+~
+~
+0 -1 4544
+S
+#4544
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D3
+~
+~
+0 -1 4543
+D1
+~
+~
+0 -1 4546
+D0
+~
+~
+0 -1 4545
+S
+#4547
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D3
+~
+~
+0 -1 4545
+D1
+~
+~
+0 -1 4549
+D2
+~
+~
+0 -1 4546
+S
+#4546
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D3
+~
+~
+0 -1 4544
+D1
+~
+~
+0 -1 4548
+D0
+~
+~
+0 -1 4547
+S
+#4549
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D5
+~
+~
+0 -1 4550
+D3
+~
+~
+0 -1 4547
+D2
+~
+~
+0 -1 4548
+S
+#4548
+The Blinding Light~
+Suggested by the True Emperor as a test for his warrior,
+this area's sole purpose is for the training of the
+elite.
+~
+0 0 0
+D3
+~
+~
+0 -1 4546
+D0
+~
+~
+0 -1 4549
+S
+#4550
+The Test of Radiance~
+The final task to be done before one is considered to be
+an elite by the True Emperor. This room utilizes a
+samurai's own will against him in a test for survival.
+~
+0 0 0
+D4
+~
+~
+0 -1 4549
+S
+#4522
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4519
+D2
+~
+~
+0 -1 4551
+S
+#4551
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D0
+~
+~
+0 -1 4522
+D5
+~
+~
+0 -1 4552
+S
+#4552
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D4
+~
+~
+0 -1 4551
+D3
+~
+~
+0 -1 4553
+S
+#4553
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4552
+D3
+~
+~
+0 -1 4554
+S
+#4554
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4553
+D3
+~
+~
+0 -1 4555
+S
+#4555
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4554
+D5
+~
+~
+0 -1 4556
+S
+#4556
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D4
+~
+~
+0 -1 4555
+D1
+~
+~
+0 -1 4557
+S
+#4557
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4558
+D3
+~
+~
+0 -1 4556
+S
+#4558
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D1
+~
+~
+0 -1 4559
+D3
+~
+~
+0 -1 4557
+S
+#4559
+A Shimmering path of Sunlight~
+Now fully inside this ancient temple, You stand in the
+middle of total darkness, the only light being from
+a path made from pure sunlight beneath your feet.
+Looking at the directions it can go to, you carry
+on.
+~
+0 0 0
+D3
+~
+~
+0 -1 4558
+D5
+~
+~
+0 -1 4560
+S
+#4560
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4561
+D1
+~
+~
+0 -1 4562
+D2
+~
+~
+0 -1 4563
+D3
+~
+~
+0 -1 4564
+D4
+~
+~
+0 -1 4559
+S
+#4561
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4565
+D2
+~
+~
+0 -1 4560
+S
+#4565
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D2
+~
+~
+0 -1 4561
+S
+#4562
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D1
+~
+~
+0 -1 4566
+D3
+~
+~
+0 -1 4560
+S
+#4566
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D3
+~
+~
+0 -1 4562
+S
+#4563
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D2
+~
+~
+0 -1 4567
+D0
+~
+~
+0 -1 4560
+S
+#4567
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4563
+D2
+~
+~
+0 -1 4568
+S
+#4568
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D0
+~
+~
+0 -1 4567
+D5
+~
+~
+0 -1 4569
+S
+#4569
+The Bleak JailCell~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D4
+~
+~
+0 -1 4568
+S
+#4564
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D1
+~
+~
+0 -1 4560
+D3
+~
+~
+0 -1 4570
+S
+#4570
+The Dull Ruins~
+This used to be one of the most beautiful areas of
+the Sun Fortress. However, a deadly attack by a demon
+army had all but completely destroy this place. Now
+the True Emperor leaves it as a remainder for what
+happen when one's guard is lowered as well as keep
+prisoners in here.
+~
+0 0 0
+D1
+~
+~
+0 -1 4564
+S
+#0
+
+#SPECIALS
+M 4500 spec_kguard_two Load to: Hooded Hunter
+M 4501 spec_kguard_two Load to: Hooded Hunter
+M 4502 spec_kguard_two Load to: Hooded Hunter
+M 4507 spec_kguard_two Load to: Hooded Hunter
+M 4503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+#RESETS
+M 0 4503 1 4569
+M 0 4500 1 4500
+M 0 4500 1 4500
+M 0 4501 7 4510
+M 0 4501 7 4520
+M 0 4501 7 4530
+M 0 4501 7 4540
+M 0 4501 7 4550
+M 0 4501 7 4560
+M 0 4501 7 4501
+M 0 4502 1 4569
+S
+
+#$

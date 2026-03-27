@@ -1,0 +1,105 @@
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[  800] Nima: Shutdown by An Immortal.
+[  801] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[*****] [*****] FILE: help.are LINE: 4210
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[14501] Nima: Shutdown by An Immortal.
+[*****] [*****] FILE: limbo.are LINE: 820
+[*****] [*****] FILE: classeq.are LINE: 6760
+[*****] [*****] FILE: classeq.are LINE: 7030
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[  651] Vormav: Shutdown by An Immortal.
+[33102] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[  651] Vormav: Shutdown by An Immortal.
+[  630] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[19710] Vormav: Shutdown by An Immortal.
+[19710] Vormav: Shutdown by An Immortal.
+[17014] Vormav: Shutdown by An Immortal.
+[*****] [*****] FILE: classeq.are LINE: 6732
+[*****] [*****] FILE: classeq.are LINE: 6740
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[*****] [*****] FILE: limbo.are LINE: 12
+[*****] [*****] FILE: limbo.are LINE: 21
+[*****] [*****] FILE: limbo.are LINE: 889
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Vormav: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[*****] [*****] FILE: reception.are LINE: 98
+[    1] Nima: Shutdown by An Immortal.
+[ 7560] Nima: Shutdown by An Immortal.
+[33000] Nima: Shutdown by An Immortal.
+[33000] Nima: Shutdown by An Immortal.
+[33000] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[  631] Ramsus: Shutdown by An Immortal.
+[    1] Nima: Shutdown by An Immortal.
+[    1] Miang: Shutdown by An Immortal.
+[*****] [*****] FILE: darkcastle.are LINE: 69
+[    1] Miang: Shutdown by An Immortal.
+[    2] Miang: Shutdown by An Immortal.
+[    1] Miang: Shutdown by An Immortal.
+[    1] Miang: Shutdown by An Immortal.
+[  630] Cutey: Shutdown by An Immortal.
+[    1] Ramsus: Shutdown by An Immortal.
+[    2] Ramsus: Shutdown by An Immortal.
+[  802] Ramsus: Shutdown by An Immortal.
+[  802] Ironed: Shutdown by An Immortal.
+[    1] Ironed: Shutdown by An Immortal.
+[    1] Ironed: Shutdown by An Immortal.
+[    1] VeryUnwanted: Shutdown by An Immortal.

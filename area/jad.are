@@ -1,0 +1,629 @@
+#AREADATA
+Name        City of Jad~
+Builders    Imms~
+VNUMs       2000 2499
+Security    9
+Recall      3001
+Land        0
+End
+
+
+
+#MOBILES
+#2000
+townguard knight~
+A Silver Knight~
+A powerful knight in silver armor makes his rounds across the room.
+~
+A knight from the grand castle, Camelot, this human will do whatever
+it takes to protect the city of Jad from intruders. Wearing full
+silver battle armor, and wielding a huge silver sword, this knight
+means business.
+~
+9 136 1000 S
+970 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#2001
+innkeeper~
+Mike, The Innkeeper~
+A young man is here snapping his fingers as he sways to a silent beat.
+~
+The owner of the Cruising Sailors Inn, Mike is well known for his
+good services, clean beds and hot ready meals for those wishing to stay
+at his inn, regardless of the time they come in. The only annoying thing
+about him is that he is ALWAYS doing some silly dance.
+~
+11 0 0 S
+700 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#2002
+boy~
+A small boy~
+A young child is happily chasing after butterflies in the vicinity.
+~
+Brought up in the care free society of the city of Jad, this boy only
+wish is to have fun playing games with the other children throughout
+the various streets and houses. Asking him what he want to be when
+he grows up, he replies '#yA knight of the Round of course.#n'
+~
+9 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#2003
+girl~
+A giggling girl~
+A small child is here playing with a doll.
+~
+Brought up in the care free society of the city of Jad, this girl only
+wish is to have fun playing games with the other children throughout
+the various streets and houses. Asking her what she want to be when
+she grows up, she replies '#yA knight of the Round of course.#n'
+~
+9 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#2004
+man peasant~
+A peasant~
+A tired man is here struggling with a huge sack on his back.
+~
+Brought up in the care free society of the city of Jad, this girl only
+wish is to have fun playing games with the other children throughout
+the various streets and houses. Asking her what she want to be when
+she grows up, she replies '#yA knight of the Round of course.#n'
+~
+9 0 0 S
+200 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#2000
+Entrance to the City Jad~
+Standing at the edge of a great city, the streets are filled with life
+as the peasants make their daily rounds and the children play happily
+on the street.
+~
+0 0 0
+D0
+~
+~
+0 -1 2001
+D1
+~
+~
+0 -1 20052
+S
+#2001
+Emeralda Street~
+Named after the Lady Knight Emeralda, this very tidy street is encovered
+with huge trees, gorgeous flowers and attractive passageways.
+~
+0 0 0
+D0
+~
+~
+0 -1 2010
+D1
+~
+~
+0 -1 2002
+D2
+~
+~
+0 -1 2000
+S
+#2002
+Emeralda Street~
+Named after the Lady Knight Emeralda, this very tidy street is encovered
+with huge trees, gorgeous flowers and attractive passageways.
+~
+0 0 0
+D1
+~
+~
+0 -1 2003
+D3
+~
+~
+0 -1 2001
+S
+#2003
+Emeralda Street~
+Named after the Lady Knight Emeralda, this very tidy street is encovered
+with huge trees, gorgeous flowers and attractive passageways.
+~
+0 0 0
+D1
+~
+~
+0 -1 2004
+D3
+~
+~
+0 -1 2002
+S
+#2004
+Emeralda Street~
+Named after the Lady Knight Emeralda, this very tidy street is encovered
+with huge trees, gorgeous flowers and attractive passageways.
+~
+0 0 0
+D0
+~
+~
+0 -1 2005
+D3
+~
+~
+0 -1 2003
+S
+#2005
+Ruby Street~
+With the roads as blazing red as its name, this small street is filled with
+devious businesses who will like nothing better than meet their daily
+requirements with your money. In the distance, you see the grand castle camelot
+in all of its splendour.
+~
+0 0 0
+D2
+~
+~
+0 -1 2004
+D3
+~
+~
+0 -1 2006
+S
+#2006
+Ruby Street~
+With the roads as blazing red as its name, this small street is filled with
+devious businesses who will like nothing better than meet their daily
+requirements with your money. In the distance, you see the grand castle camelot
+in all of its splendour.
+~
+0 0 0
+D1
+~
+~
+0 -1 2005
+D3
+~
+~
+0 -1 2007
+S
+#2007
+The Cruising Sailors~
+Rumored to be the most famous Inn throughout the lands, this small cozy inn
+in front of you had seen visits from the most powerful warriors of Utopia,
+who were looking for a warm meal and a cozy bed. Hanging at the door is
+a small sign which says in golden letters, '#yWelcome#n'.
+~
+0 0 0
+D1
+~
+~
+0 -1 2006
+D2
+~
+~
+0 -1 2008
+D3
+~
+~
+0 -1 2010
+S
+#2008
+Front Desk of the Inn~
+This small room is where travellers make their bookings to spend the night.
+In the background, you hear soft music playing from some old machine.
+~
+0 0 0
+D2
+~
+~
+0 -1 2007
+D3
+~
+~
+0 -1 2009
+S
+#2009
+A Cozy Bedroom~
+AhhhHhhhHHhh.... Finally, a chance to sit back, relax and rest your tired
+bones in the comfort of the most famous Inn throughout the lands. As you
+sit down, you have a good view of the rest of the town in front of you.
+~
+0 0 0
+D1
+~
+~
+0 -1 2008
+S
+#2010
+Ruby Street~
+With the roads as blazing red as its name, this small street is filled with
+devious businesses who will like nothing better than meet their daily
+requirements with your money. In the distance, you see the grand castle camelot
+in all of its splendour.
+~
+0 0 0
+D0
+~
+~
+0 -1 2011
+D1
+~
+~
+0 -1 2007
+D2
+~
+~
+0 -1 2001
+S
+#2011
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D0
+~
+~
+0 -1 2012
+D2
+~
+~
+0 -1 2010
+S
+#2012
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D3
+~
+~
+0 -1 2013
+D2
+~
+~
+0 -1 2011
+S
+#2013
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D3
+~
+~
+0 -1 2014
+D1
+~
+~
+0 -1 2012
+S
+#2014
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D2
+~
+~
+0 -1 2015
+D1
+~
+~
+0 -1 2013
+S
+#2015
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D0
+~
+~
+0 -1 2014
+D3
+~
+~
+0 -1 2016
+S
+#2016
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D1
+~
+~
+0 -1 2015
+D3
+~
+~
+0 -1 2017
+S
+#2017
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D1
+~
+~
+0 -1 2016
+D3
+~
+~
+0 -1 2018
+S
+#2018
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D1
+~
+~
+0 -1 2017
+D3
+~
+~
+0 -1 2019
+S
+#2019
+Victoria Street~
+All of the small passageways throughout Jad is blessed with the name
+Victoria by the ArchBishop during one of his visits here. The unique
+thing about this road is that you never feel tired as you seem almost
+floating through it. Is this a resultant of the priest's blessing?
+~
+0 0 0
+D1
+~
+~
+0 -1 2018
+D3
+~
+~
+0 -1 2020
+S
+#2020
+Sapphire Street~
+This street was named after the legendary Sapphire sword, wielded
+by Lady Ray Mistargia. The path you trod on seems to have a secret
+of its own, reluctant to tell you as you go on your way.
+~
+0 0 0
+D0
+~
+~
+0 -1 2023
+D1
+~
+~
+0 -1 2019
+D2
+~
+~
+0 -1 2021
+S
+#2021
+Sapphire Street~
+This street was named after the legendary Sapphire sword, wielded
+by Lady Ray Mistargia. The path you trod on seems to have a secret
+of its own, reluctant to tell you as you go on your way.
+~
+0 0 0
+D0
+~
+~
+0 -1 2020
+D2
+~
+~
+0 -1 2022
+S
+#2022
+Sapphire Bank~
+This is where the citizens of Jad as well as weary travellers can go
+to deposit their well earned money, keeping it safe from the devious
+rogues and ninjas who lurk throughout the lands.
+~
+0 0 0
+D0
+~
+~
+0 -1 2021
+S
+#2023
+Sapphire Street~
+This street was named after the legendary Sapphire sword, wielded
+by Lady Ray Mistargia. The path you trod on seems to have a secret
+of its own, reluctant to tell you as you go on your way.
+~
+0 0 0
+D0
+~
+~
+0 -1 2024
+D2
+~
+~
+0 -1 2020
+S
+#2024
+Sapphire Street~
+This street was named after the legendary Sapphire sword, wielded
+by Lady Ray Mistargia. The path you trod on seems to have a secret
+of its own, reluctant to tell you as you go on your way.
+~
+0 0 0
+D0
+~
+~
+0 -1 2025
+D2
+~
+~
+0 -1 2023
+S
+#2025
+a Silver Trail~
+Leaving the city behind, you are suddenly whisk by a trail of silver
+startdust... leading you to the grand castle Camelot. In these trouble
+times though, the Knights of the Round are always on the alert for 
+intruders so don't not proceed further unless you are one of them.
+~
+0 0 0
+D1
+~
+~
+0 -1 2026
+D2
+~
+~
+0 -1 2024
+S
+#2026
+a Silver Trail~
+Leaving the city behind, you are suddenly whisk by a trail of silver
+startdust... leading you to the grand castle Camelot. In these trouble
+times though, the Knights of the Round are always on the alert for 
+intruders so don't not proceed further unless you are one of them.
+~
+0 0 0
+D2
+~
+~
+0 -1 2027
+D3
+~
+~
+0 -1 2025
+S
+#2027
+a Silver Trail~
+Leaving the city behind, you are suddenly whisk by a trail of silver
+startdust... leading you to the grand castle Camelot. In these trouble
+times though, the Knights of the Round are always on the alert for 
+intruders so don't not proceed further unless you are one of them.
+~
+0 0 0
+D1
+~
+~
+0 -1 2028
+D0
+~
+~
+0 -1 2026
+S
+#2028
+a Silver Trail~
+Leaving the city behind, you are suddenly whisk by a trail of silver
+startdust... leading you to the grand castle Camelot. In these trouble
+times though, the Knights of the Round are always on the alert for 
+intruders so don't not proceed further unless you are one of them.
+~
+0 0 0
+D0
+~
+~
+0 -1 2029
+D3
+~
+~
+0 -1 2027
+S
+#2029
+a Silver Trail~
+Leaving the city behind, you are suddenly whisk by a trail of silver
+startdust... leading you to the grand castle Camelot. In these trouble
+times though, the Knights of the Round are always on the alert for 
+intruders so don't not proceed further unless you are one of them.
+~
+0 0 0
+D0
+~
+~
+0 -1 2030
+D2
+~
+~
+0 -1 2028
+S
+#2030
+Broken threads of Silver~
+As you follow the silvery startdust, it suddenly breaks in front of your eyes as a 
+huge palace stands before you. Gazing at awe, you realize that this is the legendary
+Camelot which you have heard about from fairy tales. Do you dare go forward?
+~
+0 0 0
+D2
+~
+~
+0 -1 2029
+D0
+~
+~
+0 -1 2500
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

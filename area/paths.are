@@ -1,0 +1,70 @@
+#AREADATA
+Name        The Dark Paths~
+Builders    Imms~
+VNUMs       33101 33102
+Security    9
+Flags       0
+Land        0
+End
+
+
+#MOBILES
+#33101
+demetri paladin knight~
+Demetri Rodiagrius~
+An grand knight in blazing armor stands before a fallen man.
+~
+Taking note of Ryo's condition, this knight knows that every
+lasting fame is at him, if he can find the courage to put aside
+his hatred and return him to his worried father. However, as soon
+as his eyes meet your, you know that it is hopeless.
+~
+11 136 1000 S
+666 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#33101
+The Lonely Way~
+Materializing in a strange area, your bone chills as you feel
+pure evil screaming for your very soul. Knowing that all of your
+faith will be put up to the test here, you take a look at the
+path going towards a cliff... where your destiny awaits.
+~
+0 1024 0
+D0
+~
+~
+0 -1 33102
+S
+#33102
+The Finale~
+Violent waves of passion shatters the cliff before you bringing
+a roar of insanity throughout the place. It seems that this is 
+where the source of evil lies and now, in this last battle ground;
+you must once again be the balance between good and evil.
+~
+0 0 0
+D2
+~
+~
+0 -1 33101
+S
+#0
+
+
+#SPECIALS
+S
+
+
+#RESETS
+M 0 33101 1 33102
+S
+
+#SHOPS
+0
+
+#$

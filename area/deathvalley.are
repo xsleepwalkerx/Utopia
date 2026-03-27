@@ -1,0 +1,1109 @@
+#AREADATA
+Name        Death Valley~
+Builders    Imms~
+VNUMs       20300 20399
+Security    9
+Recall      0
+Land        0
+End
+
+#MOBILES
+#20300
+reapers undead~
+A undead reaper~
+A undead reaper is here to harvest your soul!
+~
+Come hither children and meet my scythe!!
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20301
+hungry vulture~
+A hungry vulture~
+A vulture is here to feed on your rotting flesh!
+~
+Swooping down upon you this gaint black bird swiftly
+opens it beck ripping your flesh from your mortal 
+body.
+~
+9 136 1000 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+#ROOMS
+#20300
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D5
+~
+~
+0 -1 20301
+D0
+~
+~
+0 -1 826
+S
+#20301
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20302
+D2
+~
+~
+0 -1 20332
+D4
+~
+~
+0 -1 20300
+S
+#20302
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20303
+D2
+~
+~
+0 -1 20301
+D3
+~
+~
+0 -1 20312
+D4
+~
+~
+0 -1 20316
+S
+#20303
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20304
+D2
+~
+~
+0 -1 20302
+D4
+~
+~
+0 -1 20317
+S
+#20304
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20305
+D3
+~
+~
+0 -1 20303
+S
+#20305
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20306
+D3
+~
+~
+0 -1 20304
+D4
+~
+~
+0 -1 20346
+S
+#20306
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20307
+D2
+~
+~
+0 -1 20305
+S
+#20307
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20360
+D2
+~
+~
+0 -1 20306
+D4
+~
+~
+0 -1 20308
+S
+#20308
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20309
+D1
+~
+~
+0 -1 20334
+D5
+~
+~
+0 -1 20307
+S
+#20309
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20310
+D2
+~
+~
+0 -1 20308
+D3
+~
+~
+0 -1 20330
+S
+#20310
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20311
+D2
+~
+~
+0 -1 20309
+S
+#20311
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20312
+D3
+~
+~
+0 -1 20310
+S
+#20312
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20313
+D1
+~
+~
+0 -1 20302
+D3
+~
+~
+0 -1 20311
+D4
+~
+~
+0 -1 20343
+D5
+~
+~
+0 -1 20358
+S
+#20313
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20314
+D2
+~
+~
+0 -1 20312
+D4
+~
+~
+0 -1 20326
+S
+#20314
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D3
+~
+~
+0 -1 20313
+D5
+~
+~
+0 -1 20315
+S
+#20315
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D4
+~
+~
+0 -1 20314
+D5
+~
+~
+0 -1 20316
+S
+#20316
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20349
+D2
+~
+~
+0 -1 20349
+D4
+~
+~
+0 -1 20315
+D5
+~
+~
+0 -1 20302
+S
+#20317
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D4
+~
+~
+0 -1 20318
+D5
+~
+~
+0 -1 20303
+S
+#20318
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20319
+D5
+~
+~
+0 -1 20317
+S
+#20319
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20320
+D2
+~
+~
+0 -1 20318
+S
+#20320
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D2
+~
+~
+0 -1 20319
+D3
+~
+~
+0 -1 20321
+S
+#20321
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20347
+D1
+~
+~
+0 -1 20320
+D2
+~
+~
+0 -1 20344
+D3
+~
+~
+0 -1 20322
+S
+#20322
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20321
+D2
+~
+~
+0 -1 20357
+D4
+~
+~
+0 -1 20323
+S
+#20323
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20324
+D5
+~
+~
+0 -1 20322
+S
+#20324
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20325
+D2
+~
+~
+0 -1 20323
+S
+#20325
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20326
+D2
+~
+~
+0 -1 20324
+S
+#20326
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20327
+D3
+~
+~
+0 -1 20325
+D5
+~
+~
+0 -1 20313
+S
+#20327
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20328
+D3
+~
+~
+0 -1 20326
+D5
+~
+~
+0 -1 20344
+S
+#20328
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20346
+D2
+~
+~
+0 -1 20327
+D5
+~
+~
+0 -1 20329
+S
+#20329
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20330
+D4
+~
+~
+0 -1 20328
+S
+#20330
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20331
+D1
+~
+~
+0 -1 20309
+D3
+~
+~
+0 -1 20329
+S
+#20331
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D2
+~
+~
+0 -1 20330
+D5
+~
+~
+0 -1 20332
+S
+#20332
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20301
+D1
+~
+~
+0 -1 20333
+D4
+~
+~
+0 -1 20331
+S
+#20333
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D3
+~
+~
+0 -1 20332
+D1
+~
+~
+0 -1 20358
+D5
+~
+~
+0 -1 3000
+S
+#20334
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20335
+D3
+~
+~
+0 -1 20308
+S
+#20335
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D3
+~
+~
+0 -1 20334
+D5
+~
+~
+0 -1 20336
+S
+#20336
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20337
+D4
+~
+~
+0 -1 20335
+S
+#20337
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20338
+D3
+~
+~
+0 -1 20336
+S
+#20338
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20339
+D2
+~
+~
+0 -1 20337
+S
+#20339
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D2
+~
+~
+0 -1 20338
+D3
+~
+~
+0 -1 20340
+S
+#20340
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20339
+D4
+~
+~
+0 -1 20341
+S
+#20341
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20342
+D5
+~
+~
+0 -1 20340
+S
+#20342
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20343
+D2
+~
+~
+0 -1 20341
+S
+#20343
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20344
+D2
+~
+~
+0 -1 20342
+D5
+~
+~
+0 -1 20312
+S
+#20344
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20321
+D1
+~
+~
+0 -1 20345
+D3
+~
+~
+0 -1 20343
+D4
+~
+~
+0 -1 20327
+D5
+~
+~
+0 -1 20351
+S
+#20345
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20346
+D3
+~
+~
+0 -1 20344
+S
+#20346
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D2
+~
+~
+0 -1 20345
+D3
+~
+~
+0 -1 20328
+D5
+~
+~
+0 -1 20305
+S
+#20347
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20348
+D2
+~
+~
+0 -1 20321
+S
+#20348
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20349
+D2
+~
+~
+0 -1 20347
+S
+#20349
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20316
+D1
+~
+~
+0 -1 20350
+D2
+~
+~
+0 -1 20348
+D3
+~
+~
+0 -1 20316
+S
+#20350
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20351
+D3
+~
+~
+0 -1 20349
+S
+#20351
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D3
+~
+~
+0 -1 20350
+D4
+~
+~
+0 -1 20344
+D5
+~
+~
+0 -1 20352
+S
+#20352
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20353
+D4
+~
+~
+0 -1 20351
+S
+#20353
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20354
+D3
+~
+~
+0 -1 20352
+S
+#20354
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D3
+~
+~
+0 -1 20353
+D4
+~
+~
+0 -1 20355
+S
+#20355
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20356
+D5
+~
+~
+0 -1 20354
+S
+#20356
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D2
+~
+~
+0 -1 20355
+D3
+~
+~
+0 -1 20357
+S
+#20357
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20322
+D1
+~
+~
+0 -1 20356
+D3
+~
+~
+0 -1 20361
+D4
+~
+~
+0 -1 20358
+S
+#20358
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20359
+D4
+~
+~
+0 -1 20312
+D5
+~
+~
+0 -1 20357
+S
+#20359
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20360
+D2
+~
+~
+0 -1 20358
+S
+#20360
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D2
+~
+~
+0 -1 20359
+D3
+~
+~
+0 -1 20307
+D5
+~
+~
+0 -1 15000
+S
+#20361
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20357
+D3
+~
+~
+0 -1 20362
+S
+#20362
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D1
+~
+~
+0 -1 20361
+D2
+~
+~
+0 -1 20363
+S
+#20363
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20362
+D2
+~
+~
+0 -1 20364
+S
+#20364
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 20363
+D4
+~
+~
+0 -1 20365
+S
+#20365
+Death Valley~
+You shudder as you walk past the bones of the previous unprepared travellers.
+~
+0 0 1
+D0
+~
+~
+0 -1 30537
+D5
+~
+~
+0 -1 20364
+S
+#0
+
+#RESETS
+S
+
+
+#$

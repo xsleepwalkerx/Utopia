@@ -1,0 +1,370 @@
+#AREADATA
+Name        Hell~
+Builders    Imms~
+VNUMs       700 711
+Security    0
+Recall      0
+Land        0
+End
+
+
+
+#MOBILES
+#701
+demonic cleric~
+A Demonic cleric~
+A Demonic Cleric is here.
+~
+This cleric is detecated to all evil.
+~
+65 66474 -1000 S
+109 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#702
+demonic servant~
+a demonic servant~
+A Demonic Servant stands here staring evilly.
+~
+He glares at you an prepares to attack.
+~
+3 0 -1000 S
+46 2 2 0d0+0 1d8+32
+100000 0
+0 0 1
+#703
+Satan~
+Satan~
+Satan, Lord of all evil is here.
+~
+He is one tuff guy.
+~
+65 66234 -1000 S
+99967 -21 -20 100d3+3 5d10+5
+100000 0
+0 0 1
+#704
+guardian demon~
+a guardian demon~
+A huge guardian demon stands here, radiating evil.
+~
+He glares at your and flexes his huge clawed hands.
+~
+3 0 -1000 S
+47 2 2 0d0+0 1d8+32
+100000 0
+0 0 1
+#705
+hulking demon~
+A hulking demon~
+A hulking demon is here, grinning evilly.
+~
+He looks very hungry...
+~
+2051 0 -1000 S
+92 2 2 0d0+0 6d6+132
+100000 0
+0 0 1
+#706
+huge serpent~
+A huge serpent~
+A huge serpent, grinning evilly.
+~
+He looks very hungry...
+~
+2051 0 -1000 S
+28 2 2 0d0+0 6d6+132
+100000 0
+0 0 1
+#707
+illusion~
+(no short description)~
+(no long description)
+~
+~
+1 0 1 S
+3 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#708
+rhino~
+a rhino~
+A rhino is standing here sleeping.
+~
+Rhinos are immovable. But who says you can't try?
+~
+1027 4194360 0 S
+732 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#700
+The Demonic Altar ~
+Here you stand in another Cave that Satan has bestowed his powers upon. 
+Here you will find that this Cave has the power of Restoration ,but in a
+slower healing process.  Only thy Might Gods above can completely restore
+,but Satan can come close.   
+~
+0 1024 0
+D2
+~
+~
+0 -1 701
+S
+#701
+The Caves beneath Hell ~
+Here you stand in the Caves Beneath Hell. The place were Demons hide.
+They hide here beneath Hell for Protection, Strength, and Restoration that
+Satan provides them. But only the chosen cult of Demons may be here under 
+Satan's protection. You look around and see darkness everywhere and smell 
+the burning of flesh.
+~
+0 0 0
+D0
+~
+~
+0 -1 700
+D1
+~
+~
+0 -1 704
+D2
+~
+~
+0 -1 702
+D3
+~
+~
+0 -1 703
+D4
+~
+~
+0 -1 706
+D5
+~
+~
+0 -1 705
+S
+#702
+The Mystical Cave~
+You see a Cave with unknown powers not even Satan himself can explain. 
+This Cave has the power to take you where you say. But it is limited to where 
+you can go. You look around and see a Sign.
+~
+0 0 0
+E
+sign~
+The sign seems to be a list of areas.  The following are listed:
+Drow, MIdgaard, Doom, Atlantis, and staff member.
+~
+T
+drow~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 5134 0
+T
+midgaard~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 71 0
+T
+doom~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 11053 0
+T
+atlantis~
+$n is engulfed in flames and vanishes
+
+into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 8130 0
+T
+staff~
+$n is engulfed in flames and vanishes into the ground!~
+You are engulfed in flames and vanish into the ground!~
+all~
+16384 278 0
+D0
+~
+~
+0 -1 701
+S
+#703
+The Demonic Training Cave~
+You stand here looking at this Cave that seems worthless.But little
+do you know this is one of the Caves that is affected by Satan's powers.
+Strength and Restoration it will provide you. This is the place where
+Satan himself trained to become what he is today. You look in the corner and 
+see a Statue of Satan.
+~
+0 0 0
+D1
+~
+~
+0 -1 701
+S
+#704
+The Demonic Sparing Cave~
+This is a Cave that is not affected by any of Satan's powers. But it is
+powerless for a reason. You look around seeing a Cave full of weapons and 
+choped off limbs.
+~
+0 0 0
+D3
+~
+~
+0 -1 701
+S
+#705
+The Demonic Donation Cave~
+Don't know if I wanna put a desc here or can't think of one now.
+~
+0 0 0
+D4
+~
+~
+0 -1 701
+S
+#706
+The Gates of Hell~
+You stand here and see these magnificent Gates strong enough to hol back
+an enitre army.  You examine the Gates carefuly and see they were crafted by
+Yoda himself.  You start to hear screaming and shrieks of terror from the
+other side of The Gates Of Hell.  You heard a loud and terrifying voice that
+says "None shall pass except Vladd's worthy Demons!"  
+~
+0 0 0
+D4
+~
+~
+0 -1 707
+D5
+~
+~
+0 -1 701
+S
+#707
+Satan's Hell~
+You see your almighty god Satan. He looks at you and says, "You are a
+worthy Demon." You look and see a walkway surrounded by fire and lava. You see 
+Men, Women, and Children burning in the fires for eternity screaming and 
+yelling from the excruciating pain. You peer up and see the founder of The 
+Caves Beneath Hell and to the north you see Vladd your creator's hell.
+~
+0 0 0
+D0
+~
+~
+0 -1 710
+D1
+~
+~
+0 -1 708
+D3
+~
+~
+0 -1 709
+D4
+~
+~
+0 -1 711
+D5
+~
+~
+0 -1 706
+S
+#708
+Cerberus's Dog House~
+You walk into the Dog House of Cerberus's and try not to make a sound.
+Cerberus is the most feared animal yet. More terrifying then Fenris. If you 
+make one sound he will rip you into pieces and bite off your limbs. This Dog is
+one like you have never seen before. Cerberus is the pet of Hades. You look at 
+Cerberus then began to shiver uncontrolably.
+~
+0 0 0
+D3
+~
+~
+0 -1 707
+S
+#709
+Hade's Throne Room~
+Here stand the God of the UnderWorld, Hades. The home of the Dead. He in
+the beganing was Hell. But then Satan came along and Defeated Hades. Now Hade's
+is Satan's and Hell's protector. He is a deadly foe and will kill you with the 
+snap of his finger. You peer around the room seeing nothing but Hade's 
+torturing a little girl.
+~
+0 0 0
+D1
+~
+~
+0 -1 707
+S
+#710
+The Damned~
+This is where all the spirits of the underworld go for their final resting
+place. Yes, it is sad... even the undead dies too.
+~
+0 0 0
+D2
+~
+~
+0 -1 707
+S
+#711
+Yoda The Demonic Prince's Lair~
+You stand here in Yoda's Lair. One of the greates Demonic warriors around.
+Yoda the Demon who created The Caves Beneath Hell. You neal down on one knee 
+and worship Yoda. For if you do not he will KILL YOU! Yoda is hot headed always
+eager to enter battle and always first to charge. He lives for battles and dies
+for them. But becarful you don't cross him. He will eventualy find a way to get
+you.
+~
+0 0 0
+D5
+~
+~
+0 -1 707
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 703 1 701
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

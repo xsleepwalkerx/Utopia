@@ -1,0 +1,888 @@
+#AREADATA
+Name        Dojo of the Shadow Warriors~
+Builders    Imms~
+VNUMs       16500 16999
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#16500
+ninja shadow~
+A Shadow Guard~
+The very shadows themselves leaps toward you!
+~
+You see pitch blackness...
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#16501
+ninja shadow assassin~
+A Shadow Assassin~
+You see the glint of steel flashing at you.
+~
+You see pitch blackness...
+~
+1 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#16502
+ninja shadow~
+A Night Blade~
+A powerful figure fades from the shadows to kill you!
+~
+You see pitch blackness...
+~
+3 136 1000 S
+990 0 0 0d0+0 0d0+0
+0 0
+0 0 2
+#16503
+jailer~
+The Jailer~
+A small, evil looking man shuffles across the floor.
+~
+Working at this kingdom for many years, this sly human knows the power of 
+the almighty dollar and will bend rules to suit his preferences. Dont
+underestimate him though, when it is time to chop off heads, NOONE does
+it better.
+~
+3 0 -1000 S
+980 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#16504
+rogue priest~
+A Rogue Priest~
+This monk is here to wallop in on the money.
+~
+Motivated by greed and the sheer lust of gold, this renegade priest
+joins rank with the infamous ninjas to prosper in all of the wealth.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#16505
+ninja grandmaster~
+A GrandMaster~
+This old ninja is here to teach you some tricks.
+~
+This master ninja love sparring with his counterparts to make fools
+out of them.
+~
+3 0 1000 S
+970 0 0 0d0+0 0d0+0
+10000 0
+0 0 1
+#0
+
+
+#ROOMS
+#16500
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D0
+~
+~
+0 -1 16501
+D2
+~
+~
+0 -1 16030
+S
+#16501
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D4
+~
+~
+0 -1 16502
+D2
+~
+~
+0 -1 16500
+S
+#16502
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D1
+~
+~
+0 -1 16503
+D5
+~
+~
+0 -1 16501
+S
+#16503
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D1
+~
+~
+0 -1 16504
+D3
+~
+~
+0 -1 16502
+S
+#16504
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D1
+~
+~
+0 -1 16505
+D3
+~
+~
+0 -1 16503
+S
+#16505
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D4
+~
+~
+0 -1 16506
+D3
+~
+~
+0 -1 16504
+S
+#16506
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D5
+~
+~
+0 -1 16505
+D2
+~
+~
+0 -1 16507
+S
+#16507
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D0
+~
+~
+0 -1 16506
+D2
+~
+~
+0 -1 16508
+S
+#16508
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D3
+~
+~
+0 -1 16509
+D0
+~
+~
+0 -1 16507
+S
+#16509
+A path of Silent Whispers~
+You feel a chill down your spine as you continue the hazadrous trek
+to the infamous Dojo of the Shadow Warriors, the headquarters of the
+most Elite ninja in Utopia.
+~
+0 0 0
+D4
+~
+~
+0 -1 16510
+D1
+~
+~
+0 -1 16508
+S
+#16510
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D5
+~
+~
+0 -1 16509
+D0
+~
+~
+0 -1 16511
+D1
+~
+~
+0 -1 16512
+D2
+~
+~
+0 -1 16513
+D3
+~
+~
+0 -1 16514
+S
+#16511
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D0
+~
+~
+0 -1 16515
+D1
+~
+~
+0 -1 16516
+D2
+~
+~
+0 -1 16510
+D3
+~
+~
+0 -1 16517
+S
+#16516
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D3
+~
+~
+0 -1 16511
+D2
+~
+~
+0 -1 16512
+S
+#16517
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D1
+~
+~
+0 -1 16511
+D2
+~
+~
+0 -1 16514
+S
+#16514
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D0
+~
+~
+0 -1 16517
+D1
+~
+~
+0 -1 16510
+D2
+~
+~
+0 -1 16518
+S
+#16512
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D0
+~
+~
+0 -1 16516
+D3
+~
+~
+0 -1 16510
+D2
+~
+~
+0 -1 16519
+S
+#16519
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D0
+~
+~
+0 -1 16512
+D3
+~
+~
+0 -1 16513
+S
+#16518
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D0
+~
+~
+0 -1 16514
+D1
+~
+~
+0 -1 16513
+S
+#16513
+The Silent Garden~
+Noticing the deep silence in this room, you see a trail of blood at
+your feet. Looking upwards, you see the head of many foes who dare try
+to invade this fortress... and had paid for it.
+~
+0 0 0
+D0
+~
+~
+0 -1 16510
+D1
+~
+~
+0 -1 16519
+D3
+~
+~
+0 -1 16518
+S
+#16515
+The Doors of Secrecy~
+Those who dare pass through these doors must swore an oath never to
+betray the secrets of this dojo or suffer a horrible death at the hands
+of elite shadow warriors.
+~
+0 0 0
+D0
+~
+~
+0 -1 16520
+D2
+~
+~
+0 -1 16511
+S
+#16520
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D0
+~
+~
+0 -1 16521
+D1
+~
+~
+0 -1 16522
+D3
+~
+~
+0 -1 16523
+D2
+~
+~
+0 -1 16515
+S
+#16523
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D1
+~
+~
+0 -1 16520
+D0
+~
+~
+0 -1 16524
+S
+#16522
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D3
+~
+~
+0 -1 16520
+D0
+~
+~
+0 -1 16525
+S
+#16525
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D3
+~
+~
+0 -1 16521
+D0
+~
+~
+0 -1 16526
+D2
+~
+~
+0 -1 16522
+S
+#16524
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D1
+~
+~
+0 -1 16521
+D0
+~
+~
+0 -1 16527
+D2
+~
+~
+0 -1 16523
+S
+#16521
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D1
+~
+~
+0 -1 16525
+D3
+~
+~
+0 -1 16524
+D0
+~
+~
+0 -1 16529
+D4
+~
+~
+0 -1 16528
+D2
+~
+~
+0 -1 16520
+D5
+~
+~
+0 -1 16543
+S
+#16528
+The Ultimate Throne~
+This is where the True Ninja Master watches over his domain,
+making stragetic decisions in pitch darkness with his fellow
+shadow warriors.
+~
+0 0 0
+D5
+~
+~
+0 -1 16521
+S
+#16529
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D1
+~
+~
+0 -1 16526
+D3
+~
+~
+0 -1 16527
+D2
+~
+~
+0 -1 16521
+S
+#16527
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D1
+~
+~
+0 -1 16529
+D2
+~
+~
+0 -1 16524
+D4
+~
+~
+0 -1 16541
+S
+#16526
+Pitch Darkness~
+Don't matter how hard you try, you just can't get your eyes adjusted for
+the pitch blackness inside this dojo. You then realise that this is a test
+for the shadow warriors to move around silently and perfectly without
+sight.
+~
+0 0 0
+D3
+~
+~
+0 -1 16529
+D2
+~
+~
+0 -1 16525
+D5
+~
+~
+0 -1 16530
+S
+#16530
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D4
+~
+~
+0 -1 16526
+D5
+~
+~
+0 -1 16531
+S
+#16531
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D4
+~
+~
+0 -1 16530
+D5
+~
+~
+0 -1 16532
+S
+#16532
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D4
+~
+~
+0 -1 16531
+D5
+~
+~
+0 -1 16533
+S
+#16533
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D4
+~
+~
+0 -1 16532
+D3
+~
+~
+0 -1 16534
+S
+#16534
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D1
+~
+~
+0 -1 16533
+D3
+~
+~
+0 -1 16535
+S
+#16535
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D1
+~
+~
+0 -1 16534
+D3
+~
+~
+0 -1 16536
+S
+#16536
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D0
+~
+~
+0 -1 16537
+D1
+~
+~
+0 -1 16535
+S
+#16537
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D0
+~
+~
+0 -1 16538
+D2
+~
+~
+0 -1 16536
+S
+#16538
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D0
+~
+~
+0 -1 16539
+D2
+~
+~
+0 -1 16537
+S
+#16539
+Secret PassageWay~
+Perfectly hidden in the pitch darkness, it is a miracle that you have
+stumbled into this ancient path. Wondering through it, you sense an
+evil darkness lurking far, far within...
+~
+0 0 0
+D5
+~
+~
+0 -1 16540
+D2
+~
+~
+0 -1 16538
+S
+#16540
+The Torture Room~
+Ninjas aren't the most pleasant people to get angry... for when they
+do, they will do whatever it take to dish out revenge to their foes,
+and unfortunately for you... prisoners.
+~
+0 0 0
+D4
+~
+~
+0 -1 16539
+S
+#16541
+The Spiritual Room~
+Here in this room, ninjas go to to confer with their priest over
+spiritual matters.
+~
+0 0 0
+D5
+~
+~
+0 -1 16527
+D0
+~
+~
+0 -1 16542
+S
+#16542
+The Mysterious Room of Regeneration~
+As you step in this room, you felt a tingle of power flowing through
+you... rejuverating your tired body as it checks your wounds.
+~
+0 0 0
+D2
+~
+~
+0 -1 16541
+S
+#16543
+Faded Invasion Room~
+This room is pitch black saved for small spirals of light. These
+lights at any time can be used by the legendary shadow warriors
+to infiltrate other territories when they so desired. A small book
+is outlined in the shadows here, waiting to be read.
+~
+0 0 0
+T
+empire~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 4500 0
+T
+camelot~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 2500 0
+T
+apocalypse~
+$n steps through the shimmering portal.~
+Your step through the shimmering portal arriving at your new location.~
+all~
+16384 3500 0
+D0
+~
+~
+0 -1 16521
+S
+#0
+
+#SPECIALS
+M 16500 spec_kguard Load to: Hooded Hunter
+M 16501 spec_kguard_two Load to: Hooded Hunter
+M 16502 spec_kguard Load to: Hooded Hunter
+M 16503 spec_vladd_decap Load to: Hooded Hunter
+S
+
+#RESETS
+S
+
+#$

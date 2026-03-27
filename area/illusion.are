@@ -1,0 +1,1007 @@
+#AREADATA
+Name        Forest of Illusions~
+Builders    Imms~
+VNUMs       20200 20299
+Security    9
+Flags       0
+Land        0
+End
+
+#MOBILES
+#20200
+wolf~
+A hungry wolf~
+A large wolf sniffs the air as he smells its next meal.
+~
+Unable to eat for days, this wolf looks hungrily at you
+licking it jaws.
+~
+9 136 0 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20201
+ghost~
+A hovering ghost~
+A ghostly figure crepts towards you.
+~
+Damned in the afterlife for dying shamefully, this foul
+creature resolve to torment the lives of all travellers in
+this dangerous forest.
+~
+9 136 0 S
+960 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#20202
+quixtoa~
+Don Quixtoa~
+An old, fragile man is here stroddling around with his cane.
+~
+Living out most of his life in this strange forest, Don Quixtoa is
+no stranger to the forces of good and evil. However, quite recently,
+he lost the last of his family and he have no more remorse about the
+world... his only wish is for him to join them in the house of God.
+~
+11 136 1000 S
+666 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+#ROOMS
+#20200
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 825
+D3
+~
+~
+0 -1 20201
+S
+#20201
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20200
+D0
+~
+~
+0 -1 20202
+S
+#20202
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20203
+D2
+~
+~
+0 -1 20201
+S
+#20203
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20204
+D1
+~
+~
+0 -1 20202
+S
+#20204
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20205
+D1
+~
+~
+0 -1 20203
+S
+#20205
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D2
+~
+~
+0 -1 20206
+D1
+~
+~
+0 -1 20204
+S
+#20206
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20205
+D3
+~
+~
+0 -1 20207
+S
+#20207
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20208
+D1
+~
+~
+0 -1 20206
+S
+#20208
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20209
+D1
+~
+~
+0 -1 20207
+S
+#20209
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20210
+D2
+~
+~
+0 -1 20208
+S
+#20210
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20211
+D1
+~
+~
+0 -1 20209
+D2
+~
+~
+0 -1 20212
+S
+#20212
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20210
+D1
+~
+~
+0 -1 20213
+S
+#20213
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20212
+D2
+~
+~
+0 -1 20214
+S
+#20214
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20213
+D2
+~
+~
+0 -1 20215
+S
+#20215
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20216
+D0
+~
+~
+0 -1 20214
+S
+#20216
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20217
+D1
+~
+~
+0 -1 20215
+S
+#20217
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20216
+D5
+~
+~
+0 -1 20218
+S
+#20218
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20217
+D2
+~
+~
+0 -1 20219
+S
+#20219
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20218
+D1
+~
+~
+0 -1 20220
+S
+#20220
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20219
+D1
+~
+~
+0 -1 20221
+D2
+~
+~
+0 -1 20222
+S
+#20222
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20220
+D1
+~
+~
+0 -1 20223
+S
+#20223
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20222
+D2
+~
+~
+0 -1 20224
+S
+#20224
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20223
+D3
+~
+~
+0 -1 20225
+S
+#20225
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20226
+D1
+~
+~
+0 -1 20224
+S
+#20226
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D5
+~
+~
+0 -1 20227
+D2
+~
+~
+0 -1 20225
+S
+#20227
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D5
+~
+~
+0 -1 20500
+D4
+~
+~
+0 -1 20226
+S
+#20221
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20220
+D0
+~
+~
+0 -1 20228
+S
+#20228
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20229
+D2
+~
+~
+0 -1 20221
+S
+#20229
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20230
+D3
+~
+~
+0 -1 20228
+S
+#20230
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D2
+~
+~
+0 -1 20231
+D5
+~
+~
+0 -1 20229
+S
+#20231
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20232
+D0
+~
+~
+0 -1 20230
+S
+#20232
+End of the Forest~
+As your face once again embrace the radiant sunshine, you see
+that you are at the foot of a hill rumoured to be the location
+of the powerful Empire. Hearing the clash of steel in the distance,
+your doubts have been reassured.
+~
+0 0 1
+D1
+~
+~
+0 -1 20231
+D2
+~
+~
+0 -1 4000
+S
+#20211
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D2
+~
+~
+0 -1 20210
+D4
+~
+~
+0 -1 20233
+S
+#20233
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20234
+D5
+~
+~
+0 -1 20211
+S
+#20234
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20235
+D5
+~
+~
+0 -1 20233
+S
+#20235
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20236
+D3
+~
+~
+0 -1 20234
+S
+#20236
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20237
+D2
+~
+~
+0 -1 20235
+S
+#20237
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D2
+~
+~
+0 -1 20238
+D1
+~
+~
+0 -1 20236
+S
+#20238
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20239
+D0
+~
+~
+0 -1 20237
+S
+#20239
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20240
+D5
+~
+~
+0 -1 20238
+S
+#20240
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20241
+D0
+~
+~
+0 -1 20242
+D5
+~
+~
+0 -1 20239
+S
+#20241
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20240
+D0
+~
+~
+0 -1 20243
+S
+#20243
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20244
+D2
+~
+~
+0 -1 20241
+S
+#20244
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20245
+D1
+~
+~
+0 -1 20243
+S
+#20245
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20244
+D2
+~
+~
+0 -1 20246
+S
+#20246
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20245
+D2
+~
+~
+0 -1 20247
+S
+#20247
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20248
+D0
+~
+~
+0 -1 20246
+S
+#20248
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20247
+D0
+~
+~
+0 -1 20249
+S
+#20249
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20250
+D2
+~
+~
+0 -1 20248
+S
+#20250
+Sandy Path~
+As you leave the forest, you can see the shoreline of this amazing
+island. Be careful as monsters lurk about.
+~
+0 0 1
+D5
+~
+~
+0 -1 20249
+D0
+~
+~
+0 -1 21000
+S
+#20242
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D2
+~
+~
+0 -1 20240
+D5
+~
+~
+0 -1 20251
+S
+#20251
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20252
+D4
+~
+~
+0 -1 20242
+S
+#20252
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D2
+~
+~
+0 -1 20253
+D3
+~
+~
+0 -1 20251
+S
+#20253
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20252
+D5
+~
+~
+0 -1 20254
+S
+#20254
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20255
+D4
+~
+~
+0 -1 20253
+S
+#20255
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20256
+D2
+~
+~
+0 -1 20254
+S
+#20256
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20257
+D1
+~
+~
+0 -1 20255
+D5
+~
+~
+0 -1 20261
+S
+#20257
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D3
+~
+~
+0 -1 20258
+D1
+~
+~
+0 -1 20256
+S
+#20258
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D5
+~
+~
+0 -1 20259
+D1
+~
+~
+0 -1 20257
+S
+#20259
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20258
+D5
+~
+~
+0 -1 20260
+S
+#20260
+End of The Forest~
+You hear a loud howl in the air signaling to you that you
+are now in wolf territory. These Children of the Garou will
+fight those who allies themselves with the Wyrm so be
+careful.
+~
+0 0 1
+D4
+~
+~
+0 -1 20259
+D0
+~
+~
+0 -1 14000
+S
+#20261
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D4
+~
+~
+0 -1 20256
+D2
+~
+~
+0 -1 20262
+S
+#20262
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 20261
+D3
+~
+~
+0 -1 20263
+S
+#20263
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20262
+D3
+~
+~
+0 -1 20264
+S
+#20264
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D1
+~
+~
+0 -1 20263
+D5
+~
+~
+0 -1 20265
+S
+#20265
+Forest of Illusions~
+In this myserious forest, everything looks strange.
+~
+0 0 1
+D0
+~
+~
+0 -1 19700
+D4
+~
+~
+0 -1 20264
+S
+#0
+
+#RESETS
+S
+
+
+#$

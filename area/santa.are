@@ -1,0 +1,884 @@
+#AREADATA
+Name        #RS#7a#Rn#7t#Ra#7s #7Ca#0st#7le~
+Builders    Snack~
+VNUMs       35001 35050
+Security    1
+Recall      800
+Land        0
+End
+
+
+
+#MOBILES
+#35003
+Christmas spirits~
+a floating Christmas  spirit~
+A #RChr#7ist#Rmas Sp#7ir#Rit#g is hovering here. 
+~
+~
+19 4718592 0 S
+5500 0 0 60d20+3 0d0+0
+0 0
+0 0 1
+#35004
+a fat old man~
+a fat old man~
+#7a f#Cat o#Cld ma#7n is h#Cere tr#7yi#Cng to g#7et dr#Cunk.
+~
+~
+29 0 0 S
+5000 0 0 50d20+3 0d0+0
+0 0
+0 0 1
+#35006
+santas head docking clerk~
+Docking clerk~
+#RSa#7n#Rta's h#7ar#Rd w#7or#Rking #7El#Rfs#g at work #7"Please be quiet" 
+~
+~
+19 0 0 S
+6000 0 0 60d20+3 0d0+0
+0 0
+0 0 1
+#35007
+Santa's guards~
+Santas Guard~
+#GSt#Rro#lng L#Roo#lki#Rng E#llfs #Rpo#lst G#Ruar#ld h#Re#lre
+~
+~
+25 512 0 S
+7000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35009
+toy rabbit~
+a toy rabbit~
+A #Cfew t#Roy r#Cab#Rbi#Cts a#Rre p#Clay#Ri#Cng h#Re#Cre.
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 2
+#35010
+a toy bear~
+toy bear~
+A #Pfe#Cw t#Poy #Cbe#Pa#Crs a#Pre h#Ce#Pre p#Clay#Ping f#Coo#Ptb#Cal#Pl.
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35013
+Head candy Elf~
+Head Candy Elf~
+#RT#7he H#Rea#7d E#Rl#7f #gof #0T#Rh#0e #PC#Ran#Pdy#g #CWo#0rk#Cs#0ho#Cp#g is here.
+~
+~
+11 0 0 S
+6000 0 0 100d20+3 0d0+0
+0 0
+0 0 0
+#35014
+Orange candy~
+a Orange candy~
+A #Cme#0lt#Cing #sOrange #Cca#0n#Cdy#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35015
+grape candy~
+a grape candy~
+A #Cme#0lt#Cing #PPurple Grape #Cca#0n#Cdy#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35016
+apple candy~
+a Apple candy~
+A #7sw#ye#7et #Rapple #pca#Cnd#py #Cis h#7e#Cre.
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35017
+Straberry candy~
+straberry candy~
+#ga #ysweet #Csm#7el#Cli#7ng #rred #RStrawberry #gis here.
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 0
+#35018
+blueberry candy~
+blueberry candy~
+#ga #7br#Pig#7ht #0Fr#Re#0sh #LBlueberry#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35019
+vanilla candy~
+Vanilla candy~
+#ga #ysweet #sV#sa#sn#si#sl#sl#sa #PCa#7n#Pdy #gis here.
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35020
+Pineapple candy~
+Pineapple candy~
+A #Rs#7w#Reet #Csme#7ll#Cing #y"Yellow Pineapple" #Cflavor #PCandy#g is here.
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35021
+Peach candy~
+a peach candy~
+A #Clo#7ve#Cly #qpeach #yc#7an#Cdy #Ris h#0e#Rre.
+~
+~
+1 0 0 S
+5000 0 0 100d3+3 0d0+0
+0 0
+0 0 1
+#35022
+head toy Elf~
+Head elf of toys~
+#0Th#7e H#Cea#Pd #RE#7lf #Cof t#yhe T#Roy F#7lo#Ror#g is here.
+~
+~
+1 0 0 S
+6000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35023
+doll toy~
+doll toy~
+#0a #7ha#Clf-#Rma#7de #ydoll#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+2 0d0+0
+0 0
+0 0 2
+#35024
+dog toy~
+a cute dog toy~
+#0a #Ccu#Pt#Ce #Lha#rl#cf-#lma#Rde #qDoggy toy#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35025
+kitty cat~
+a kitty cat~
+#0a #7cu#0te #yha#7l#qf-#lma#Cde #7ki#Ct#7ty #Rc#7a#Rt #0t#7o#0y#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 2
+#35026
+Ps2~
+a video system~
+#0a #7half-#0cre#7at#0ed #yP#Ps#y2 #ss#sy#ss#st#se#sm#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35027
+x-box system~
+a video x-box system~
+#0a #7half-#0cre#7at#0ed #ySuper #RX-#7b#Ro#7x #ss#sy#ss#st#se#sm#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35028
+car workshop~
+a car workshop~
+#0a #sh#sa#sl#sf#y-#sc#sr#se#sa#st#se#sd#g 2002 #7mo#Rd#7el #RL#Cim#Ro#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35029
+gamecube~
+a gamecube system~
+#0a #7half-#0cre#7at#0ed #ySuper #RG#7a#Rm#7e#RC#7u#Rb#7e #ss#sy#ss#st#se#sm#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35030
+undead bible~
+Undead bible~
+#0a #0u#7n#0h#7o#0l#7y #sh#sa#sl#sf#y-#sw#sr#si#st#st#se#sn #7B#0i#7b#0l#7e#g is here
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35034
+a little elf~
+Santas elf~
+#RS#7a#Rn#7t#Ra#7s#g #y"#0li#7tt#0le #RE#7l#Rf#y" #CHe#7lp#Cer #gis here walking around
+~
+~
+1 0 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35036
+Santa~
+Santa Caulse~
+#RS#7a#Rn#7t#Ra #gis here drinking #7Vodka #gand #Cea#0ti#Cng #qCo#Co#qkies.
+~
+~
+1 131200 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#35041
+miss caluse~
+miss Caluse~
+#0a #7old #glady #Pwith #La #Rt#y-#gshirt #ss#sa#sy#si#sn#sg #y"#7I am Santa's Wife#y"#g is sleeping here.
+~
+~
+1 131200 0 S
+5000 0 0 100d20+3 0d0+0
+0 0
+0 0 2
+#35042
+Head Elf~
+Head elf~
+#0The #CHead-#7Bitch #gof #RS#7a#Rn#7t#Ra#7'#Rs #yE#Pl#yf#Ps
+~
+~
+1 0 0 S
+8000 0 0 100d20+3 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#35001
+#7T#Rh#7e Ga#Rtew#7ay to S#Rant#7a's Ca#Rst#7le~
+~
+0 0 0
+D0
+~
+~
+0 0 35002
+S
+#35002
+#0a sw#7irl#0in#7g p#0a#7th w#0a#7y~
+~
+0 0 0
+D2
+~
+~
+0 0 35001
+D3
+~
+~
+0 0 35003
+S
+#35003
+#0a sw#7irl#0in#7g #0in#7te#0rs#7ec#0ti#7on~
+~
+0 0 0
+D0
+~
+~
+0 0 35004
+D1
+~
+~
+0 0 35002
+D4
+~
+~
+0 0 35005
+S
+#35004
+#7Sa#Rnt#7a's p#Rit S#7to#Rp f#7or t#Rhe Pu#7bl#Ric~
+~
+0 4 0
+D2
+~
+~
+0 0 35003
+S
+#35005
+#0a sw#7irl#0in#7g p#0a#7th p#0at#7h~
+~
+0 4 0
+D3
+~
+~
+0 0 35006
+D5
+~
+~
+0 0 35003
+S
+#35006
+#7No#Rrth P#7ol#Rl D#7oc#Rki#7ng C#Ren#7ter~
+~
+0 0 0
+D1
+~
+~
+0 0 35005
+D5
+~
+~
+0 0 35007
+S
+#35007
+#7Sa#0nt#7a's #0Gu#7ar#0d p#7os#0t ~
+~
+0 0 0
+D0
+~
+~
+0 0 35008
+D4
+~
+~
+0 0 35006
+S
+#35008
+#REn#7tr#Ran#7ce #Rto S#7an#Rta#7's Ca#Rst#7le~
+~
+0 0 0
+D1
+~
+~
+0 0 35009
+D2
+~
+~
+0 0 35007
+S
+#35009
+#RPl#7ay#Rin#7g #Rgr#7ou#Rn#7ds~
+~
+0 0 0
+D0
+~
+~
+0 0 35010
+D3
+~
+~
+0 0 35008
+S
+#35010
+#RPl#7ay#Rin#7g #Rgr#7ou#Rn#7ds~
+~
+0 0 0
+D2
+~
+~
+0 0 35009
+D4
+~
+~
+0 0 35013
+S
+#35011
+~
+~
+0 4 0
+S
+#35012
+~
+~
+0 4 0
+S
+#35013
+#7S#Ra#7nt#Ra's #PCa#7n#Pdy #7Wo#Rrk#7sh#Rop #7a#Rr#7ea~
+~
+0 0 0
+D1
+~
+~
+0 0 35017
+D3
+~
+~
+0 0 35014
+D4
+~
+~
+0 0 35022
+D5
+~
+~
+0 0 35010
+S
+#35014
+#LT#7h#7e #sOrange #Pc#7an#Pdy W#Lor#Rks#Phop~
+~
+0 0 0
+D1
+~
+~
+0 0 35013
+D3
+~
+~
+0 0 35015
+S
+#35015
+#7T#0h#7e #PGrape #0Ca#Cn#0dy #7Wo#0rk#gs#Chop~
+~
+0 0 0
+D1
+~
+~
+0 0 35014
+D3
+~
+~
+0 0 35016
+S
+#35016
+#7T#0h#7e #RApple #PCa#Cn#Pdy #yWo#Rrk#Csh#7op~
+~
+0 0 0
+D1
+~
+~
+0 0 35015
+D3
+~
+~
+0 0 35021
+S
+#35017
+#0T#gh#0e #RStrawberry #0Ca#yn#0dy #PWo#Rrk#Pshop ~
+~
+0 0 0
+D1
+~
+~
+0 0 35018
+D3
+~
+~
+0 0 35013
+S
+#35018
+#gThe #LBlueberry #CCandy #yWor#Cks#yhop~
+~
+0 4 0
+D1
+~
+~
+0 0 35019
+D3
+~
+~
+0 0 35017
+S
+#35019
+#0T#7h#0e #sVanilla #yCa#gn#ydy #RWo#grk#Rs#0hop~
+~
+0 4 0
+D1
+~
+~
+0 0 35020
+D3
+~
+~
+0 0 35018
+S
+#35020
+T#0he #yPineapple #gCa#wn#gdy W#Cor#7ks#Chop~
+~
+0 4 0
+D3
+~
+~
+0 0 35019
+S
+#35021
+#qT#Lh#ce #qPeach #yCa#Cndy Wo#Lrks#Rhop~
+~
+0 0 0
+D1
+~
+~
+0 0 35016
+S
+#35022
+#RSa#7n#Rta's #7To#Ry S#7h#Ro#7p~
+~
+0 0 0
+D1
+~
+~
+0 0 35027
+D3
+~
+~
+0 0 35023
+D4
+~
+~
+0 0 35031
+D5
+~
+~
+0 0 35013
+S
+#35023
+#CThe #yDoll #PWorkshop~
+~
+0 0 0
+D1
+~
+~
+0 0 35022
+D3
+~
+~
+0 0 35024
+S
+#35024
+#CThe #qDoggy #rWor#Lks#rhop~
+~
+0 0 0
+D1
+~
+~
+0 0 35023
+D3
+~
+~
+0 0 35025
+S
+#35025
+#yThe #7Ki#Ct#7ty #yWor#Lksh#Pop~
+~
+0 0 0
+D1
+~
+~
+0 0 35024
+D3
+~
+~
+0 0 35026
+S
+#35026
+#CThe #7Ps2 #CSystem #yWorkshop~
+~
+0 0 0
+D1
+~
+~
+0 0 35025
+S
+#35027
+#RThe #RX-#7b#Ro#7x #CS#Ry#Cs#Rt#Ce#Rm #sW#so#sr#sk#ss#sh#so#sp~
+~
+0 0 0
+D1
+~
+~
+0 0 35028
+D3
+~
+~
+0 0 35022
+S
+#35028
+#sT#sh#se #RC#7a#Rr #sW#so#sr#sk#ss#sh#so#sp~
+~
+0 0 0
+D1
+~
+~
+0 0 35029
+D3
+~
+~
+0 0 35027
+S
+#35029
+#yThe #RG#7a#Rm#7e#RC#7u#Rb#7e #CWor#yks#Chop~
+~
+0 0 0
+D1
+~
+~
+0 0 35030
+D3
+~
+~
+0 0 35028
+S
+#35030
+#7The #0U#7n#0h#7o#0l#7y #sW#so#sr#sk#ss#sh#so#sp~
+~
+0 0 0
+D3
+~
+~
+0 0 35029
+S
+#35031
+#RS#7a#Rn#7t#Ra#7'#Rs #7P#Re#7n#Rt#7h#Ro#7u#Rs#7e~
+~
+0 0 0
+D1
+~
+~
+0 0 35037
+D3
+~
+~
+0 0 35032
+D4
+~
+~
+0 0 35042
+D5
+~
+~
+0 0 35022
+S
+#35032
+#CEnt#7ran#Cce #gTo #RSa#7n#Rt#7a#R'#7s #7Bed#0ro#Com~
+~
+0 0 0
+D1
+~
+~
+0 0 35031
+D3
+~
+~
+0 0 35033
+S
+#35033
+#RS#7a#Rn#7t#Ra#7'#Rs #0Guard #Rpost~
+~
+0 4 0
+D1
+~
+~
+0 0 35032
+D3
+~
+~
+0 0 35034
+S
+#35034
+#Ca #ybr#Cig#yht #7ha#Cll#7way~
+~
+0 0 0
+D1
+~
+~
+0 0 35033
+D3
+~
+~
+0 0 35035
+S
+#35035
+#RS#7a#Rn#7t#Ra#7'#Rs #REmergency #7Guards~
+~
+0 4 0
+D1
+~
+~
+0 0 35034
+D4
+~
+~
+0 0 35036
+S
+#35036
+#RS#7a#Rn#7t#Ra#7'#Rs #0B#7e#0d#7r#0o#7o#0m ~
+~
+0 0 0
+D5
+~
+~
+0 0 35035
+S
+#35037
+#CEnt#7ran#Cce #gTo #RM#7i#Rs#7s #RC#7a#Rl#7u#Rs#7e#R'#7s #7Bed#0ro#Com~
+~
+0 0 0
+D1
+~
+~
+0 0 35038
+D3
+~
+~
+0 0 35031
+S
+#35038
+#0Guard #CPost #gfor #RM#7i#Rs#7s #RC#7a#Rl#7u#Rs#7e~
+~
+0 4 0
+D1
+~
+~
+0 0 35039
+D3
+~
+~
+0 0 35037
+S
+#35039
+#Ca #ybr#Cig#yht #7ha#Cll#7way~
+~
+0 0 0
+D1
+~
+~
+0 0 35040
+D3
+~
+~
+0 0 35038
+S
+#35040
+#RM#7i#Rs#7s #RC#7a#Rl#7u#Rs#7e#R'#7s #REmergency #7Guards~
+~
+0 0 0
+D3
+~
+~
+0 0 35039
+D4
+~
+~
+0 0 35041
+S
+#35041
+#RM#7i#Rs#7s #RC#7a#Rl#7u#Rs#7e#R'#7s #CBedroom~
+~
+0 0 0
+D5
+~
+~
+0 0 35040
+S
+#35042
+#7Head #CBitch's #LRoom#y/#CMain #7Control #gPost~
+~
+0 0 0
+D5
+~
+~
+0 0 35031
+S
+#35043
+~
+~
+0 4 0
+S
+#35044
+~
+~
+0 4 0
+S
+#35045
+~
+~
+0 4 0
+S
+#35046
+~
+~
+0 4 0
+S
+#35047
+~
+~
+0 4 0
+S
+#35048
+~
+~
+0 4 0
+S
+#35049
+~
+~
+0 4 0
+S
+#35050
+~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,134 @@
+#AREADATA
+Name        Heaven~
+Builders    Gogeta~
+VNUMs       712 717
+Security    9
+Flags       0
+Land        0
+End
+
+
+#MOBILES
+#712
+god creator~
+God~
+You are in the presence of a Divine Holiness.
+~
+The creator of good, the forgiver of those who repent their
+evil ways and the watcher of all that is good and evil, God
+waits for your actions.
+~
+3 136 1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#712
+#wThe Chorus of Holiness#n~
+As you float high in the heavens, the very air is filled with the voices of millions
+of angels in unison. In the center of all, the creator awaits. You feel his presence 
+all around you here, soothing your wounds and healing your soul.
+~
+0 0 1
+D5
+~
+~
+0 -1 713
+S
+#713
+#wHeaven#n~
+You are floating in heaven.
+~
+0 0 1
+D0
+~
+~
+0 -1 714
+D1
+~
+~
+0 -1 715
+D2
+~
+~
+0 -1 716
+D3
+~
+~
+0 -1 717
+D4
+~
+~
+0 -1 712
+S
+#714
+#wHeaven#n~
+You are floating in heaven.
+~
+0 0 1
+D2
+~
+~
+0 -1 713
+S
+#715
+#wHeaven#n~
+You are floating in heaven.
+~
+0 0 1
+D3
+~
+~
+0 -1 713
+S
+#716
+#wHeaven#n~
+You are floating in heaven.
+~
+0 0 1
+D0
+~
+~
+0 -1 713
+S
+#717
+#wHeaven#n~
+You are floating in heaven.
+~
+0 0 1
+D1
+~
+~
+0 -1 713
+S
+#0
+
+
+
+#SPECIALS
+M 712 spec_cast_adept Load to: God
+S
+
+
+
+#RESETS
+M 0 712 1 712
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$
