@@ -1,0 +1,100 @@
+#define MONK_DEATH      4096
+#define MONK_HEAL	      8192
+
+/* Stuff for Auras */
+#define A_PRAYER 0
+#define A_MEDITATION 1
+#define A_REARTH 2
+#define A_RFIRE 3
+#define A_RCOLD 4
+#define A_RTHUNDER 5
+#define A_VIGOR 6
+#define A_FANATICISM 7
+#define A_MIGHT 8
+#define A_CONCENTRATION 9
+#define A_HFIRE 10
+#define A_HFREEZE 11
+#define A_HSHOCK 12
+#define A_THORNS 13
+#define A_SANCTUARY 14
+#define A_CONVICTION 15
+#define A_CHARGE 16
+#define A_HAMMER 17
+#define A_CUTTER 18
+#define A_POINTS 19
+#define A_HEALING 20
+#define A_AIM 21
+#define A_CLEANSING 22
+#define A_STRENGTH 23
+#define A_SPEED 24
+#define A_REDEMPTION 25
+#define A_SALVATION 26
+#define A_FAITH 27
+#define A_LTAP 28
+#define A_DVISION 29
+#define A_BSHIELD  30
+#define A_ADAMAGE 31
+#define A_IMADIEN 32
+#define A_WEAKEN 33
+#define A_RAGE 34
+#define A_RHOLY 35
+#define A_RDARK 36
+
+
+#define G_PRAYER        1
+#define G_MEDITATION    2
+#define G_REARTH        4
+#define G_RFIRE         8
+#define G_RCOLD         16
+#define G_RTHUNDER      32
+#define G_VIGOR         64
+#define G_FANATICISM    128
+#define G_MIGHT         256
+#define G_CONCENTRATION 512
+#define G_HFIRE         1024
+#define G_HFREEZE       2048
+#define G_HSHOCK        4096
+#define G_THORNS        8192
+#define G_SANCTUARY     16384
+#define G_CONVICTION    32768
+#define G_HEALING       65536
+#define G_AIM           131072
+#define G_CLEANSING     262144
+#define G_STRENGTH      524288
+#define G_SPEED         1048576
+#define G_RDARK         2097152
+#define G_RHOLY         4194304
+#define G_FAITH         8388608
+#define G_LTAP          16777216
+#define G_DVISION       33554432
+#define G_BSHIELD       67108864
+#define G_ADAMAGE       134217728
+#define G_IMADIEN       268435456    
+#define G_WEAKEN        536870912
+#define G_RAGE          1073741824
+
+/* Abilities */
+#define AWARE		0
+#define BODY		1
+#define COMBAT		2
+#define SPIRIT		3
+
+/* Chi */
+#define CURRENT		0
+#define MAXIMUM		1
+
+/* Abilities */
+#define SICE            0
+#define SFIRE           1
+#define SEARTH          2
+#define STHUNDER        3
+#define SHOLY           4
+#define SDARK           5
+#define SMOON           6
+
+#define AFIRE           0
+#define AICE            1
+#define APOISON         2
+#define A_FOCUS         3
+#define A_BOWS          4
+
